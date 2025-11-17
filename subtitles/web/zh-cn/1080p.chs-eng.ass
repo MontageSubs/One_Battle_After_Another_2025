@@ -17,7 +17,7 @@ Style: Music,Microsoft YaHei,21,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.27,0:00:15.96,Note,,0,0,0,,{\an2}（华纳兄弟影片公司）
+Dialogue: 0,0:00:10.27,0:00:15.97,Note,,0,0,0,,{\an2}（华纳兄弟影业）
 Dialogue: 0,0:00:49.90,0:00:56.36,Note,,0,0,0,,{\an2}（奥泰梅萨移民拘留中心）
 Dialogue: 0,0:01:27.48,0:01:33.32,Note,,0,0,0,,{\an2}（美国-墨西哥边境）
 Dialogue: 0,0:01:33.40,0:01:34.66,Default,,0,0,0,,欢迎\NWelcome.
@@ -2589,105 +2589,118 @@ Dialogue: 0,2:33:29.15,2:33:30.44,Default,,0,0,0,,还下着雨\NWell, it's raini
 Dialogue: 0,2:33:31.79,2:33:32.62,Default,,0,0,0,,嘿\NHey!
 Dialogue: 0,2:33:33.77,2:33:34.78,Default,,0,0,0,,小心点儿\NBe careful.
 Dialogue: 0,2:33:35.05,2:33:36.23,Default,,0,0,0,,才不要\NI won't.
-Dialogue: 0,2:33:58.17,2:34:00.17,Note,,0,0,0,,{\an8}《一战再战》
-Dialogue: 0,2:34:00.25,2:34:02.22,Default,,0,0,0,,她是一个美国女孩\N♪ Well, she was an American girl ♪
-Dialogue: 0,2:34:02.30,2:34:04.30,Default,,0,0,0,,{\an8}导演及编剧\N保罗·托马斯·安德森
-Dialogue: 0,2:34:04.38,2:34:05.59,Default,,0,0,0,,从小到大充满希望\N♪ Raised on promises ♪
-Dialogue: 0,2:34:06.47,2:34:10.66,Default,,0,0,0,,{\an8}制片人\N亚当·索姆纳
-Dialogue: 0,2:34:08.55,2:34:09.85,Default,,0,0,0,,她忍不住想\N♪ She couldn't help thinkin' That there ♪
-Dialogue: 0,2:34:09.93,2:34:10.52,Default,,0,0,0,,在别的地方\N♪ Was a little more to life ♪
-Dialogue: 0,2:34:10.66,2:34:14.80,Default,,0,0,0,,{\an8}制片人\N萨拉·墨菲\N保罗·托马斯·安德森
-Dialogue: 0,2:34:12.68,2:34:14.35,Default,,0,0,0,,还有更精彩人生\N♪ Somewhere else ♪
-Dialogue: 0,2:34:14.80,2:34:18.77,Default,,0,0,0,,{\an8}主演\N莱昂纳多·迪卡普里奥 饰 父亲鲍勃
-Dialogue: 0,2:34:16.85,2:34:18.56,Default,,0,0,0,,毕竟 这世界多么广阔\N♪ After all It was a great big world ♪
-Dialogue: 0,2:34:18.77,2:34:22.69,Default,,0,0,0,,{\an8}主演\N西恩·潘 饰 上校洛克乔
-Dialogue: 0,2:34:20.86,2:34:22.28,Default,,0,0,0,,有太多地方值得一去\N♪ With lots of places to run to ♪
-Dialogue: 0,2:34:22.69,2:34:26.70,Default,,0,0,0,,{\an8}主演\N本尼西奥·德尔·托罗 饰 柔道大师圣卡洛斯
-Dialogue: 0,2:34:24.82,2:34:26.61,Default,,0,0,0,,如果她一生只能止于尝试\N♪ Yeah, and if she had to die tryin' ♪
-Dialogue: 0,2:34:26.70,2:34:30.54,Default,,0,0,0,,{\an8}主演\N雷吉娜·赫尔 饰 接应人迪安德拉
-Dialogue: 0,2:34:28.78,2:34:30.45,Default,,0,0,0,,那她心中还有个小小的希望\N♪ She had one little promise ♪ ♪ She was gonna keep ♪
-Dialogue: 0,2:34:30.54,2:34:34.50,Default,,0,0,0,,{\an8}主演\N缇雅娜·泰勒 饰 母亲帕菲迪亚
-Dialogue: 0,2:34:32.62,2:34:33.79,Default,,0,0,0,,噢耶\N♪ Oh, yeah ♪
-Dialogue: 0,2:34:34.50,2:34:38.54,Default,,0,0,0,,{\an8}主演\N蔡斯·英菲尼迪 饰 女儿薇拉
-Dialogue: 0,2:34:36.62,2:34:38.17,Default,,0,0,0,,慢一点儿 宝贝\N\N♪ All right ♪ ♪ Take it easy, baby ♪
-Dialogue: 0,2:34:38.54,2:34:41.67,Default,,0,0,0,,♪ Make it last all night ♪
-Dialogue: 0,2:34:38.54,2:34:41.80,Default,,0,0,0,,{\an8}制作公司\N美国古拉迪影业
-Dialogue: 0,2:34:41.80,2:34:44.80,Default,,0,0,0,,♪ She was an American girl ♪
-Dialogue: 0,2:34:41.80,2:34:44.80,Default,,0,0,0,,{\an8}出品公司\N华纳兄弟影片公司
-Dialogue: 0,2:34:48.43,2:34:51.56,Default,,0,0,0,,{\an8}摄影指导\N迈克尔·鲍曼
-Dialogue: 0,2:34:50.51,2:34:51.47,Default,,0,0,0,,那一晚有些寒冷\N♪ Well, it was kind of cold That night ♪
-Dialogue: 0,2:34:51.56,2:34:54.60,Default,,0,0,0,,{\an8}艺术指导\N弗洛伦西亚·马丁
-Dialogue: 0,2:34:53.56,2:34:54.52,Default,,0,0,0,,她独自站在阳台上\N♪ She stood alone on her balcony ♪
-Dialogue: 0,2:34:54.60,2:34:57.73,Default,,0,0,0,,{\an8}剪辑\N安迪·贾尔根森
-Dialogue: 0,2:34:56.69,2:34:57.65,Default,,0,0,0,,耳边传来阵阵车声\N♪ Yeah, she could hear The cars roll by ♪
-Dialogue: 0,2:34:57.73,2:34:59.73,Default,,0,0,0,,{\an8}配乐\N强尼·格林伍德
-Dialogue: 0,2:34:59.81,2:35:00.57,Default,,0,0,0,,441号公路车流不息\N♪ Out on Four Forty-one ♪
-Dialogue: 0,2:35:00.65,2:35:02.61,Default,,0,0,0,,（进口 中国电影集团公司）
-Dialogue: 0,2:35:02.69,2:35:03.74,Default,,0,0,0,,就像浪潮拍打着海岸\N♪ Like waves crashin' on the beach ♪
-Dialogue: 0,2:35:03.82,2:35:04.65,Default,,0,0,0,,（联合发行）
-Dialogue: 0,2:35:04.74,2:35:05.82,Default,,0,0,0,,（中国电影产业集团股份有限公司 华夏电影发行有限责任公司）
-Dialogue: 0,2:35:05.90,2:35:07.16,Default,,0,0,0,,在那绝望的时刻\N♪ And for one desperate moment there ♪
-Dialogue: 0,2:35:07.24,2:35:09.24,Default,,0,0,0,,（译制 上海电影（集团）有限公司 上海电影译制厂）
-Dialogue: 0,2:35:09.37,2:35:10.58,Default,,0,0,0,,她逃回了记忆之中\N♪ He crept back in her memory ♪
-Dialogue: 0,2:35:10.66,2:35:11.74,Default,,0,0,0,,（译制职员）
-Dialogue: 0,2:35:11.83,2:35:13.45,Default,,0,0,0,,（翻译 许诺 徐子怡）
-Dialogue: 0,2:35:13.54,2:35:15.58,Default,,0,0,0,,这一切多么悲伤\N♪ God, it's so painful ♪
-Dialogue: 0,2:35:15.71,2:35:17.87,Default,,0,0,0,,明明近在咫尺\N♪ Something that's so close ♪
-Dialogue: 0,2:35:18.58,2:35:21.75,Default,,0,0,0,,却触不可及\N♪ And still so far out of reach ♪
-Dialogue: 0,2:35:22.09,2:35:25.63,Default,,0,0,0,,（灵感源于托马斯·品钦所著小说 《葡萄园》）
-Dialogue: 0,2:35:22.09,2:35:25.63,Default,,0,0,0,,♪ Oh, yeah ♪
-Dialogue: 0,2:35:25.80,2:35:26.63,Default,,0,0,0,,没错\N♪ All right ♪
-Dialogue: 0,2:35:26.97,2:35:28.68,Default,,0,0,0,,慢一点儿 宝贝\N♪ Take it easy, baby ♪
-Dialogue: 0,2:35:29.09,2:35:30.72,Default,,0,0,0,,持续一整夜\N♪ Make it last all night ♪
-Dialogue: 0,2:35:31.47,2:35:35.39,Default,,0,0,0,,她是一个美国女孩\N♪ She was an American girl ♪
-Dialogue: 0,2:36:11.90,2:36:13.44,Default,,0,0,0,,♪ Oh-huh-huh ♪
-Dialogue: 0,2:36:45.18,2:36:46.68,Default,,0,0,0,,♪ Oh-huh-huh ♪
-Dialogue: 0,2:37:02.40,2:37:04.73,Default,,0,0,0,,你没法待在家里 哥们儿\N♪ You will not be able To stay home, brother ♪
-Dialogue: 0,2:37:07.57,2:37:10.57,Default,,0,0,0,,你没法插上电源 打开开关 逃避现实\N♪ You will not be able to plug in ♪ ♪ Turn on and cop out ♪
-Dialogue: 0,2:37:11.70,2:37:14.16,Default,,0,0,0,,你没法用药物来麻痹自我\N♪ You will not be able To lose yourself on skag ♪
-Dialogue: 0,2:37:14.24,2:37:16.45,Default,,0,0,0,,你没法在广告时间出门买啤酒 因为\N♪ And skip out for beer During commercials because ♪
-Dialogue: 0,2:37:16.58,2:37:18.75,Default,,0,0,0,,革命永远不会上电视\N♪ The revolution Will not be televised ♪
-Dialogue: 0,2:37:21.00,2:37:24.29,Default,,0,0,0,,他们实施的暴力 不会有即时重放\N♪ There will be no pictures of pigs ♪ ♪ Shooting down brothers On the instant replay ♪
-Dialogue: 0,2:37:24.54,2:37:27.67,Default,,0,0,0,,他们实施的暴力 不会有即时重放\N♪ There will be no pictures of pigs ♪ ♪ Shooting down brothers On the instant replay ♪
-Dialogue: 0,2:37:27.75,2:37:29.30,Default,,0,0,0,,电视上没有惠特尼·杨\N♪ There will be no pictures Of Whitney Young ♪
-Dialogue: 0,2:37:29.38,2:37:31.97,Default,,0,0,0,,被赶出黑人社区的场面\N♪ Being run out of Harlem on a rail ♪ ♪ With a brand new process ♪
-Dialogue: 0,2:37:32.18,2:37:35.22,Default,,0,0,0,,你也看不到罗伊·威尔金斯\N♪ There will be no slow motion Or still lifes of Roy Wilkins ♪
-Dialogue: 0,2:37:35.39,2:37:38.56,Default,,0,0,0,,穿着精心挑选的红黑绿服装\N♪ Strolling through Watts ♪ ♪ In a red, black And green liberation jumpsuit ♪
-Dialogue: 0,2:37:38.68,2:37:41.06,Default,,0,0,0,,走过黑人社区的慢动作回放\N♪ That he has been saving For just the proper occasion ♪
-Dialogue: 0,2:37:43.10,2:37:46.19,Default,,0,0,0,,《绿野情》《贝弗利山人》 胡特维尔社区\N♪ Green Acres, Beverly Hillbillies And Hooterville Junction ♪
-Dialogue: 0,2:37:46.27,2:37:48.07,Default,,0,0,0,,再也不会占据人们的注意\N♪ Will no longer be so damn relevant ♪
-Dialogue: 0,2:37:48.19,2:37:49.15,Default,,0,0,0,,女人们再也不在乎\N♪ And women will not care If Dick finally got down with Jane ♪
-Dialogue: 0,2:37:49.23,2:37:51.74,Default,,0,0,0,,迪克和简有没有在一起\N♪ On Search for Tomorrow ♪
-Dialogue: 0,2:37:51.82,2:37:53.15,Default,,0,0,0,,因为黑人会走上街头\N♪ Because Black people Will be in the street ♪
-Dialogue: 0,2:37:53.24,2:37:54.66,Default,,0,0,0,,带着未来的希冀\N♪ Looking for a brighter day ♪
-Dialogue: 0,2:37:54.74,2:37:56.74,Default,,0,0,0,,革命永远不会上电视\N♪ The revolution Will not be televised ♪
-Dialogue: 0,2:37:56.99,2:37:58.74,Default,,0,0,0,,革命永远不会上电视\N♪ The revolution Will not be televised ♪
-Dialogue: 0,2:37:58.83,2:38:00.04,Default,,0,0,0,,不会上电视\N♪ Will not be televised ♪
-Dialogue: 0,2:38:00.16,2:38:01.20,Default,,0,0,0,,不会上电视\N♪ Will not be televised ♪
-Dialogue: 0,2:38:01.29,2:38:02.33,Default,,0,0,0,,不会上电视\N♪ Will not be televised ♪
-Dialogue: 0,2:38:02.46,2:38:04.29,Default,,0,0,0,,革命永远不会有重播\N♪ The revolution will be No re-run, brothers ♪
-Dialogue: 0,2:38:04.37,2:38:06.38,Default,,0,0,0,,革命只会是直播\N♪ The revolution will be live ♪
-Dialogue: 0,2:38:18.30,2:38:20.85,Default,,0,0,0,,愿你们得到欢乐\N♪ God rest ye merry gentlemen ♪
-Dialogue: 0,2:38:20.93,2:38:22.85,Default,,0,0,0,,愿你们不要沮丧\N♪ Let nothing you dismay ♪
-Dialogue: 0,2:38:23.02,2:38:25.27,Default,,0,0,0,,请记住那位圣人\N♪ Remember Christ our savior ♪
-Dialogue: 0,2:38:25.35,2:38:27.52,Default,,0,0,0,,就在圣诞节降生\N♪ Was born on Christmas day ♪
-Dialogue: 0,2:38:27.73,2:38:30.02,Default,,0,0,0,,他救我们远离魔鬼\N♪ To save us all from Satan's power ♪
-Dialogue: 0,2:38:30.15,2:38:31.94,Default,,0,0,0,,使我们不致迷途\N♪ When we were gone astray ♪
-Dialogue: 0,2:38:32.15,2:38:36.82,Default,,0,0,0,,平安和欢乐的消息 一路传来\N♪ Oh tidings of comfort and joy ♪ ♪ Comfort and joy ♪
-Dialogue: 0,2:38:36.99,2:38:41.74,Default,,0,0,0,,平安和欢乐的消息 一路传来\N♪ Oh tidings of comfort and joy ♪
-Dialogue: 0,2:38:42.08,2:38:44.41,Default,,0,0,0,,从那遥远的天上\N♪ From God our heavenly father ♪
-Dialogue: 0,2:38:44.50,2:38:46.75,Default,,0,0,0,,来了一位天使\N♪ A blessed angel came ♪
-Dialogue: 0,2:38:46.87,2:38:49.09,Default,,0,0,0,,他为某个牧羊人\N♪ And unto certain shepherds ♪
-Dialogue: 0,2:38:49.21,2:38:51.42,Default,,0,0,0,,带来了好消息\N♪ Brought tidings of the same ♪
-Dialogue: 0,2:38:51.63,2:38:53.92,Default,,0,0,0,,在伯利恒\N♪ How bad in Bethlehem was born ♪
-Dialogue: 0,2:38:54.05,2:38:55.97,Default,,0,0,0,,有一位圣人出生了\N♪ The son of God by name ♪
-Dialogue: 0,2:38:56.13,2:39:00.76,Default,,0,0,0,,平安和欢乐的消息 一路传来\N♪ Oh tidings of comfort and joy ♪ ♪ Comfort and joy ♪
-Dialogue: 0,2:39:00.97,2:39:05.77,Default,,0,0,0,,平安和欢乐的消息 一路传来\N♪ Oh tidings of comfort and joy ♪
-Dialogue: 0,2:39:06.02,2:39:08.31,Default,,0,0,0,,在场的人\N♪ Now to the Lord sing praises ♪
-Dialogue: 0,2:39:08.44,2:39:10.65,Default,,0,0,0,,都高声歌颂\N♪ All you within this place ♪
-Dialogue: 0,2:39:10.82,2:39:13.40,Default,,0,0,0,,团结友爱\N♪ And with true love and brotherhood ♪
-Dialogue: 0,2:39:13.48,2:39:15.49,Default,,0,0,0,,拥抱彼此\N♪ Each other now embrace ♪
-Dialogue: 0,2:39:15.61,2:39:17.99,Default,,0,0,0,,圣诞的气氛\N♪ This holy tide of Christmas ♪
-Dialogue: 0,2:39:18.07,2:39:20.07,Default,,0,0,0,,消除了不和\N♪ All others doth deface ♪
-Dialogue: 0,2:39:20.20,2:39:24.91,Default,,0,0,0,,平安和欢乐的消息 一路传来\N♪ Oh tidings of comfort and joy ♪ ♪ Comfort and joy ♪
-Dialogue: 0,2:39:25.08,2:39:32.09,Default,,0,0,0,,平安和欢乐的消息 一路传来\N♪ Oh tidings of comfort ♪ ♪ And joy ♪
+Dialogue: 0,2:33:58.17,2:34:02.25,Note,,0,0,0,,{\an8}《一战再战》
+Dialogue: 0,2:34:02.25,2:34:06.47,Note,,0,0,0,,{\an8}编剧及导演\N保罗·托马斯·安德森
+Dialogue: 0,2:34:06.47,2:34:10.66,Note,,0,0,0,,{\an8}制片人\N亚当·索姆纳
+Dialogue: 0,2:34:10.66,2:34:14.80,Note,,0,0,0,,{\an8}制片人\N萨拉·墨菲\N保罗·托马斯·安德森
+Dialogue: 0,2:34:14.80,2:34:18.77,Note,,0,0,0,,{\an8}主演\N莱昂纳多·迪卡普里奥 饰 父亲鲍勃
+Dialogue: 0,2:34:18.77,2:34:22.69,Note,,0,0,0,,{\an8}主演\N西恩·潘 饰 上校洛克乔
+Dialogue: 0,2:34:22.69,2:34:26.70,Note,,0,0,0,,{\an8}主演\N本尼西奥·德尔·托罗 饰 柔道大师圣卡洛斯
+Dialogue: 0,2:34:26.70,2:34:30.54,Note,,0,0,0,,{\an8}主演\N雷吉娜·赫尔 饰 接应人迪安德拉
+Dialogue: 0,2:34:30.54,2:34:34.50,Note,,0,0,0,,{\an8}主演\N缇雅娜·泰勒 饰 母亲帕菲迪亚
+Dialogue: 0,2:34:34.50,2:34:38.54,Note,,0,0,0,,{\an8}主演\N蔡斯·英菲尼迪 饰 女儿薇拉
+Dialogue: 0,2:34:38.54,2:34:41.80,Note,,0,0,0,,{\an8}制作公司\N古拉迪影业
+Dialogue: 0,2:34:41.80,2:34:44.80,Note,,0,0,0,,{\an8}出品公司\N华纳兄弟影业
+Dialogue: 0,2:34:44.80,2:34:48.43,Note,,0,0,0,,{\an8}联合出品\N领域娱乐
+Dialogue: 0,2:34:48.43,2:34:51.56,Note,,0,0,0,,{\an8}摄影\N迈克尔·鲍曼
+Dialogue: 0,2:34:51.56,2:34:54.60,Note,,0,0,0,,{\an8}艺术指导\N弗洛伦西亚·马丁
+Dialogue: 0,2:34:54.60,2:34:57.73,Note,,0,0,0,,{\an8}剪辑\N安迪·贾尔根森
+Dialogue: 0,2:34:57.73,2:35:00.65,Note,,0,0,0,,{\an8}配乐\N强尼·格林伍德
+Dialogue: 0,2:35:00.65,2:35:03.82,Note,,0,0,0,,{\an8}字幕制作\N上海电影译制厂\N蒙太奇字幕组
+Dialogue: 0,2:35:03.82,2:35:07.24,Note,,0,0,0,,{\an8}翻译\N上海电影译制厂：许诺 & 徐子怡\N蒙太奇字幕组：小p
+Dialogue: 0,2:35:07.24,2:35:10.69,Note,,0,0,0,,{\an8}蒙太奇字幕组\N双语合并：novaeye & 小p & NickCollect & Lei\N时间轴：小p & novaeye\N校对：小p & novaeye & NickCollect
+Dialogue: 0,2:35:10.69,2:35:14.35,Note,,0,0,0,,{\an8}蒙太奇字幕组\N后期特效：NickCollect & novaeye
+Dialogue: 0,2:35:14.35,2:35:17.81,Note,,0,0,0,,{\an8}蒙太奇字幕组字幕许可\N原创部分许可CC BY‑NC‑SA 4.0
+Dialogue: 0,2:35:17.81,2:35:21.89,Note,,0,0,0,,{\an8}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,2:35:21.89,2:35:25.63,Note,,0,0,0,,{\an8}影片灵感源于托马斯·品钦所著小说\N 《葡萄园》
+Dialogue: 0,2:33:58.50,2:34:02.06,Music,,0,0,0,,♪ 她是一个美国女孩\N♪ Well, she was an American girl ♪
+Dialogue: 0,2:34:03.33,2:34:05.83,Music,,0,0,0,,♪ 从小到大充满希望 ♪\N♪ Raised on promises ♪
+Dialogue: 0,2:34:07.15,2:34:09.97,Music,,0,0,0,,♪ 她忍不住想\N♪ She couldn't help thinkin' that there ♪
+Dialogue: 0,2:34:10.00,2:34:12.13,Music,,0,0,0,,♪ 在别的地方\N♪ Was a little more to life ♪
+Dialogue: 0,2:34:12.52,2:34:14.39,Music,,0,0,0,,♪ 还有更精彩人生 ♪\N♪ Somewhere else ♪
+Dialogue: 0,2:34:15.13,2:34:18.48,Music,,0,0,0,,♪ 毕竟 这世界多么广阔\N♪ After all It was a great big world ♪
+Dialogue: 0,2:34:19.19,2:34:22.31,Music,,0,0,0,,♪ 有太多地方值得一去\N♪ With lots of places to run to ♪
+Dialogue: 0,2:34:23.17,2:34:26.93,Music,,0,0,0,,♪ 如果她一生只能止于尝试\N♪ Yeah, and if she had to die tryin' ♪
+Dialogue: 0,2:34:26.95,2:34:29.56,Music,,0,0,0,,♪ 那她心中还有个\N♪ She had one little promise ♪
+Dialogue: 0,2:34:29.58,2:34:32.14,Music,,0,0,0,,♪ 小小的希望 ♪\N♪ She was gonna keep ♪
+Dialogue: 0,2:34:32.67,2:34:34.01,Music,,0,0,0,,♪ 噢耶 ♪\N♪ Oh, yeah ♪
+Dialogue: 0,2:34:34.75,2:34:36.22,Music,,0,0,0,,♪ 没错 ♪\N♪ All right ♪
+Dialogue: 0,2:34:36.58,2:34:38.38,Music,,0,0,0,,♪ 慢一点儿 宝贝 ♪\N♪ Take it easy, baby ♪
+Dialogue: 0,2:34:38.65,2:34:40.86,Music,,0,0,0,,♪ 持续一整夜 ♪\N♪ Make it last all night ♪
+Dialogue: 0,2:34:40.88,2:34:45.34,Music,,0,0,0,,♪ 她是一个美国女孩 ♪\N♪ She was an American girl ♪
+Dialogue: 0,2:34:48.86,2:34:52.48,Music,,0,0,0,,♪ 那一晚有些寒冷\N♪ Well, it was kind of cold that night ♪
+Dialogue: 0,2:34:52.50,2:34:56.20,Music,,0,0,0,,♪ 她独自站在阳台上 ♪\N♪ She stood alone on her balcony ♪
+Dialogue: 0,2:34:57.24,2:35:00.46,Music,,0,0,0,,♪ 耳边传来阵阵车声\N♪ Yeah, she could hear the cars roll by ♪
+Dialogue: 0,2:35:00.49,2:35:02.67,Music,,0,0,0,,♪ 441号公路车流不息\N♪ Out on four forty-one ♪
+Dialogue: 0,2:35:02.70,2:35:05.24,Music,,0,0,0,,♪ 就像浪潮拍打着海岸 ♪\N♪ Like waves crashin' on the beach ♪
+Dialogue: 0,2:35:05.49,2:35:08.64,Music,,0,0,0,,♪ 在那绝望的时刻\N♪ And for one desperate moment there ♪
+Dialogue: 0,2:35:09.37,2:35:13.37,Music,,0,0,0,,♪ 她逃回了记忆之中 ♪\N♪ He crept back in her memory ♪
+Dialogue: 0,2:35:13.54,2:35:15.69,Music,,0,0,0,,♪ 这一切多么悲伤\N♪ God, it's so painful ♪
+Dialogue: 0,2:35:15.71,2:35:18.18,Music,,0,0,0,,♪ 明明近在咫尺\N♪ Something that's so close ♪
+Dialogue: 0,2:35:18.58,2:35:22.70,Music,,0,0,0,,♪ 却触不可及 ♪\N♪ And still so far out of reach ♪
+Dialogue: 0,2:35:22.96,2:35:24.51,Music,,0,0,0,,♪ 噢耶 ♪\N♪ Oh, yeah ♪
+Dialogue: 0,2:35:25.08,2:35:26.44,Music,,0,0,0,,♪ 没错 ♪\N♪ All right ♪
+Dialogue: 0,2:35:26.92,2:35:28.98,Music,,0,0,0,,♪ 慢一点儿 宝贝 ♪\N♪ Take it easy, baby ♪
+Dialogue: 0,2:35:29.09,2:35:31.45,Music,,0,0,0,,♪ 持续一整夜 ♪\N♪ Make it last all night ♪
+Dialogue: 0,2:35:31.47,2:35:35.47,Music,,0,0,0,,♪ 她是一个美国女孩 ♪\N♪ She was an American girl ♪
+Dialogue: 0,2:37:02.45,2:37:04.78,Music,,0,0,0,,♪ 你没法待在家里 哥们儿 ♪\N♪ You will not be able to stay home, brother ♪
+Dialogue: 0,2:37:07.57,2:37:10.87,Music,,0,0,0,,♪ 你没法插上电源 打开开关 逃避现实 ♪\N♪ You will not be able to plug in turn on and cop out ♪
+Dialogue: 0,2:37:11.70,2:37:14.22,Music,,0,0,0,,♪ 你没法用药物来麻痹自我\N♪ You will not be able to lose yourself on skag ♪
+Dialogue: 0,2:37:14.24,2:37:16.56,Music,,0,0,0,,♪ 你没法在广告时间出门买啤酒 因为\N♪ And skip out for beer during commercials because ♪
+Dialogue: 0,2:37:16.58,2:37:18.75,Music,,0,0,0,,♪ 革命永远不会上电视 ♪\N♪ The revolution will not be televised ♪
+Dialogue: 0,2:37:21.00,2:37:24.52,Music,,0,0,0,,♪ 他们实施的暴力 不会有即时重放 ♪\N♪ There will be no pictures of pigs shooting down brothers on the instant replay ♪
+Dialogue: 0,2:37:24.54,2:37:27.67,Music,,0,0,0,,♪ 他们实施的暴力 不会有即时重放 ♪\N♪ There will be no pictures of pigs shooting down brothers on the instant replay ♪
+Dialogue: 0,2:37:27.75,2:37:29.36,Music,,0,0,0,,♪ 电视上没有惠特尼·杨\N♪ There will be no pictures of Whitney Young ♪
+Dialogue: 0,2:37:29.38,2:37:31.97,Music,,0,0,0,,♪ 被赶出黑人社区的场面 ♪\N♪ Being run out of harlem on a rail with a brand new process ♪
+Dialogue: 0,2:37:32.18,2:37:35.37,Music,,0,0,0,,♪ 你也看不到罗伊·威尔金斯\N♪ There will be no slow motion or still lifes of Roy Wilkins ♪
+Dialogue: 0,2:37:35.39,2:37:38.66,Music,,0,0,0,,♪ 穿着精心挑选的红黑绿服装\N♪ Strolling through Watts in a red, black and green liberation jumpsuit ♪
+Dialogue: 0,2:37:38.68,2:37:41.14,Music,,0,0,0,,♪ 走过黑人社区的慢动作回放 ♪\N♪ That he has been saving for just the proper occasion ♪
+Dialogue: 0,2:37:43.10,2:37:46.25,Music,,0,0,0,,♪ 《绿野情》《贝弗利山人》 胡特维尔社区 ♪\N♪ Green Acres, Beverly Hillbillies and Hooterville Junction ♪
+Dialogue: 0,2:37:46.27,2:37:48.17,Music,,0,0,0,,♪ 再也不会占据人们的注意 ♪\N♪ Will no longer be so damn relevant ♪
+Dialogue: 0,2:37:48.19,2:37:50.82,Music,,0,0,0,,♪ 女人们再也不在乎\N♪ And women will not care if Dick finally got down with Jane ♪
+Dialogue: 0,2:37:50.85,2:37:51.79,Music,,0,0,0,,♪ 迪克和简有没有在一起 ♪\N♪ On Search for tomorrow ♪
+Dialogue: 0,2:37:51.82,2:37:53.22,Music,,0,0,0,,♪ 因为黑人会走上街头 ♪\N♪ Because Black people will be in the street ♪
+Dialogue: 0,2:37:53.24,2:37:54.75,Music,,0,0,0,,♪ 带着未来的希冀 ♪\N♪ Looking for a brighter day ♪
+Dialogue: 0,2:37:54.78,2:37:56.97,Music,,0,0,0,,♪ 革命永远不会上电视 ♪\N♪ The revolution will not be televised ♪
+Dialogue: 0,2:37:56.99,2:37:58.76,Music,,0,0,0,,♪ 革命永远不会上电视 ♪\N♪ The revolution will not be televised ♪
+Dialogue: 0,2:37:58.78,2:38:00.18,Music,,0,0,0,,♪ 不会上电视 ♪\N♪ Will not be televised ♪
+Dialogue: 0,2:38:00.20,2:38:01.46,Music,,0,0,0,,♪ 不会上电视 ♪\N♪ Will not be televised ♪
+Dialogue: 0,2:38:01.49,2:38:02.47,Music,,0,0,0,,♪ 不会上电视 ♪\N♪ Will not be televised ♪
+Dialogue: 0,2:38:02.50,2:38:04.54,Music,,0,0,0,,♪ 革命永远不会有重播 ♪\N♪ The revolution will be no re-run, brothers ♪
+Dialogue: 0,2:38:18.50,2:38:21.05,Music,,0,0,0,,♪ 愿你们得到欢乐\N♪ God rest ye merry gentlemen ♪
+Dialogue: 0,2:38:21.13,2:38:23.05,Music,,0,0,0,,♪ 愿你们不要沮丧 ♪\N♪ Let nothing you dismay ♪
+Dialogue: 0,2:38:23.07,2:38:25.52,Music,,0,0,0,,♪ 请记住那位圣人\N♪ Remember Christ our savior ♪
+Dialogue: 0,2:38:25.55,2:38:27.72,Music,,0,0,0,,♪ 就在圣诞节降生 ♪\N♪ Was born on Christmas day ♪
+Dialogue: 0,2:38:27.74,2:38:30.32,Music,,0,0,0,,♪ 他救我们远离魔鬼\N♪ To save us all from Satan's power ♪
+Dialogue: 0,2:38:30.35,2:38:32.14,Music,,0,0,0,,♪ 使我们不致迷途 ♪\N♪ When we were gone astray ♪
+Dialogue: 0,2:38:32.16,2:38:37.00,Music,,0,0,0,,♪ 平安和欢乐的消息 一路传来 ♪\N♪ Oh tidings of comfort and joy comfort and joy ♪
+Dialogue: 0,2:38:37.02,2:38:41.77,Music,,0,0,0,,♪ 平安和欢乐的消息 一路传来 ♪\N♪ Oh tidings of comfort and joy ♪
+Dialogue: 0,2:38:42.13,2:38:44.46,Music,,0,0,0,,♪ 从那遥远的天上\N♪ From God our heavenly father ♪
+Dialogue: 0,2:38:44.49,2:38:46.89,Music,,0,0,0,,♪ 来了一位天使 ♪\N♪ A blessed angel came ♪
+Dialogue: 0,2:38:46.92,2:38:48.90,Music,,0,0,0,,♪ 他为某个牧羊人\N♪ And unto certain shepherds ♪
+Dialogue: 0,2:38:48.92,2:38:51.63,Music,,0,0,0,,♪ 带来了好消息 ♪\N♪ Brought tidings of the same ♪
+Dialogue: 0,2:38:51.65,2:38:53.94,Music,,0,0,0,,♪ 在伯利恒\N♪ How bad in Bethlehem was born ♪
+Dialogue: 0,2:38:53.97,2:38:56.12,Music,,0,0,0,,♪ 有一位圣人出生了 ♪\N♪ The son of God by name ♪
+Dialogue: 0,2:38:56.14,2:39:00.77,Music,,0,0,0,,♪ 平安和欢乐的消息 一路传来 ♪\N♪ Oh tidings of comfort and joy comfort and joy ♪
+Dialogue: 0,2:39:01.00,2:39:05.80,Music,,0,0,0,,♪ 平安和欢乐的消息 一路传来 ♪\N♪ Oh tidings of comfort and joy ♪
+Dialogue: 0,2:39:06.01,2:39:08.42,Music,,0,0,0,,♪ 在场的人\N♪ Now to the Lord sing praises ♪
+Dialogue: 0,2:39:08.45,2:39:10.92,Music,,0,0,0,,♪ 都高声歌颂 ♪\N♪ All you within this place ♪
+Dialogue: 0,2:39:10.95,2:39:13.51,Music,,0,0,0,,♪ 团结友爱\N♪ And with true love and brotherhood ♪
+Dialogue: 0,2:39:13.53,2:39:15.71,Music,,0,0,0,,♪ 拥抱彼此 ♪\N♪ Each other now embrace ♪
+Dialogue: 0,2:39:15.73,2:39:18.11,Music,,0,0,0,,♪ 圣诞的气氛\N♪ This holy tide of Christmas ♪
+Dialogue: 0,2:39:18.14,2:39:20.14,Music,,0,0,0,,♪ 消除了不和 ♪\N♪ All others doth deface ♪
+Dialogue: 0,2:39:20.16,2:39:24.87,Music,,0,0,0,,♪ 平安和欢乐的消息 一路传来 ♪\N♪ Oh tidings of comfort and joy comfort and joy ♪
+Dialogue: 0,2:39:25.10,2:39:36.57,Music,,0,0,0,,♪ 平安和欢乐的消息 一路传来 ♪\N♪ Oh tidings of comfort and joy ♪
+Dialogue: 0,2:41:11.97,2:41:13.75,Default,,0,0,0,,我能接着拍\NI can do it now.
+Dialogue: 0,2:41:13.77,2:41:14.74,Default,,0,0,0,,谢谢\NThank you.
+Dialogue: 0,2:41:14.88,2:41:17.21,Default,,0,0,0,,- 科林 准备好了吗？ - 好了\N- Colin, are you good? - Yeah.
+Dialogue: 0,2:41:17.73,2:41:21.20,Default,,0,0,0,,场录 开始录音 开始\NAnd roll sound, roll, roll, please.
+Dialogue: 0,2:41:19.26,2:41:28.09,Note,,0,0,0,,{\an8}（谨以此片 献给亚当）
+Dialogue: 0,2:41:19.26,2:41:28.09,Note,,0,0,0,,{\an7}【亚当·索姆纳：于2024年11月去世 曾多次担任导演安德森的副导演】
+Dialogue: 0,2:41:21.47,2:41:23.90,Default,,0,0,0,,都请安静 开拍了\NHey, quiet please. here we go, shooting.
+Dialogue: 0,2:41:23.95,2:41:24.95,Default,,0,0,0,,嘘\NShh.
+Dialogue: 0,2:41:25.91,2:41:28.15,Default,,0,0,0,,住嘴 我们在拍了\NShut the fuck up, we're rolling.
+Dialogue: 0,2:41:30.57,2:41:35.29,Note,,0,0,0,,{\an8}（领域娱乐）
+Dialogue: 0,2:41:31.11,2:41:32.26,Default,,0,0,0,,开拍\NAction.
+Dialogue: 0,2:41:36.30,2:41:40.73,Note,,0,0,0,,{\an2}（华纳兄弟影业）
+Dialogue: 0,2:41:41.73,2:41:46.13,Note,,0,0,0,,{\an2}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
