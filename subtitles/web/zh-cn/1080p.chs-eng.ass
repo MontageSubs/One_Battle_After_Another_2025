@@ -145,7 +145,7 @@ Dialogue: 0,0:08:09.89,0:08:12.32,Default,,0,0,0,,由法式七五组织执行关
 Dialogue: 0,0:08:12.72,0:08:14.36,Default,,0,0,0,,（西班牙语）走狗蠢猪
 Dialogue: 0,0:08:14.51,0:08:16.07,Default,,0,0,0,,条子去死吧\NFuck the police!
 Dialogue: 0,0:08:14.51,0:08:19.50,Note,,0,0,0,,{\an7}【美国警察常被指控滥权 系统性歧视 及过度使用武力】
-Dialogue: 0,0:08:16.09,0:08:16.99,Default,,0,0,0,,（西班牙语）革命必胜
+Dialogue: 0,0:08:16.09,0:08:16.99,Default,,0,0,0,,（西班牙语）革命万岁
 Dialogue: 0,0:08:17.01,0:08:18.05,Default,,0,0,0,,走吧\NLet's go!
 Dialogue: 0,0:08:19.60,0:08:23.56,Default,,0,0,0,,（西班牙语）下地狱去吧 一群吃人的恶鬼
 Dialogue: 0,0:08:23.89,0:08:24.62,Default,,0,0,0,,一群畜生\NMotherfuckers!
@@ -1718,8 +1718,8 @@ Dialogue: 0,1:26:55.94,1:26:58.36,Default,,0,0,0,,也对 好吧 谢谢\NYeah. Ye
 Dialogue: 0,1:26:58.88,1:27:00.91,Default,,0,0,0,,谢谢你 大师\NHey! Thank you, Sensei.
 Dialogue: 0,1:27:01.26,1:27:02.99,Default,,0,0,0,,谢谢大师 谢谢\NThank you, Sensei! Thank you!
 Dialogue: 0,1:27:03.44,1:27:04.51,Default,,0,0,0,,差点忘了\NGod damn it!
-Dialogue: 0,1:27:04.54,1:27:06.61,Default,,0,0,0,,（西班牙语）革命必胜\N¡Viva la revolución!
-Dialogue: 0,1:27:10.71,1:27:11.61,Default,,0,0,0,,（西班牙语）必胜\N¡Viva!
+Dialogue: 0,1:27:04.54,1:27:06.61,Default,,0,0,0,,（西班牙语）革命万岁\N¡Viva la revolución!
+Dialogue: 0,1:27:10.71,1:27:11.61,Default,,0,0,0,,（西班牙语）万岁\N¡Viva!
 Dialogue: 0,1:27:13.14,1:27:15.90,Note,,0,0,0,,{\an8}（警察）
 Dialogue: 0,1:27:21.24,1:27:22.62,Default,,0,0,0,,这边 鲍勃\NThis way, Bob!
 Dialogue: 0,1:27:22.84,1:27:24.88,Default,,0,0,0,,（西班牙语）行了 鲍勃 把东西递给我
@@ -2716,4 +2716,5 @@ Dialogue: 0,2:41:30.57,2:41:35.29,Note,,0,0,0,,{\an8}（领域娱乐）
 Dialogue: 0,2:41:31.11,2:41:32.26,Default,,0,0,0,,开拍\NAction.
 Dialogue: 0,2:41:36.30,2:41:40.73,Note,,0,0,0,,{\an2}（华纳兄弟影业）
 Dialogue: 0,2:41:41.73,2:41:46.13,Note,,0,0,0,,{\an2}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
+
 
