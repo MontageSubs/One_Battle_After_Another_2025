@@ -1936,18 +1936,18 @@ Dialogue: 0,1:35:41.80,1:35:46.14,Music,,0,0,0,,{\an7}♪ 听啊 天使高声唱
 Dialogue: 0,1:35:46.47,1:35:54.99,Music,,0,0,0,,{\an7}♪ 荣耀归于新生王 ♪\N♪ Glory to the newborn King ♪
 Dialogue: 0,1:36:06.71,1:36:07.84,Default,,0,0,0,,请进\NCome in.
 Dialogue: 0,1:36:14.08,1:36:15.01,Default,,0,0,0,,提姆\NTim.
-Dialogue: 0,1:36:15.75,1:36:17.50,Default,,0,0,0,, 共荣圣诞 向圣尼古拉敬礼\NMerry Christmas. Hail Saint Nick.
+Dialogue: 0,1:36:15.75,1:36:17.50,Default,,0,0,0,,共荣圣诞 向圣尼古拉敬礼\NMerry Christmas. Hail Saint Nick.
 Dialogue: 0,1:36:15.75,1:36:20.78,Note,,0,0,0,,{\an7}【圣尼古拉：基督教圣徒 圣诞老人原型】
-Dialogue: 0,1:36:17.53,1:36:18.65,Default,,0,0,0,, 共荣圣诞\NMerry Christmas.
+Dialogue: 0,1:36:17.53,1:36:18.65,Default,,0,0,0,,共荣圣诞\NMerry Christmas.
 Dialogue: 0,1:36:18.68,1:36:19.92,Default,,0,0,0,,- 你最近好吗？ - 挺好的\N- How ya doin'? - Good, good.
 Dialogue: 0,1:36:19.94,1:36:20.78,Default,,0,0,0,,好久不见\NIt's been too long.
 Dialogue: 0,1:36:20.80,1:36:21.94,Default,,0,0,0,,是啊 终于又见面了 桑迪\NYeah, it's good to see you again, Sandy.
 Dialogue: 0,1:36:21.96,1:36:23.36,Default,,0,0,0,,你认识维道尔·司空伯顿吧？\NYou know Virgil Throckmorton.
 Dialogue: 0,1:36:23.38,1:36:25.45,Default,,0,0,0,,净化与纠偏部的\NVirgil's down from Cleansing and Distortion.
-Dialogue: 0,1:36:25.47,1:36:26.05,Default,,0,0,0,, 共荣圣诞\NMerry Christmas.
-Dialogue: 0,1:36:26.08,1:36:27.07,Default,,0,0,0,, 共荣圣诞\NMerry Christmas.
+Dialogue: 0,1:36:25.47,1:36:26.05,Default,,0,0,0,,共荣圣诞\NMerry Christmas.
+Dialogue: 0,1:36:26.08,1:36:27.07,Default,,0,0,0,,共荣圣诞\NMerry Christmas.
 Dialogue: 0,1:36:27.09,1:36:29.39,Default,,0,0,0,,- 白厅的比尔·戴斯蒙你也认识 - 是啊\N- And you know Bill Desmond from Whitehall. - Yes.
-Dialogue: 0,1:36:29.42,1:36:30.99,Default,,0,0,0,,比尔 再次见面很高兴  共荣圣诞\NBill, good to see you again, and merry Christmas.
+Dialogue: 0,1:36:29.42,1:36:30.99,Default,,0,0,0,,比尔 再次见面很高兴 共荣圣诞\NBill, good to see you again, and merry Christmas.
 Dialogue: 0,1:36:31.01,1:36:33.20,Default,,0,0,0,,你也认识罗伊·摩尔\NAnd of course you know Roy More.
 Dialogue: 0,1:36:33.22,1:36:35.58,Default,,0,0,0,,西南军区第五舰队战地司令\NFifth Fleet Field General from the Southwest.
 Dialogue: 0,1:36:35.60,1:36:37.83,Default,,0,0,0,,当然认识 早上好\NAbsolutely, sir. Good morning.
