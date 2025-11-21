@@ -37,9 +37,9 @@ Dialogue: 0,0:02:03.71,0:02:06.03,Default,,0,0,0,,上不了车的 只能自己�
 Dialogue: 0,0:02:06.06,0:02:08.79,Default,,0,0,0,,记住 我们从友谊路撤退\NVia de la Amistad, that's our exit route.
 Dialogue: 0,0:02:08.81,0:02:11.38,Default,,0,0,0,,它是东西向的 离905公路约一两公里\NRuns east-west. It's about one mile from 905.
 Dialogue: 0,0:02:11.40,0:02:11.91,Default,,0,0,0,,好的\NRight.
-Dialogue: 0,0:02:11.93,0:02:13.85,Default,,0,0,0,,你的车里装了什么？\NWhat you draggin' in that wagon?
-Dialogue: 0,0:02:13.88,0:02:15.96,Default,,0,0,0,,我车里有的是自制炸药\NListen, I got HMEs.
-Dialogue: 0,0:02:15.98,0:02:17.26,Default,,0,0,0,,有迫击炮 还有催泪瓦斯\NI got mortars, I got tear gas,
+Dialogue: 0,0:02:11.93,0:02:13.85,Default,,0,0,0,,你的小车里拉了什么？\NWhat you draggin' in that wagon?
+Dialogue: 0,0:02:13.88,0:02:15.96,Default,,0,0,0,,有自制炸药\NListen, I got HMEs.
+Dialogue: 0,0:02:15.98,0:02:17.26,Default,,0,0,0,,有发射筒 还有催泪瓦斯\NI got mortars, I got tear gas,
 Dialogue: 0,0:02:17.28,0:02:18.42,Default,,0,0,0,,你们需要的我都有\NI got whatever you guys need,
 Dialogue: 0,0:02:18.44,0:02:21.20,Default,,0,0,0,,可我还不清楚计划是什么\NBut I'm a little unclear as to what the plan is.
 Dialogue: 0,0:02:21.23,0:02:22.35,Default,,0,0,0,,能不能说明一下？\NI'm gonna need some direction.
@@ -81,7 +81,7 @@ Dialogue: 0,0:04:49.10,0:04:50.72,Default,,0,0,0,,报上名来 野鬼\NWhat's yo
 Dialogue: 0,0:04:54.10,0:04:56.89,Default,,0,0,0,,我是史蒂文·勒喉乔上尉\NI'm Captain Steven J. Lockjaw.
 Dialogue: 0,0:04:54.10,0:04:58.42,Note,,0,0,0,,{\an9}【勒喉乔：暗指以暴力噤声的铁腕人物】
 Dialogue: 0,0:04:58.44,0:05:02.21,Default,,0,0,0,,我叫叛娅·富山 我正式向你们宣战\NMy name is Perfidia Beverly Hills, and this is a declaration of war.
-Dialogue: 0,0:04:58.44,0:05:04.97,Note,,0,0,0,,{\an7}【叛娅·富山：暗指对富人背叛报复 以牙还牙的反抗】
+Dialogue: 0,0:04:58.44,0:05:04.97,Note,,0,0,0,,{\an7}【叛娅·富山：字面指对富人背叛及反抗】
 Dialogue: 0,0:05:02.69,0:05:04.95,Default,,0,0,0,,我们是来纠正你们犯下的错误的\NWe're here to right your wrongs, motherfucker.
 Dialogue: 0,0:05:04.98,0:05:08.87,Default,,0,0,0,,是你们亲手培育了反抗军 这是你自找的\NYou got an army growin' in your fuckin' guts, and you put it there.
 Dialogue: 0,0:05:08.89,0:05:10.14,Default,,0,0,0,,你想不到我会来\NYou didn't count on me.
@@ -156,7 +156,8 @@ Dialogue: 0,0:08:27.46,0:08:29.05,Default,,0,0,0,,- 别激动 都冷静一下 - 
 Dialogue: 0,0:08:29.07,0:08:29.96,Default,,0,0,0,,（西班牙语）真刺激
 Dialogue: 0,0:08:29.98,0:08:31.55,Default,,0,0,0,,你怎么开心的跟过年一样？\NWhere you get all this energy from?
 Dialogue: 0,0:08:31.58,0:08:32.63,Default,,0,0,0,,你说什么？\NWhat are you talkin' about?
-Dialogue: 0,0:08:32.65,0:08:34.24,Default,,0,0,0,,今晚穷鬼·帕特是我的了\NI'm getting Ghetto Pat tonight. I think I like you.
+Dialogue: 0,0:08:32.65,0:08:34.24,Default,,0,0,0,,今晚穷鬼帕特是我的了\NI'm getting Ghetto Pat tonight. I think I like you.
+Dialogue: 0,0:08:32.65,0:08:35.81,Note,,0,0,0,,{\an7}【穷鬼帕特：人物代号 原指贫民区或其居民】
 Dialogue: 0,0:08:34.26,0:08:35.80,Default,,0,0,0,,你喜欢黑人女孩吗？\NYou like Black girls?
 Dialogue: 0,0:08:35.82,0:08:36.39,Default,,0,0,0,,喜欢吗？\NYeah?
 Dialogue: 0,0:08:36.41,0:08:37.24,Default,,0,0,0,,我喜欢什么？\NDo I like what?
@@ -262,7 +263,7 @@ Dialogue: 0,0:14:30.00,0:14:32.28,Default,,0,0,0,,你想炸掉什么都可以\NY
 Dialogue: 0,0:14:32.30,0:14:34.10,Default,,0,0,0,,我根本不在乎\Nit doesn't make any difference to me.
 Dialogue: 0,0:14:35.50,0:14:39.06,Default,,0,0,0,,我要我的帽子 还有我的枪\NI want my hat. And my gun.
 Dialogue: 0,0:14:41.67,0:14:44.04,Default,,0,0,0,,要是你不想被人告发\NIf you wanna keep doing what you're doing,
-Dialogue: 0,0:14:44.74,0:14:48.30,Default,,0,0,0,,那就今晚11点 到春歧途酒店找我\NYou'll meet me at the Primrose Path, 2300.
+Dialogue: 0,0:14:44.74,0:14:49.11,Default,,0,0,0,,那就今晚11点 到春歧途酒店找我\NYou'll meet me at the Primrose Path, 2300.
 Dialogue: 0,0:15:31.85,0:15:35.36,Music,,0,0,0,,{\an7}♪ 小战士\N♪ Soldier boy ♪
 Dialogue: 0,0:15:35.55,0:15:40.23,Music,,0,0,0,,{\an7}♪ 哦 我的小战士\N♪ Oh, my little soldier boy ♪
 Dialogue: 0,0:15:41.80,0:15:48.84,Music,,0,0,0,,{\an7}♪ 我会对你忠诚 ♪\N♪ I'll be true to you ♪
@@ -310,7 +311,7 @@ Dialogue: 0,0:17:31.98,0:17:33.77,Default,,0,0,0,,趁他还没打倒我\NBefore 
 Dialogue: 0,0:17:36.03,0:17:37.43,Default,,0,0,0,,说什么呢 姐们儿？\NWhat the fuck? That...
 Dialogue: 0,0:17:37.45,0:17:39.60,Default,,0,0,0,,她好像不知道自己怀孕了一样\NIt's like she doesn't even realize she's pregnant.
 Dialogue: 0,0:17:39.62,0:17:43.10,Default,,0,0,0,,那就是孩子爸爸 长得跟其他白巧克力一样\NSome other white chocolate daddy over there and all this shit.
-Dialogue: 0,0:17:39.62,0:17:44.94,Note,,0,0,0,,{\an7}【白巧克力：俚语 黑人妻子讥讽性称呼白人丈夫】
+Dialogue: 0,0:17:39.62,0:17:44.94,Note,,0,0,0,,{\an7}【白巧克力爹：俚语 黑人妻子讥讽性称呼白人丈夫】
 Dialogue: 0,0:17:43.12,0:17:43.77,Default,,0,0,0,,说得对\NYou right.
 Dialogue: 0,0:17:43.79,0:17:44.82,Default,,0,0,0,,你知道我的意思吧？\NYou feel me? No...
 Dialogue: 0,0:17:46.29,0:17:48.67,Default,,0,0,0,,就是这样 拿起一个 放下去\NOkay, so put one up and down.
@@ -482,8 +483,8 @@ Dialogue: 0,0:28:29.02,0:28:30.25,Default,,0,0,0,,- 慢走 - 拜托你们了\N- 
 Dialogue: 0,0:28:30.27,0:28:32.37,Default,,0,0,0,,走吧 你确定不把宝宝留下来吗？\NI know, but you not sure you wanna let her stay with us?
 Dialogue: 0,0:28:32.39,0:28:33.58,Default,,0,0,0,,我得赶快走了\NI gotta go, I gotta go!
 Dialogue: 0,0:28:33.60,0:28:35.08,Default,,0,0,0,,我知道了 你路上小心\NI know, I know. But travel in grace.
-Dialogue: 0,0:28:35.10,0:28:37.88,Default,,0,0,0,,天啊 保佑他们平安吧\NOh, my God.
-Dialogue: 0,0:28:37.90,0:28:38.84,Default,,0,0,0,,帮我抱一下\NHere. Hold her.
+Dialogue: 0,0:28:35.10,0:28:36.10,Default,,0,0,0,,天啊 保佑他们平安吧\NOh, my God.
+Dialogue: 0,0:28:37.85,0:28:38.84,Default,,0,0,0,,帮我抱一下\NHere. Hold her.
 Dialogue: 0,0:28:38.86,0:28:40.65,Default,,0,0,0,,- 好 给我吧 - 谢谢\N- All right, I got her, I got her. - Thanks.
 Dialogue: 0,0:28:44.57,0:28:46.17,Default,,0,0,0,,- 好孩子 过来吧 - 给你\N- Come on, baby girl, come on.
 Dialogue: 0,0:28:46.19,0:28:47.35,Default,,0,0,0,,当心头\NWatch her head.
@@ -631,8 +632,8 @@ Dialogue: 0,0:39:27.72,0:39:31.06,Default,,0,0,0,,尚恩老大 他还在建车�
 Dialogue: 0,0:39:31.08,0:39:33.04,Default,,0,0,0,,我看他永远都建不完\NThe construction project that never ends.
 Dialogue: 0,0:39:33.07,0:39:35.11,Default,,0,0,0,,总会完工的 请您替我带个好\NI'm sure he'll get it done. Will you give him my best?
 Dialogue: 0,0:39:35.13,0:39:36.35,Default,,0,0,0,,- 好 - 谢谢\N- Will do. - Thank you.
-Dialogue: 0,0:39:36.37,0:39:37.87,Default,,0,0,0,,从里奥杜尔特过来顺利吗？\NHow was your journey from Rio Duarte?
-Dialogue: 0,0:39:37.90,0:39:38.85,Default,,0,0,0,,很顺利\NFine, sir.
+Dialogue: 0,0:39:36.37,0:39:37.88,Default,,0,0,0,,从里奥杜尔特过来顺利吗？\NHow was your journey from Rio Duarte?
+Dialogue: 0,0:39:37.90,0:39:38.86,Default,,0,0,0,,很顺利\NFine, sir.
 Dialogue: 0,0:39:38.88,0:39:40.08,Default,,0,0,0,,你在那边干得不错\NYou're doing great work down there.
 Dialogue: 0,0:39:40.10,0:39:41.08,Default,,0,0,0,,谢谢您 先生\NThank you very much, sir.
 Dialogue: 0,0:39:41.11,0:39:43.29,Default,,0,0,0,,非法移民就像汹涌的潮水\NEach and every day is hand-to-hand combat
@@ -702,27 +703,27 @@ Dialogue: 0,0:42:33.99,0:42:34.82,Default,,0,0,0,,是的\NYes, sir.
 Dialogue: 0,0:42:38.78,0:42:41.56,Default,,0,0,0,,有一点我要说清楚\NNow, to avoid any misunderstanding,
 Dialogue: 0,0:42:41.58,0:42:43.43,Default,,0,0,0,,你申请加入俱乐部期间\Nwe require absolute secrecy
 Dialogue: 0,0:42:43.45,0:42:45.39,Default,,0,0,0,,必须对此事完全保密\Nthrough the initiation process
-Dialogue: 0,0:42:45.41,0:42:48.01,Default,,0,0,0,,这是为了测试你的无私和忠诚\Nto judge how serious and unselfish you are.
+Dialogue: 0,0:42:45.41,0:42:48.02,Default,,0,0,0,,这是为了测试你的无私和忠诚\Nto judge how serious and unselfish you are.
 Dialogue: 0,0:42:48.04,0:42:49.73,Default,,0,0,0,,- 明白吗？ - 嗯\N- You understand? - Mm-hmm.
 Dialogue: 0,0:42:50.25,0:42:53.39,Default,,0,0,0,,另外 想要成为候选成员\NAnd to be considered to a vote,
-Dialogue: 0,0:42:53.42,0:42:57.04,Default,,0,0,0,,你必须自愿参加一项压力测试\Nyou must submit to a voluntary vulnerability study.
-Dialogue: 0,0:42:57.07,0:43:00.52,Default,,0,0,0,,这是为了检测你性格中的问题\NThis identifies anything problematic in your character.
-Dialogue: 0,0:43:00.66,0:43:02.74,Default,,0,0,0,,我性格有问题吗？\NWhat could be a problem?
+Dialogue: 0,0:42:53.42,0:42:57.04,Default,,0,0,0,,你必须自愿接受一项背景审查\Nyou must submit to a voluntary vulnerability study.
+Dialogue: 0,0:42:57.06,0:43:00.64,Default,,0,0,0,,用来查明你个人可能有的任何问题\NThis identifies anything problematic in your character.
+Dialogue: 0,0:43:00.66,0:43:02.74,Default,,0,0,0,,我能有什么问题吗？\NWhat could be a problem?
 Dialogue: 0,0:43:02.77,0:43:03.80,Default,,0,0,0,,我不知道\NI don't know.
 Dialogue: 0,0:43:04.44,0:43:05.53,Default,,0,0,0,,你有问题吗？\NWhat could be a problem?
 Dialogue: 0,0:43:05.55,0:43:07.28,Default,,0,0,0,,绝对不会有\NAbsolutely nothing.
 Dialogue: 0,0:43:07.58,0:43:09.36,Default,,0,0,0,,我们需要了解你是否可靠\NWe wanna know who we're standing with.
 Dialogue: 0,0:43:09.38,0:43:10.17,Default,,0,0,0,,当然\NSure.
-Dialogue: 0,0:43:10.58,0:43:11.67,Default,,0,0,0,,你需要\NNow,
-Dialogue: 0,0:43:11.69,0:43:15.21,Default,,0,0,0,,接受宗审委员会全套纯血美国白人调查\NIt's a Double Yankee White Inquisitions Completum.
-Dialogue: 0,0:43:15.23,0:43:17.63,Default,,0,0,0,,所以 如果你怀疑自己的身体和品格\NSo if you have any doubt as to your ability
-Dialogue: 0,0:43:17.65,0:43:19.22,Default,,0,0,0,,可能无法胜任\Nto qualify in body or character
+Dialogue: 0,0:43:10.58,0:43:11.67,Default,,0,0,0,,审查是由\NNow,
+Dialogue: 0,0:43:11.69,0:43:15.21,Default,,0,0,0,,宗审委员会做的全套纯血美国白人背景审查\NIt's a Double Yankee White Inquisitions Completum.
+Dialogue: 0,0:43:15.23,0:43:17.63,Default,,0,0,0,,所以 如果你怀疑自己的\NSo if you have any doubt as to your ability
+Dialogue: 0,0:43:17.65,0:43:19.22,Default,,0,0,0,,身体和品格无法胜任\Nto qualify in body or character
 Dialogue: 0,0:43:19.24,0:43:22.39,Default,,0,0,0,,圣诞先驱俱乐部成员一职\Nas a member of the Christmas Adventurers Club,
-Dialogue: 0,0:43:22.41,0:43:24.90,Default,,0,0,0,,请你现在就提出来\Nnow you have an opportunity to say so.
+Dialogue: 0,0:43:22.41,0:43:24.90,Default,,0,0,0,,请你现在就提出来\NNow you have an opportunity to say so.
 Dialogue: 0,0:43:27.12,0:43:28.81,Default,,0,0,0,,你要放弃申请吗？\NDo you wish to withdraw?
 Dialogue: 0,0:43:28.84,0:43:29.91,Default,,0,0,0,,不 先生\NNo, sir.
-Dialogue: 0,0:43:30.76,0:43:32.89,Default,,0,0,0,,你愿意接受调查？\NDo you submit yourself?
-Dialogue: 0,0:43:33.24,0:43:36.06,Default,,0,0,0,,是的 我愿意接受调查\NYes, sir. I submit myself.
+Dialogue: 0,0:43:30.76,0:43:32.89,Default,,0,0,0,,你愿意接受审查吗？\NDo you submit yourself?
+Dialogue: 0,0:43:33.24,0:43:36.06,Default,,0,0,0,,是的 我愿意接受审查\NYes, sir. I submit myself.
 Dialogue: 0,0:43:36.91,0:43:38.44,Default,,0,0,0,,非常好\NVery well, then.
 Dialogue: 0,0:43:39.88,0:43:42.90,Default,,0,0,0,,我和桑迪要去切蛋糕了\NNow Sandy and I have to get down to cut the cake.
 Dialogue: 0,0:43:43.99,0:43:46.45,Default,,0,0,0,,恭喜您 祝您女儿新婚快乐\NCongratulations on your daughter's wedding.
@@ -803,7 +804,7 @@ Dialogue: 0,0:47:48.59,0:47:51.37,Default,,0,0,0,,我需要你告诉我夏琳的
 Dialogue: 0,0:47:51.39,0:47:53.40,Default,,0,0,0,,她现在叫什么？住在哪儿？\Nwhat's her name, where does she live?
 Dialogue: 0,0:47:53.42,0:47:55.66,Default,,0,0,0,,我需要知道“火箭男”住在哪里\NI need to know where The Rocket Man lives.
 Dialogue: 0,0:47:55.68,0:47:57.45,Default,,0,0,0,,他现在叫什么？\NI need to know his name.
-Dialogue: 0,0:47:58.57,0:48:00.25,Default,,0,0,0,,- 好吧 - 我说的是穷鬼·帕特\N- Okay. - Ghetto Pat.
+Dialogue: 0,0:47:58.57,0:48:00.25,Default,,0,0,0,,- 好吧 - 我说的是“穷鬼帕特”\N- Okay. - Ghetto Pat.
 Dialogue: 0,0:48:00.27,0:48:03.29,Default,,0,0,0,,好吧 我愿意合作\NOkay. I can cooperate.
 Dialogue: 0,0:48:03.31,0:48:05.42,Default,,0,0,0,,他们一个叫摩登原始人\NTheir names are Fred Flintstone
 Dialogue: 0,0:48:05.44,0:48:06.63,Default,,0,0,0,,一个叫欢乐时光\Nand Arthur Fonzarelli
@@ -1124,12 +1125,12 @@ Dialogue: 0,1:00:11.90,1:00:12.95,Default,,0,0,0,,也对\NRight.
 Dialogue: 0,1:00:13.68,1:00:14.68,Default,,0,0,0,,好\NHm. Okay. "The..."
 Dialogue: 0,1:00:16.40,1:00:18.16,Default,,0,0,0,,“太阳 太阳...”\N"The sun, the sun..."
 Dialogue: 0,1:00:22.11,1:00:23.13,Default,,0,0,0,,好好想\NThink.
-Dialogue: 0,1:00:23.16,1:00:25.08,Default,,0,0,0,,太阳 是“日出”“日出”\N"The sunrise. Sunrise,
+Dialogue: 0,1:00:23.16,1:00:25.08,Default,,0,0,0,,太阳 是“日出 日出”\N"The sunrise. Sunrise,
 Dialogue: 0,1:00:25.10,1:00:28.73,Default,,0,0,0,,“日出在西方”对吗？\Nsunrise in the west." Right?
 Dialogue: 0,1:00:28.76,1:00:29.76,Default,,0,0,0,,哎\NAh.
 Dialogue: 0,1:00:30.31,1:00:31.42,Default,,0,0,0,,校园被突袭了\NThe campus has been raided
-Dialogue: 0,1:00:31.44,1:00:33.94,Default,,0,0,0,,他们带走了“倔山羊”\Nand the Billy Goat has been taken.
-Dialogue: 0,1:00:36.08,1:00:38.01,Default,,0,0,0,,“倔山羊”就是萨默威尔\NBilly Goat is Howard Sommerville,
+Dialogue: 0,1:00:31.44,1:00:33.94,Default,,0,0,0,,他们带走了倔山羊\Nand the Billy Goat has been taken.
+Dialogue: 0,1:00:36.08,1:00:38.01,Default,,0,0,0,,倔山羊就是萨默威尔\NBilly Goat is Howard Sommerville,
 Dialogue: 0,1:00:38.03,1:00:39.93,Default,,0,0,0,,所以霍华德·萨默威尔被带走了\Nso Howard Sommerville has been taken.
 Dialogue: 0,1:00:39.95,1:00:41.18,Default,,0,0,0,,也许还被干掉了\NHe's been taken or killed.
 Dialogue: 0,1:00:41.20,1:00:43.16,Default,,0,0,0,,到底是怎么回事？\NWhat's goin' on?
@@ -1183,7 +1184,7 @@ Dialogue: 0,1:04:18.60,1:04:20.04,Default,,0,0,0,,盖上\NCover.
 Dialogue: 0,1:04:32.24,1:04:33.90,Default,,0,0,0,,不 糟了\NNo, no!
 Dialogue: 0,1:05:06.64,1:05:07.65,Default,,0,0,0,,呛死了\NOh, God!
 Dialogue: 0,1:05:15.77,1:05:18.44,Note,,0,0,0,,{\an8}（勇气 敬意 荣誉）
-Dialogue: 0,1:05:18.46,1:05:21.44,Note,,0,0,0,,{\an8}（瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市）
+Dialogue: 0,1:05:18.46,1:05:21.44,Note,,0,0,0,,{\an8}（瑟吉奥·圣卡洛斯忍者学院 加州归援十字市）
 Dialogue: 0,1:05:47.30,1:05:50.06,Note,,0,0,0,,{\an9}（卫生间）
 Dialogue: 0,1:06:31.99,1:06:34.81,Note,,0,0,0,,{\an8}（保健品大促销）
 Dialogue: 0,1:06:35.20,1:06:39.53,Note,,0,0,0,,{\an8}（公共电话）
@@ -1325,7 +1326,7 @@ Dialogue: 0,1:10:55.48,1:10:57.43,Default,,0,0,0,,我陪着你呢 来吧\NI'll f
 Dialogue: 0,1:10:58.81,1:11:01.49,Default,,0,0,0,,（西班牙语）老天保佑你 埃斯佩兰萨
 Dialogue: 0,1:11:01.51,1:11:04.06,Default,,0,0,0,,（西班牙语）地下室的门开着
 Dialogue: 0,1:11:04.09,1:11:06.20,Default,,0,0,0,,（西班牙语）我二十分钟后到
-Dialogue: 0,1:11:08.34,1:11:12.04,Default,,0,0,0,,我家就像是个拉丁裔的“地下铁路”\NGot a little Latino Harriet Tubman situation going on at my place.
+Dialogue: 0,1:11:08.34,1:11:12.04,Default,,0,0,0,,我家就像是个拉丁裔的地下铁路\NGot a little Latino Harriet Tubman situation going on at my place.
 Dialogue: 0,1:11:08.34,1:11:14.65,Note,,0,0,0,,{\an7}【哈莉特·塔布曼与地下铁路：女性废奴领袖 领导“地下铁路”助数百人逃离奴役】
 Dialogue: 0,1:11:12.08,1:11:13.54,Default,,0,0,0,,发自内心的自愿帮助\NAll legit, from the heart.
 Dialogue: 0,1:11:13.56,1:11:14.65,Default,,0,0,0,,不收钱\NNo cash.
@@ -1381,11 +1382,11 @@ Dialogue: 0,1:12:43.49,1:12:45.61,Default,,0,0,0,,也就她薇拉·弗格森没�
 Dialogue: 0,1:12:46.63,1:12:48.26,Default,,0,0,0,,差不多吧\NI guess so.
 Dialogue: 0,1:12:48.28,1:12:51.18,Note,,0,0,0,,{\an8}（营业时间 周一至周六 早9点到晚6点）
 Dialogue: 0,1:12:59.93,1:13:03.48,Default,,0,0,0,,二小队 告诉我瑟吉奥·圣卡洛斯的住址\NAlpha Two, I need a residential address for a Sergio St. Carlos.
-Dialogue: 0,1:13:08.88,1:13:10.61,Default,,0,0,0,,那是什么？\NWhat is it?
-Dialogue: 0,1:13:10.64,1:13:11.97,Default,,0,0,0,,老的配对器\NIt's an old tracking device.
-Dialogue: 0,1:13:11.99,1:13:15.41,Default,,0,0,0,,薇拉也有一个 只要两个配对器足够接近\NIt goes off when it's within 100 yards of hers, if it works.
-Dialogue: 0,1:13:15.44,1:13:17.06,Default,,0,0,0,,就会开始播放旋律\NAnd it never works.
-Dialogue: 0,1:13:17.08,1:13:19.45,Default,,0,0,0,,有时候管用 但基本都不行\NSometimes it does, but mostly it doesn't.
+Dialogue: 0,1:13:08.89,1:13:10.62,Default,,0,0,0,,那是什么？\NWhat is it?
+Dialogue: 0,1:13:10.64,1:13:11.97,Default,,0,0,0,,老的追踪配对器\NIt's an old tracking device.
+Dialogue: 0,1:13:11.99,1:13:15.42,Default,,0,0,0,,能用的话只要两个足够近 就会开始放旋律\NIt goes off when it's within 100 yards of hers, if it works.
+Dialogue: 0,1:13:15.45,1:13:17.06,Default,,0,0,0,,就没怎么能用过\NAnd it never works.
+Dialogue: 0,1:13:17.08,1:13:19.45,Default,,0,0,0,,有时候确实管用 但基本都不行\NSometimes it does, but mostly it doesn't.
 Dialogue: 0,1:13:19.47,1:13:21.53,Default,,0,0,0,,要不打她手机？\NWhat about her phone?
 Dialogue: 0,1:13:21.63,1:13:23.51,Default,,0,0,0,,她没有手机\NShe doesn't have a phone.
 Dialogue: 0,1:13:27.67,1:13:28.87,Default,,0,0,0,,难道她有手机吗？\NWhat, she has a phone?
@@ -1570,7 +1571,7 @@ Dialogue: 0,1:19:58.48,1:19:59.47,Default,,0,0,0,,我是鲍勃·弗格森\NMy na
 Dialogue: 0,1:19:59.50,1:20:00.96,Default,,0,0,0,,不知道你是否听说过我\NI don't know if you've ever heard of me, all right ?
 Dialogue: 0,1:20:00.99,1:20:03.79,Default,,0,0,0,,我过去是法式七五的成员\NI was a part of French 75 for years.
 Dialogue: 0,1:20:03.81,1:20:04.97,Default,,0,0,0,,干过很多年\NYears and years, all right?
-Dialogue: 0,1:20:04.99,1:20:06.74,Default,,0,0,0,,大家叫我穷鬼·帕特\NThey used to call me "Ghetto Pat,"
+Dialogue: 0,1:20:04.99,1:20:06.74,Default,,0,0,0,,大家叫我“穷鬼帕特”\NThey used to call me "Ghetto Pat,"
 Dialogue: 0,1:20:06.77,1:20:08.73,Default,,0,0,0,,“火箭男”之类的\N"Rocket Man," something like that.
 Dialogue: 0,1:20:09.13,1:20:11.39,Default,,0,0,0,,唯一的问题是\NOnly problem is, I, uh...
 Dialogue: 0,1:20:11.41,1:20:13.24,Default,,0,0,0,,如今 我的脑子不太好使\NI fried my brain since then, man.
@@ -1711,7 +1712,7 @@ Dialogue: 0,1:24:43.54,1:24:46.25,Default,,0,0,0,,集合地点是勇敢海狸修
 Dialogue: 0,1:24:43.54,1:24:46.62,Note,,0,0,0,,{\an9}【海狸：象征勤奋与共同营造家园】
 Dialogue: 0,1:24:46.64,1:24:51.80,Note,,0,0,0,,{\an7}【海狸：在英语俚语中亦为女性生殖器的俗称 借用污名化词汇以自我赋权并挑衅权威】
 Dialogue: 0,1:24:46.84,1:24:48.42,Default,,0,0,0,,勇敢海狸修女会\NSisters of the Brave Beaver. I don't know...
-Dialogue: 0,1:24:48.44,1:24:50.06,Default,,0,0,0,,是山上的那个建筑吗？\NIs that that compound out in the hills?
+Dialogue: 0,1:24:48.44,1:24:50.06,Default,,0,0,0,,是山上的那个吗？\NIs that that compound out in the hills?
 Dialogue: 0,1:24:50.09,1:24:51.83,Default,,0,0,0,,你得告诉我准确的位置\NI need the coordinates, exact coordinates.
 Dialogue: 0,1:24:51.86,1:24:52.91,Default,,0,0,0,,好 等一下\NOkay, one second.
 Dialogue: 0,1:24:52.93,1:24:54.16,Default,,0,0,0,,帮他指路\NTell him how to get there.
@@ -1973,7 +1974,7 @@ Dialogue: 0,1:37:31.84,1:37:33.53,Default,,0,0,0,,天啊\NWell, uh...
 Dialogue: 0,1:37:35.58,1:37:37.41,Default,,0,0,0,,这件事如果是真的\NThat would be quite the revelation
 Dialogue: 0,1:37:37.44,1:37:38.73,Default,,0,0,0,,那就太可怕了\Nif it were true.
 Dialogue: 0,1:37:40.92,1:37:43.73,Default,,0,0,0,,比尔 请问这消息哪儿来的？\NBill, may I ask what your source is?
-Dialogue: 0,1:37:43.75,1:37:47.57,Default,,0,0,0,,来自纯血美国白人背景调查报告\NSure. That's part of a Double Yankee White background check.
+Dialogue: 0,1:37:43.75,1:37:47.57,Default,,0,0,0,,来自纯血美国白人背景审查报告\NSure. That's part of a Double Yankee White background check.
 Dialogue: 0,1:37:47.59,1:37:50.11,Default,,0,0,0,,我们在电脑里找到了一些旧文件\NSome old paperwork turned up in a computer file
 Dialogue: 0,1:37:50.13,1:37:53.60,Default,,0,0,0,,是关于一个叫贱女姜戈的黑人罪犯\Non the Black militant named Junglepussy.
 Dialogue: 0,1:37:54.35,1:37:58.26,Default,,0,0,0,,15年前 她就跟一个警官讲过这件事\NShe told an officer this very story 15 years ago.
@@ -1985,7 +1986,6 @@ Dialogue: 0,1:38:10.18,1:38:11.62,Default,,0,0,0,,哦 贱命一条\NOh. No more 
 Dialogue: 0,1:38:11.82,1:38:13.22,Default,,0,0,0,,总之 几天前\NNow, a few days ago,
 Dialogue: 0,1:38:13.24,1:38:15.26,Default,,0,0,0,,勒喉乔雇佣赏金猎人\NLockjaw hired a bounty hunter
 Dialogue: 0,1:38:15.49,1:38:18.16,Default,,0,0,0,,在埃尔帕索抓走了一个平民\Nto make a civilian extraction in El Paso.
-Dialogue: 0,1:38:15.49,1:38:18.94,Note,,0,0,0,,{\an7}【埃尔帕索：现实中城市 位于德克萨斯州美墨边境】
 Dialogue: 0,1:38:18.96,1:38:21.65,Default,,0,0,0,,带队的是阿威腾·魁 你认识吗？\NIt was led by an Avanti Q. You know him?
 Dialogue: 0,1:38:21.67,1:38:24.02,Default,,0,0,0,,认识 阿威腾是个好军人\NYeah, I know Avanti. He's a good soldier.
 Dialogue: 0,1:38:24.04,1:38:25.27,Default,,0,0,0,,有多好？\NNot great?
@@ -2230,7 +2230,7 @@ Dialogue: 0,1:51:13.24,1:51:15.61,Default,,0,0,0,,被我们抓到了\Nat some st
 Dialogue: 0,1:51:16.30,1:51:17.61,Default,,0,0,0,,真是遗憾啊\NThat's gotta hurt.
 Dialogue: 0,1:51:19.07,1:51:21.33,Default,,0,0,0,,你帮我的话 我就会帮你\NYou help me, I'll help you.
 Dialogue: 0,1:51:21.82,1:51:24.41,Default,,0,0,0,,告诉我上哪儿找帕特·卡尔霍恩\NYou give me Pat Calhoun...
-Dialogue: 0,1:51:24.83,1:51:27.57,Default,,0,0,0,,也叫“火箭男”和穷鬼·帕特\NThe Rocket Man, Ghetto Pat...
+Dialogue: 0,1:51:24.83,1:51:27.57,Default,,0,0,0,,也叫“火箭男”和“穷鬼帕特”\NThe Rocket Man, Ghetto Pat...
 Dialogue: 0,1:51:28.26,1:51:30.96,Default,,0,0,0,,我就送你回家 去救那女孩\NAnd I'll let you go home, and I'll let you save that little girl.
 Dialogue: 0,1:51:31.52,1:51:34.00,Default,,0,0,0,,她现在就在上校那儿\NYou know she's with the Colonel, right?
 Dialogue: 0,1:51:36.38,1:51:37.61,Default,,0,0,0,,忘说了\NBy "home"...
@@ -2482,7 +2482,8 @@ Dialogue: 0,2:14:28.08,2:14:28.97,Default,,0,0,0,,“新青...”\NGreen..."
 Dialogue: 0,2:14:30.68,2:14:31.98,Default,,0,0,0,,薇拉\NWilla!
 Dialogue: 0,2:14:46.53,2:14:47.47,Default,,0,0,0,,可恶\NFuck.
 Dialogue: 0,2:15:44.86,2:15:45.97,Default,,0,0,0,,可恶\NFuck.
-Dialogue: 0,2:16:01.07,2:16:02.94,Default,,0,0,0,,转过去 好了 好了\NPlease, please. Okay. Okay.
+Dialogue: 0,2:16:00.29,2:16:01.92,Default,,0,0,0,,转过去 转过去\NPlease, please.
+Dialogue: 0,2:16:01.95,2:16:02.83,Default,,0,0,0,,好了 好了\NOkay. Okay.
 Dialogue: 0,2:18:20.86,2:18:23.55,Note,,0,0,0,,{\an8}（午夜狂飙）
 Dialogue: 0,2:19:43.07,2:19:43.68,Default,,0,0,0,,该死\NFuck!
 Dialogue: 0,2:20:08.05,2:20:11.81,Default,,0,0,0,,“新青入乡 暴富新贵 中枢小镇”\N"Green Acres, Beverly Hillbillies, and Hooterville Junction!"
@@ -2656,7 +2657,7 @@ Dialogue: 0,2:31:46.81,2:31:48.71,Default,,0,0,0,,“我知道有一天\NI know 
 Dialogue: 0,2:31:49.36,2:31:52.11,Default,,0,0,0,,“等时机合适 安全的时候\Nwhen it's right and it's safe...
 Dialogue: 0,2:31:52.83,2:31:54.42,Default,,0,0,0,,“你会找到我”\Nyou will find me.
 Dialogue: 0,2:31:55.48,2:31:57.93,Default,,0,0,0,,“替我吻一下你爸爸\NPlease send a kiss to your dad...
-Dialogue: 0,2:31:58.76,2:32:00.32,Default,,0,0,0,,“我的穷鬼·帕特”\Nmy Ghetto Pat.
+Dialogue: 0,2:31:58.76,2:32:00.32,Default,,0,0,0,,“我的穷鬼帕特”\Nmy Ghetto Pat.
 Dialogue: 0,2:32:01.36,2:32:03.01,Default,,0,0,0,,“爱你的妈妈\NLove, your mom,
 Dialogue: 0,2:32:03.75,2:32:04.97,Default,,0,0,0,,“叛娅”\NPerfidia.
 Dialogue: 0,2:32:32.69,2:32:36.00,Default,,0,0,0,,帮我看看自拍闪光灯 应该怎么用的\NHow do I get this flash to work?
@@ -2711,8 +2712,8 @@ Dialogue: 0,2:35:00.65,2:35:03.82,Note,,0,0,0,,{\an8}字幕译制\N上海电影�
 Dialogue: 0,2:35:03.82,2:35:07.24,Note,,0,0,0,,{\an8}翻译\N上海电影译制厂：许诺 & 徐子怡\N蒙太奇字幕组：小p & 十三
 Dialogue: 0,2:35:07.24,2:35:10.69,Note,,0,0,0,,{\an8}蒙太奇字幕组\N双语合并：novaeye & 小p & NickCollect & Lei\N时间轴：小p & novaeye\N校对：小p & 十三 & novaeye & NickCollect
 Dialogue: 0,2:35:10.69,2:35:14.35,Note,,0,0,0,,{\an8}蒙太奇字幕组\N注释：小p & 十三\N后期特效：NickCollect & novaeye
-Dialogue: 0,2:35:14.35,2:35:17.81,Note,,0,0,0,,{\an8}蒙太奇字幕组字幕许可\N原创部分许可CC BY‑NC‑SA 4.0
-Dialogue: 0,2:35:17.81,2:35:21.89,Note,,0,0,0,,{\an8}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,2:35:14.35,2:35:17.81,Note,,0,0,0,,{\an8}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,2:35:17.81,2:35:21.89,Note,,0,0,0,,{\an8}蒙太奇字幕组字幕许可\N原创部分许可CC BY‑NC‑SA 4.0
 Dialogue: 0,2:35:21.89,2:35:25.63,Note,,0,0,0,,{\an8}影片灵感源于托马斯·品钦所著小说\N《葡萄园》
 Dialogue: 0,2:33:58.50,2:34:02.06,Music,,0,0,0,,♪ 她是一个美国女孩\N♪ Well, she was an American girl ♪
 Dialogue: 0,2:34:03.33,2:34:05.83,Music,,0,0,0,,♪ 从小到大充满希望 ♪\N♪ Raised on promises ♪
@@ -2807,5 +2808,5 @@ Dialogue: 0,2:41:21.47,2:41:23.90,Default,,0,0,0,,都请安静 开拍了\NHey, q
 Dialogue: 0,2:41:25.91,2:41:28.15,Default,,0,0,0,,住嘴 我们在拍了\NShut the fuck up, we're rolling.
 Dialogue: 0,2:41:30.57,2:41:35.29,Note,,0,0,0,,{\an8}（领域娱乐）
 Dialogue: 0,2:41:31.11,2:41:32.26,Default,,0,0,0,,开拍\NAction.
-Dialogue: 0,2:41:36.30,2:41:40.73,Note,,0,0,0,,{\an2}（华纳兄弟影业）
-Dialogue: 0,2:41:41.73,2:41:46.13,Note,,0,0,0,,{\an2}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
+Dialogue: 0,2:41:36.30,2:41:40.73,Note,,0,0,0,,{\an8}（华纳兄弟影业）
+Dialogue: 0,2:41:36.30,2:41:40.73,Note,,0,0,0,,{\an2}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
