@@ -46,9 +46,9 @@ Dialogue: 0,0:02:03.71,0:02:06.03,Default,,0,0,0,,上不了车的 只能自己�
 Dialogue: 0,0:02:06.06,0:02:08.79,Default,,0,0,0,,记住 我们从友谊路撤退\N{\rEN}Via de la Amistad, that's our exit route.
 Dialogue: 0,0:02:08.81,0:02:11.38,Default,,0,0,0,,它是东西向的 离905公路约一两公里\N{\rEN}Runs east-west. It's about one mile from 905.
 Dialogue: 0,0:02:11.40,0:02:11.91,Default,,0,0,0,,好的\N{\rEN}Right.
-Dialogue: 0,0:02:11.93,0:02:13.85,Default,,0,0,0,,你的车里装了什么？\N{\rEN}What you draggin' in that wagon?
-Dialogue: 0,0:02:13.88,0:02:15.96,Default,,0,0,0,,我车里有的是自制炸药\N{\rEN}Listen, I got HMEs.
-Dialogue: 0,0:02:15.98,0:02:17.26,Default,,0,0,0,,有迫击炮 还有催泪瓦斯\N{\rEN}I got mortars, I got tear gas,
+Dialogue: 0,0:02:11.93,0:02:13.85,Default,,0,0,0,,你的小车里拉了什么？\N{\rEN}What you draggin' in that wagon?
+Dialogue: 0,0:02:13.88,0:02:15.96,Default,,0,0,0,,有自制炸药\N{\rEN}Listen, I got HMEs.
+Dialogue: 0,0:02:15.98,0:02:17.26,Default,,0,0,0,,有发射筒 还有催泪瓦斯\N{\rEN}I got mortars, I got tear gas,
 Dialogue: 0,0:02:17.28,0:02:18.42,Default,,0,0,0,,你们需要的我都有\N{\rEN}I got whatever you guys need,
 Dialogue: 0,0:02:18.44,0:02:21.20,Default,,0,0,0,,可我还不清楚计划是什么\N{\rEN}But I'm a little unclear as to what the plan is.
 Dialogue: 0,0:02:21.23,0:02:22.35,Default,,0,0,0,,能不能说明一下？\N{\rEN}I'm gonna need some direction.
@@ -157,7 +157,7 @@ Dialogue: 0,0:08:27.46,0:08:29.05,Default,,0,0,0,,- 别激动 都冷静一下 - 
 Dialogue: 0,0:08:29.07,0:08:29.96,Default,,0,0,0,,（西班牙语）真刺激
 Dialogue: 0,0:08:29.98,0:08:31.55,Default,,0,0,0,,你怎么开心的跟过年一样？\N{\rEN}Where you get all this energy from?
 Dialogue: 0,0:08:31.58,0:08:32.63,Default,,0,0,0,,你说什么？\N{\rEN}What are you talkin' about?
-Dialogue: 0,0:08:32.65,0:08:34.24,Default,,0,0,0,,今晚穷鬼·帕特是我的了\N{\rEN}I'm getting Ghetto Pat tonight. I think I like you.
+Dialogue: 0,0:08:32.65,0:08:34.24,Default,,0,0,0,,今晚穷鬼帕特是我的了\N{\rEN}I'm getting Ghetto Pat tonight. I think I like you.
 Dialogue: 0,0:08:34.26,0:08:35.80,Default,,0,0,0,,你喜欢黑人女孩吗？\N{\rEN}You like Black girls?
 Dialogue: 0,0:08:35.82,0:08:36.39,Default,,0,0,0,,喜欢吗？\N{\rEN}Yeah?
 Dialogue: 0,0:08:36.41,0:08:37.24,Default,,0,0,0,,我喜欢什么？\N{\rEN}Do I like what?
@@ -248,7 +248,7 @@ Dialogue: 0,0:14:30.00,0:14:32.28,Default,,0,0,0,,你想炸掉什么都可以\N{
 Dialogue: 0,0:14:32.30,0:14:34.10,Default,,0,0,0,,我根本不在乎\N{\rEN}it doesn't make any difference to me.
 Dialogue: 0,0:14:35.50,0:14:39.06,Default,,0,0,0,,我要我的帽子 还有我的枪\N{\rEN}I want my hat. And my gun.
 Dialogue: 0,0:14:41.67,0:14:44.04,Default,,0,0,0,,要是你不想被人告发\N{\rEN}If you wanna keep doing what you're doing,
-Dialogue: 0,0:14:44.74,0:14:48.30,Default,,0,0,0,,那就今晚11点 到春歧途酒店找我\N{\rEN}You'll meet me at the Primrose Path, 2300.
+Dialogue: 0,0:14:44.74,0:14:49.11,Default,,0,0,0,,那就今晚11点 到春歧途酒店找我\N{\rEN}You'll meet me at the Primrose Path, 2300.
 Dialogue: 0,0:15:56.06,0:16:00.43,Default,,0,0,0,,能不能慢慢来？我想把鞋脱了\N{\rEN}Can we go slowly? Wanna take my shoes off.
 Dialogue: 0,0:16:00.46,0:16:02.46,Default,,0,0,0,,闭起...\N{\rEN}Shut...
 Dialogue: 0,0:16:03.92,0:16:05.22,Default,,0,0,0,,...嘴来\N{\rEN}...up.
@@ -448,8 +448,8 @@ Dialogue: 0,0:28:29.02,0:28:30.25,Default,,0,0,0,,- 慢走 - 拜托你们了\N{\
 Dialogue: 0,0:28:30.27,0:28:32.37,Default,,0,0,0,,走吧 你确定不把宝宝留下来吗？\N{\rEN}I know, but you not sure you wanna let her stay with us?
 Dialogue: 0,0:28:32.39,0:28:33.58,Default,,0,0,0,,我得赶快走了\N{\rEN}I gotta go, I gotta go!
 Dialogue: 0,0:28:33.60,0:28:35.08,Default,,0,0,0,,我知道了 你路上小心\N{\rEN}I know, I know. But travel in grace.
-Dialogue: 0,0:28:35.10,0:28:37.88,Default,,0,0,0,,天啊 保佑他们平安吧\N{\rEN}Oh, my God.
-Dialogue: 0,0:28:37.90,0:28:38.84,Default,,0,0,0,,帮我抱一下\N{\rEN}Here. Hold her.
+Dialogue: 0,0:28:35.10,0:28:36.10,Default,,0,0,0,,天啊 保佑他们平安吧\N{\rEN}Oh, my God.
+Dialogue: 0,0:28:37.85,0:28:38.84,Default,,0,0,0,,帮我抱一下\N{\rEN}Here. Hold her.
 Dialogue: 0,0:28:38.86,0:28:40.65,Default,,0,0,0,,- 好 给我吧 - 谢谢\N{\rEN}- All right, I got her, I got her. - Thanks.
 Dialogue: 0,0:28:44.57,0:28:46.17,Default,,0,0,0,,- 好孩子 过来吧 - 给你\N{\rEN}- Come on, baby girl, come on.
 Dialogue: 0,0:28:46.19,0:28:47.35,Default,,0,0,0,,当心头\N{\rEN}Watch her head.
@@ -468,9 +468,9 @@ Dialogue: 0,0:29:22.69,0:29:25.79,Default,,0,0,0,,需要作证的时候 我们�
 Dialogue: 0,0:29:26.17,0:29:28.58,Default,,0,0,0,,你的当务之急是找一份工作\N{\rEN}Look, first order of business, find a job.
 Dialogue: 0,0:29:28.61,0:29:29.85,Default,,0,0,0,,养活自己\N{\rEN}Pay your bills.
 Dialogue: 0,0:29:31.24,0:29:32.43,Default,,0,0,0,,- 听懂了吗？ - 嗯\N{\rEN}- You good? - Mm-hmm.
-Dialogue: 0,0:29:32.45,0:29:35.84,Default,,0,0,0,,欢迎入局主流社会\N{\rEN}Welcome to mainstream America.
+Dialogue: 0,0:29:32.45,0:29:35.84,Default,,0,0,0,,欢迎成为主流美国人\N{\rEN}Welcome to mainstream America.
 Dialogue: 0,0:29:36.13,0:29:40.17,Default,,0,0,0,,革命一开始 我们与恶魔作战\N{\rEN}Every revolution begins fightin' demons
-Dialogue: 0,0:29:40.19,0:29:44.53,Default,,0,0,0,,到头来 却被逼着互相残杀\N{\rEN}but motherfuckers just end up fightin' themselves.
+Dialogue: 0,0:29:40.19,0:29:44.53,Default,,0,0,0,,到头来 却开始自相残杀\N{\rEN}but motherfuckers just end up fightin' themselves.
 Dialogue: 0,0:30:24.34,0:30:25.32,Default,,0,0,0,,举起手来\N{\rEN}Hands up!
 Dialogue: 0,0:30:25.34,0:30:27.55,Default,,0,0,0,,举起手来 手放在后脑勺上\N{\rEN}Put your hands up over your head!
 Dialogue: 0,0:30:27.57,0:30:28.80,Default,,0,0,0,,把你的手举起来\N{\rEN}She's in the back!
@@ -559,11 +559,11 @@ Dialogue: 0,0:39:27.72,0:39:31.06,Default,,0,0,0,,尚恩老大 他还在建车�
 Dialogue: 0,0:39:31.08,0:39:33.04,Default,,0,0,0,,我看他永远都建不完\N{\rEN}The construction project that never ends.
 Dialogue: 0,0:39:33.07,0:39:35.11,Default,,0,0,0,,总会完工的 请您替我带个好\N{\rEN}I'm sure he'll get it done. Will you give him my best?
 Dialogue: 0,0:39:35.13,0:39:36.35,Default,,0,0,0,,- 好 - 谢谢\N{\rEN}- Will do. - Thank you.
-Dialogue: 0,0:39:36.37,0:39:37.87,Default,,0,0,0,,从里奥杜尔特过来顺利吗？\N{\rEN}How was your journey from Rio Duarte?
-Dialogue: 0,0:39:37.90,0:39:38.85,Default,,0,0,0,,很顺利\N{\rEN}Fine, sir.
+Dialogue: 0,0:39:36.37,0:39:37.88,Default,,0,0,0,,从里奥杜尔特过来顺利吗？\N{\rEN}How was your journey from Rio Duarte?
+Dialogue: 0,0:39:37.90,0:39:38.86,Default,,0,0,0,,很顺利\N{\rEN}Fine, sir.
 Dialogue: 0,0:39:38.88,0:39:40.08,Default,,0,0,0,,你在那边干得不错\N{\rEN}You're doing great work down there.
 Dialogue: 0,0:39:40.10,0:39:41.08,Default,,0,0,0,,谢谢您 先生\N{\rEN}Thank you very much, sir.
-Dialogue: 0,0:39:41.11,0:39:43.29,Default,,0,0,0,,非法移民就像汹涌的潮水\N{\rEN}Each and every day is hand-to-hand combat
+Dialogue: 0,0:39:41.11,0:39:43.29,Default,,0,0,0,,移民就像汹涌的潮水\N{\rEN}Each and every day is hand-to-hand combat
 Dialogue: 0,0:39:43.31,0:39:45.59,Default,,0,0,0,,每天都是一场硬仗 对吗？\N{\rEN}in the spread of uncontrolled migration, isn't it?
 Dialogue: 0,0:39:45.62,0:39:46.63,Default,,0,0,0,,您说得没错\N{\rEN}Yes, it is, sir.
 Dialogue: 0,0:39:46.65,0:39:47.50,Default,,0,0,0,,是啊\N{\rEN}Yeah.
@@ -582,7 +582,7 @@ Dialogue: 0,0:40:18.89,0:40:22.29,Default,,0,0,0,,招募了一些军方成员加
 Dialogue: 0,0:40:22.32,0:40:24.02,Default,,0,0,0,,我们发现他们的\N{\rEN}We found their...
 Dialogue: 0,0:40:24.04,0:40:28.04,Default,,0,0,0,,实战经验和专业战术相当有用\N{\rEN}Tactical battlefield expertise to be quite useful.
 Dialogue: 0,0:40:28.06,0:40:31.65,Default,,0,0,0,,你看 我们和你的目标是一致的\N{\rEN}Now, our aim and your aim is the same.
-Dialogue: 0,0:40:31.67,0:40:34.63,Default,,0,0,0,,及时发现危险分子 反动分子\N{\rEN}To find dangerous lunatics, haters
+Dialogue: 0,0:40:31.67,0:40:34.63,Default,,0,0,0,,及时发现危险的疯子 恨国者\N{\rEN}To find dangerous lunatics, haters
 Dialogue: 0,0:40:34.66,0:40:38.87,Default,,0,0,0,,地痞流氓 及时制止\N{\rEN}And punk trash and stop them.
 Dialogue: 0,0:40:38.89,0:40:41.72,Default,,0,0,0,,再也不会有人闹事\N{\rEN}No more lunatics.
 Dialogue: 0,0:40:42.70,0:40:44.82,Default,,0,0,0,,我不知道你有没有听说\N{\rEN}Now, I'm not sure if you've heard or not,
@@ -591,10 +591,10 @@ Dialogue: 0,0:40:47.13,0:40:49.36,Default,,0,0,0,,我听到了消息\N{\rEN}Oh, 
 Dialogue: 0,0:40:49.51,0:40:52.13,Default,,0,0,0,,俱乐部有空缺了\N{\rEN}This means an opening.
 Dialogue: 0,0:40:52.15,0:40:56.53,Default,,0,0,0,,上校 我可以毫不夸张地说\N{\rEN}Colonel, I don't think I'm being immodest when I say
 Dialogue: 0,0:40:56.56,0:41:00.22,Default,,0,0,0,,如果能够加入圣诞先驱俱乐部\N{\rEN}that joining the Christmas Adventurers Club
-Dialogue: 0,0:41:00.24,0:41:03.21,Default,,0,0,0,,你就正式成为了人上人\N{\rEN}means that you are a superior man.
+Dialogue: 0,0:41:00.24,0:41:03.21,Default,,0,0,0,,你就正式成为了高尚的人\N{\rEN}means that you are a superior man.
 Dialogue: 0,0:41:03.23,0:41:06.19,Default,,0,0,0,,你不是最优秀 最聪明的人\N{\rEN}No, not the best man, not the most intelligent,
 Dialogue: 0,0:41:06.22,0:41:09.32,Default,,0,0,0,,也不是最见多识广和智慧的人\N{\rEN}The most sophisticated, or the wisest.
-Dialogue: 0,0:41:09.34,0:41:13.15,Default,,0,0,0,,你只是更优越 足以凌驾众人之上\N{\rEN}It just means that you are superior to other human beings,
+Dialogue: 0,0:41:09.34,0:41:13.15,Default,,0,0,0,,你只是比其他人更优越 更高尚\N{\rEN}It just means that you are superior to other human beings,
 Dialogue: 0,0:41:13.17,0:41:17.87,Default,,0,0,0,,当然你会得到财富 交到最好的朋友\N{\rEN}And you shall never want for riches or the greatest of friends.
 Dialogue: 0,0:41:18.13,0:41:22.48,Default,,0,0,0,,我们是独立运作 行事也可以机动灵活\N{\rEN}Now, we report to ourselves with a freedom to be creative
 Dialogue: 0,0:41:22.50,0:41:25.00,Default,,0,0,0,,省略一些繁琐的程序\N{\rEN}and cut through layers of bureaucracy.
@@ -629,27 +629,27 @@ Dialogue: 0,0:42:33.99,0:42:34.82,Default,,0,0,0,,是的\N{\rEN}Yes, sir.
 Dialogue: 0,0:42:38.78,0:42:41.56,Default,,0,0,0,,有一点我要说清楚\N{\rEN}Now, to avoid any misunderstanding,
 Dialogue: 0,0:42:41.58,0:42:43.43,Default,,0,0,0,,你申请加入俱乐部期间\N{\rEN}we require absolute secrecy
 Dialogue: 0,0:42:43.45,0:42:45.39,Default,,0,0,0,,必须对此事完全保密\N{\rEN}through the initiation process
-Dialogue: 0,0:42:45.41,0:42:48.01,Default,,0,0,0,,这是为了测试你的无私和忠诚\N{\rEN}to judge how serious and unselfish you are.
+Dialogue: 0,0:42:45.41,0:42:48.02,Default,,0,0,0,,这是为了测试你的无私和忠诚\N{\rEN}to judge how serious and unselfish you are.
 Dialogue: 0,0:42:48.04,0:42:49.73,Default,,0,0,0,,- 明白吗？ - 嗯\N{\rEN}- You understand? - Mm-hmm.
 Dialogue: 0,0:42:50.25,0:42:53.39,Default,,0,0,0,,另外 想要成为候选成员\N{\rEN}And to be considered to a vote,
-Dialogue: 0,0:42:53.42,0:42:57.04,Default,,0,0,0,,你必须自愿参加一项压力测试\N{\rEN}you must submit to a voluntary vulnerability study.
-Dialogue: 0,0:42:57.07,0:43:00.52,Default,,0,0,0,,这是为了检测你性格中的问题\N{\rEN}This identifies anything problematic in your character.
-Dialogue: 0,0:43:00.66,0:43:02.74,Default,,0,0,0,,我性格有问题吗？\N{\rEN}What could be a problem?
+Dialogue: 0,0:42:53.42,0:42:57.04,Default,,0,0,0,,你必须自愿接受一项背景审查\N{\rEN}you must submit to a voluntary vulnerability study.
+Dialogue: 0,0:42:57.06,0:43:00.64,Default,,0,0,0,,用来查明你个人可能有的任何问题\N{\rEN}This identifies anything problematic in your character.
+Dialogue: 0,0:43:00.66,0:43:02.74,Default,,0,0,0,,我能有什么问题吗？\N{\rEN}What could be a problem?
 Dialogue: 0,0:43:02.77,0:43:03.80,Default,,0,0,0,,我不知道\N{\rEN}I don't know.
 Dialogue: 0,0:43:04.44,0:43:05.53,Default,,0,0,0,,你有问题吗？\N{\rEN}What could be a problem?
 Dialogue: 0,0:43:05.55,0:43:07.28,Default,,0,0,0,,绝对不会有\N{\rEN}Absolutely nothing.
 Dialogue: 0,0:43:07.58,0:43:09.36,Default,,0,0,0,,我们需要了解你是否可靠\N{\rEN}We wanna know who we're standing with.
 Dialogue: 0,0:43:09.38,0:43:10.17,Default,,0,0,0,,当然\N{\rEN}Sure.
-Dialogue: 0,0:43:10.58,0:43:11.67,Default,,0,0,0,,你需要\N{\rEN}Now,
-Dialogue: 0,0:43:11.69,0:43:15.21,Default,,0,0,0,,接受宗审委员会全套纯血美国白人调查\N{\rEN}It's a Double Yankee White Inquisitions Completum.
-Dialogue: 0,0:43:15.23,0:43:17.63,Default,,0,0,0,,所以 如果你怀疑自己的身体和品格\N{\rEN}So if you have any doubt as to your ability
-Dialogue: 0,0:43:17.65,0:43:19.22,Default,,0,0,0,,可能无法胜任\N{\rEN}to qualify in body or character
+Dialogue: 0,0:43:10.58,0:43:11.67,Default,,0,0,0,,审查是由\N{\rEN}Now,
+Dialogue: 0,0:43:11.69,0:43:15.21,Default,,0,0,0,,宗审委员会做的全套纯血美国白人背景审查\N{\rEN}It's a Double Yankee White Inquisitions Completum.
+Dialogue: 0,0:43:15.23,0:43:17.63,Default,,0,0,0,,所以 如果你怀疑自己的\N{\rEN}So if you have any doubt as to your ability
+Dialogue: 0,0:43:17.65,0:43:19.22,Default,,0,0,0,,身体和品格无法胜任\N{\rEN}to qualify in body or character
 Dialogue: 0,0:43:19.24,0:43:22.39,Default,,0,0,0,,圣诞先驱俱乐部成员一职\N{\rEN}as a member of the Christmas Adventurers Club,
 Dialogue: 0,0:43:22.41,0:43:24.90,Default,,0,0,0,,请你现在就提出来\N{\rEN}now you have an opportunity to say so.
 Dialogue: 0,0:43:27.12,0:43:28.81,Default,,0,0,0,,你要放弃申请吗？\N{\rEN}Do you wish to withdraw?
 Dialogue: 0,0:43:28.84,0:43:29.91,Default,,0,0,0,,不 先生\N{\rEN}No, sir.
-Dialogue: 0,0:43:30.76,0:43:32.89,Default,,0,0,0,,你愿意接受调查？\N{\rEN}Do you submit yourself?
-Dialogue: 0,0:43:33.24,0:43:36.06,Default,,0,0,0,,是的 我愿意接受调查\N{\rEN}Yes, sir. I submit myself.
+Dialogue: 0,0:43:30.76,0:43:32.89,Default,,0,0,0,,你愿意接受审查吗？\N{\rEN}Do you submit yourself?
+Dialogue: 0,0:43:33.24,0:43:36.06,Default,,0,0,0,,是的 我愿意接受审查\N{\rEN}Yes, sir. I submit myself.
 Dialogue: 0,0:43:36.91,0:43:38.44,Default,,0,0,0,,非常好\N{\rEN}Very well, then.
 Dialogue: 0,0:43:39.88,0:43:42.90,Default,,0,0,0,,我和桑迪要去切蛋糕了\N{\rEN}Now Sandy and I have to get down to cut the cake.
 Dialogue: 0,0:43:43.99,0:43:46.45,Default,,0,0,0,,恭喜您 祝您女儿新婚快乐\N{\rEN}Congratulations on your daughter's wedding.
@@ -678,7 +678,7 @@ Dialogue: 0,0:45:25.99,0:45:27.32,Default,,0,0,0,,“继续”\N{\rEN}Go ahead.
 Dialogue: 0,0:45:27.34,0:45:29.93,Default,,0,0,0,,“你们以为在网上喊喊口号\N{\rEN}What, you think this is Facebook?
 Dialogue: 0,0:45:29.95,0:45:31.08,Default,,0,0,0,,“发发朋友圈就是斗争吗？”\N{\rEN}This is gonna happen on your Instagram?
 Dialogue: 0,0:45:31.79,0:45:34.04,Default,,0,0,0,,“挂个话题标签就能胜利吗？”\N{\rEN}It's gonna happen on a hashtag somewhere?
-Dialogue: 0,0:45:34.25,0:45:35.56,Default,,0,0,0,,“不是这样的"\N{\rEN}I think not.
+Dialogue: 0,0:45:34.25,0:45:35.56,Default,,0,0,0,,“不是这样的”\N{\rEN}I think not.
 Dialogue: 0,0:45:35.58,0:45:37.98,Default,,0,0,0,,“斗争的时候 也请不要忘记\N{\rEN}And don't forget, while you're doing it,
 Dialogue: 0,0:45:38.00,0:45:40.90,Default,,0,0,0,,“这个国家应当给予外来者庇护”\N{\rEN}that this is a nation that gives asylum.
 Dialogue: 0,0:45:40.92,0:45:42.45,Default,,0,0,0,,这些事情不是孤立的\N{\rEN}Don't think they're separate.
@@ -725,7 +725,7 @@ Dialogue: 0,0:47:48.59,0:47:51.37,Default,,0,0,0,,我需要你告诉我夏琳的
 Dialogue: 0,0:47:51.39,0:47:53.40,Default,,0,0,0,,她现在叫什么？住在哪儿？\N{\rEN}what's her name, where does she live?
 Dialogue: 0,0:47:53.42,0:47:55.66,Default,,0,0,0,,我需要知道“火箭男”住在哪里\N{\rEN}I need to know where The Rocket Man lives.
 Dialogue: 0,0:47:55.68,0:47:57.45,Default,,0,0,0,,他现在叫什么？\N{\rEN}I need to know his name.
-Dialogue: 0,0:47:58.57,0:48:00.25,Default,,0,0,0,,- 好吧 - 我说的是穷鬼·帕特\N{\rEN}- Okay. - Ghetto Pat.
+Dialogue: 0,0:47:58.57,0:48:00.25,Default,,0,0,0,,- 好吧 - 我说的是“穷鬼帕特”\N{\rEN}- Okay. - Ghetto Pat.
 Dialogue: 0,0:48:00.27,0:48:03.29,Default,,0,0,0,,好吧 我愿意合作\N{\rEN}Okay. I can cooperate.
 Dialogue: 0,0:48:03.31,0:48:05.42,Default,,0,0,0,,他们一个叫摩登原始人\N{\rEN}Their names are Fred Flintstone
 Dialogue: 0,0:48:05.44,0:48:06.63,Default,,0,0,0,,一个叫欢乐时光\N{\rEN}and Arthur Fonzarelli
@@ -745,7 +745,7 @@ Dialogue: 0,0:48:49.54,0:48:51.38,Default,,0,0,0,,他们叫鲍勃·弗格森和�
 Dialogue: 0,0:48:51.40,0:48:53.49,Default,,0,0,0,,住在归援十字市\N{\rEN}They're up in Baktan Cross.
 Dialogue: 0,0:48:55.52,0:48:57.63,Default,,0,0,0,,归援十字市\N{\rEN}Baktan Cross.
 Dialogue: 0,0:48:58.11,0:49:00.64,Default,,0,0,0,,找个理由让我去那边出任务\N{\rEN}Make me a reason to deploy in that town.
-Dialogue: 0,0:49:00.66,0:49:02.19,Default,,0,0,0,,- 打击贩毒之类的 - 明白\N{\rEN}- Drugs and tacos. - Got it.
+Dialogue: 0,0:49:00.66,0:49:02.19,Default,,0,0,0,,- 打击贩毒和拉丁裔移民 - 明白\N{\rEN}- Drugs and tacos. - Got it.
 Dialogue: 0,0:49:02.21,0:49:04.98,Default,,0,0,0,,帮我搜集一些当地情报 就是\N{\rEN}And get all the intel on the gathering spots,
 Dialogue: 0,0:49:05.00,0:49:06.90,Default,,0,0,0,,小年轻都喜欢去的地方\N{\rEN}the hotspots for teenyboppers.
 Dialogue: 0,0:49:06.92,0:49:08.16,Default,,0,0,0,,遵命\N{\rEN}On it.
@@ -866,9 +866,9 @@ Dialogue: 0,0:54:08.26,0:54:08.97,Default,,0,0,0,,怎么了\N{\rEN}Yes!
 Dialogue: 0,0:54:08.99,0:54:10.69,Default,,0,0,0,,那个涂口红的是谁？\N{\rEN}Now, who's the one with the lipstick?
 Dialogue: 0,0:54:10.71,0:54:12.63,Default,,0,0,0,,叫什么名字？\N{\rEN}What's that one's name?
 Dialogue: 0,0:54:12.77,0:54:13.41,Default,,0,0,0,,波波\N{\rEN}Bobo.
-Dialogue: 0,0:54:13.43,0:54:15.82,Default,,0,0,0,,波波 该叫他先生 小姐 还是别的？\N{\rEN}Bobo. Now, is that a he or a she or a they?
+Dialogue: 0,0:54:13.43,0:54:15.82,Default,,0,0,0,,波波 这是男的？女的？还是别的什么性别？\N{\rEN}Bobo. Now, is that a he or a she or a they?
 Dialogue: 0,0:54:15.84,0:54:16.79,Default,,0,0,0,,行了 老爸\N{\rEN}Dad, come on.
-Dialogue: 0,0:54:16.81,0:54:18.54,Default,,0,0,0,,我只是想知道 这位是变性还是…\N{\rEN}No, are they transitioning? I wanna know if...
+Dialogue: 0,0:54:16.81,0:54:18.54,Default,,0,0,0,,我只是想知道 这位是在性别过渡还是…\N{\rEN}No, are they transitioning? I wanna know if...
 Dialogue: 0,0:54:18.56,0:54:19.59,Default,,0,0,0,,人家是是非二元性别\N{\rEN}They're nonbinary.
 Dialogue: 0,0:54:19.61,0:54:21.34,Default,,0,0,0,,好吧 我只是想确定一下称呼\N{\rEN}Okay, I just wanna be polite. All right.
 Dialogue: 0,0:54:21.36,0:54:24.26,Default,,0,0,0,,没什么好确定的 用中性词\N{\rEN}It's not that hard! "They, them."
@@ -1017,7 +1017,7 @@ Dialogue: 0,0:59:51.56,0:59:53.11,Default,,0,0,0,,你 你是哪位？\N{\rEN}Who
 Dialogue: 0,0:59:53.86,0:59:56.09,Default,,0,0,0,,- 你是谁？ - 请你背诵暗号\N{\rEN}- Who is this? - I need the greeting code, Bob.
 Dialogue: 0,0:59:57.16,0:59:58.74,Default,,0,0,0,,完蛋\N{\rEN}Oh, fuck.
 Dialogue: 0,1:00:00.08,1:00:02.26,Default,,0,0,0,,我已经不记得暗号是什么\N{\rEN}Well, I don't remember the fuckin' greeting code
-Dialogue: 0,1:00:02.29,1:00:04.38,Default,,0,0,0,,因为我现在有点儿懵住了\N{\rEN}because I got a little bit high.
+Dialogue: 0,1:00:02.29,1:00:04.38,Default,,0,0,0,,因为我有点嗨\N{\rEN}because I got a little bit high.
 Dialogue: 0,1:00:05.39,1:00:07.06,Default,,0,0,0,,那个 已经好多年了\N{\rEN}And I... it's been fuckin' years,
 Dialogue: 0,1:00:07.08,1:00:08.69,Default,,0,0,0,,你能不能提示我一下？\N{\rEN}so you gotta help me out here with this.
 Dialogue: 0,1:00:08.71,1:00:09.56,Default,,0,0,0,,我不太 那个\N{\rEN}I don't...
@@ -1026,12 +1026,12 @@ Dialogue: 0,1:00:11.90,1:00:12.95,Default,,0,0,0,,也对\N{\rEN}Right.
 Dialogue: 0,1:00:13.68,1:00:14.68,Default,,0,0,0,,好\N{\rEN}Hm. Okay. "The..."
 Dialogue: 0,1:00:16.40,1:00:18.16,Default,,0,0,0,,“太阳 太阳...”\N{\rEN}"The sun, the sun..."
 Dialogue: 0,1:00:22.11,1:00:23.13,Default,,0,0,0,,好好想\N{\rEN}Think.
-Dialogue: 0,1:00:23.16,1:00:25.08,Default,,0,0,0,,太阳 是“日出”“日出”\N{\rEN}"The sunrise. Sunrise,
+Dialogue: 0,1:00:23.16,1:00:25.08,Default,,0,0,0,,太阳 是“日出 日出”\N{\rEN}"The sunrise. Sunrise,
 Dialogue: 0,1:00:25.10,1:00:28.73,Default,,0,0,0,,“日出在西方”对吗？\N{\rEN}sunrise in the west." Right?
 Dialogue: 0,1:00:28.76,1:00:29.76,Default,,0,0,0,,哎\N{\rEN}Ah.
 Dialogue: 0,1:00:30.31,1:00:31.42,Default,,0,0,0,,校园被突袭了\N{\rEN}The campus has been raided
-Dialogue: 0,1:00:31.44,1:00:33.94,Default,,0,0,0,,他们带走了“倔山羊”\N{\rEN}and the Billy Goat has been taken.
-Dialogue: 0,1:00:36.08,1:00:38.01,Default,,0,0,0,,“倔山羊”就是萨默威尔\N{\rEN}Billy Goat is Howard Sommerville,
+Dialogue: 0,1:00:31.44,1:00:33.94,Default,,0,0,0,,他们带走了倔山羊\N{\rEN}and the Billy Goat has been taken.
+Dialogue: 0,1:00:36.08,1:00:38.01,Default,,0,0,0,,倔山羊就是萨默威尔\N{\rEN}Billy Goat is Howard Sommerville,
 Dialogue: 0,1:00:38.03,1:00:39.93,Default,,0,0,0,,所以霍华德·萨默威尔被带走了\N{\rEN}so Howard Sommerville has been taken.
 Dialogue: 0,1:00:39.95,1:00:41.18,Default,,0,0,0,,也许还被干掉了\N{\rEN}He's been taken or killed.
 Dialogue: 0,1:00:41.20,1:00:43.16,Default,,0,0,0,,到底是怎么回事？\N{\rEN}What's goin' on?
@@ -1268,11 +1268,11 @@ Dialogue: 0,1:12:41.23,1:12:43.47,Default,,0,0,0,,我看全美国的高中生\N{
 Dialogue: 0,1:12:43.49,1:12:45.61,Default,,0,0,0,,也就她薇拉·弗格森没有手机了\N{\rEN}Willa Ferguson, doesn't have a phone.
 Dialogue: 0,1:12:46.63,1:12:48.26,Default,,0,0,0,,差不多吧\N{\rEN}I guess so.
 Dialogue: 0,1:12:59.93,1:13:03.48,Default,,0,0,0,,二小队 告诉我瑟吉奥·圣卡洛斯的住址\N{\rEN}Alpha Two, I need a residential address for a Sergio St. Carlos.
-Dialogue: 0,1:13:08.88,1:13:10.61,Default,,0,0,0,,那是什么？\N{\rEN}What is it?
-Dialogue: 0,1:13:10.64,1:13:11.97,Default,,0,0,0,,老的配对器\N{\rEN}It's an old tracking device.
-Dialogue: 0,1:13:11.99,1:13:15.41,Default,,0,0,0,,薇拉也有一个 只要两个配对器足够接近\N{\rEN}It goes off when it's within 100 yards of hers, if it works.
-Dialogue: 0,1:13:15.44,1:13:17.06,Default,,0,0,0,,就会开始播放旋律\N{\rEN}And it never works.
-Dialogue: 0,1:13:17.08,1:13:19.45,Default,,0,0,0,,有时候管用 但基本都不行\N{\rEN}Sometimes it does, but mostly it doesn't.
+Dialogue: 0,1:13:08.89,1:13:10.62,Default,,0,0,0,,那是什么？\N{\rEN}What is it?
+Dialogue: 0,1:13:10.64,1:13:11.97,Default,,0,0,0,,老的追踪配对器\N{\rEN}It's an old tracking device.
+Dialogue: 0,1:13:11.99,1:13:15.42,Default,,0,0,0,,能用的话只要两个足够近 就会开始放旋律\N{\rEN}It goes off when it's within 100 yards of hers, if it works.
+Dialogue: 0,1:13:15.45,1:13:17.06,Default,,0,0,0,,就没怎么能用过\N{\rEN}And it never works.
+Dialogue: 0,1:13:17.08,1:13:19.45,Default,,0,0,0,,有时候确实管用 但基本都不行\N{\rEN}Sometimes it does, but mostly it doesn't.
 Dialogue: 0,1:13:19.47,1:13:21.53,Default,,0,0,0,,要不打她手机？\N{\rEN}What about her phone?
 Dialogue: 0,1:13:21.63,1:13:23.51,Default,,0,0,0,,她没有手机\N{\rEN}She doesn't have a phone.
 Dialogue: 0,1:13:27.67,1:13:28.87,Default,,0,0,0,,难道她有手机吗？\N{\rEN}What, she has a phone?
@@ -1448,7 +1448,7 @@ Dialogue: 0,1:19:58.48,1:19:59.47,Default,,0,0,0,,我是鲍勃·弗格森\N{\rEN
 Dialogue: 0,1:19:59.50,1:20:00.96,Default,,0,0,0,,不知道你是否听说过我\N{\rEN}I don't know if you've ever heard of me, all right ?
 Dialogue: 0,1:20:00.99,1:20:03.79,Default,,0,0,0,,我过去是法式七五的成员\N{\rEN}I was a part of French 75 for years.
 Dialogue: 0,1:20:03.81,1:20:04.97,Default,,0,0,0,,干过很多年\N{\rEN}Years and years, all right?
-Dialogue: 0,1:20:04.99,1:20:06.74,Default,,0,0,0,,大家叫我穷鬼·帕特\N{\rEN}They used to call me "Ghetto Pat,"
+Dialogue: 0,1:20:04.99,1:20:06.74,Default,,0,0,0,,大家叫我“穷鬼帕特”\N{\rEN}They used to call me "Ghetto Pat,"
 Dialogue: 0,1:20:06.77,1:20:08.73,Default,,0,0,0,,“火箭男”之类的\N{\rEN}"Rocket Man," something like that.
 Dialogue: 0,1:20:09.13,1:20:11.39,Default,,0,0,0,,唯一的问题是\N{\rEN}Only problem is, I, uh...
 Dialogue: 0,1:20:11.41,1:20:13.24,Default,,0,0,0,,如今 我的脑子不太好使\N{\rEN}I fried my brain since then, man.
@@ -1573,7 +1573,7 @@ Dialogue: 0,1:24:37.58,1:24:38.83,Default,,0,0,0,,好 等一下\N{\rEN}Okay. One
 Dialogue: 0,1:24:39.31,1:24:42.09,Default,,0,0,0,,你这个蠢货 他可是大英雄\N{\rEN}You motherfucker. This is a goddamn war hero.
 Dialogue: 0,1:24:43.54,1:24:46.25,Default,,0,0,0,,集合地点是勇敢海狸修女会\N{\rEN}Hey, rendezvous is Sisters of the Brave Beaver.
 Dialogue: 0,1:24:46.84,1:24:48.42,Default,,0,0,0,,勇敢海狸修女会\N{\rEN}Sisters of the Brave Beaver. I don't know...
-Dialogue: 0,1:24:48.44,1:24:50.06,Default,,0,0,0,,是山上的那个建筑吗？\N{\rEN}Is that that compound out in the hills?
+Dialogue: 0,1:24:48.44,1:24:50.06,Default,,0,0,0,,是山上的那个吗？\N{\rEN}Is that that compound out in the hills?
 Dialogue: 0,1:24:50.09,1:24:51.83,Default,,0,0,0,,你得告诉我准确的位置\N{\rEN}I need the coordinates, exact coordinates.
 Dialogue: 0,1:24:51.86,1:24:52.91,Default,,0,0,0,,好 等一下\N{\rEN}Okay, one second.
 Dialogue: 0,1:24:52.93,1:24:54.16,Default,,0,0,0,,帮他指路\N{\rEN}Tell him how to get there.
@@ -1658,7 +1658,7 @@ Dialogue: 0,1:27:45.18,1:27:46.86,Default,,0,0,0,,铐上他 把他带走\N{\rEN}
 Dialogue: 0,1:27:48.70,1:27:49.75,Default,,0,0,0,,我想起来了\N{\rEN}I have it.
 Dialogue: 0,1:27:50.17,1:27:51.45,Default,,0,0,0,,现在你又想起来了\N{\rEN}You have it now?
 Dialogue: 0,1:27:52.34,1:27:53.74,Default,,0,0,0,,是多少？\N{\rEN}What is it?
-Dialogue: 0,1:27:55.47,1:27:58.59,Default,,0,0,0,,非要撞了南墙才回头 坐下吧\N{\rEN}I thought you took AP Common Sense. Sit the fuck down.
+Dialogue: 0,1:27:55.47,1:27:58.59,Default,,0,0,0,,有点常识也知道你没资格讨价还价 坐下吧\N{\rEN}I thought you took AP Common Sense. Sit the fuck down.
 Dialogue: 0,1:28:00.61,1:28:02.45,Default,,0,0,0,,号码是多少？\N{\rEN}What's the number?
 Dialogue: 0,1:28:02.73,1:28:04.35,Default,,0,0,0,,联系人是“凯蒂猫”\N{\rEN}It's under "Hello Kitty."
 Dialogue: 0,1:28:10.21,1:28:11.58,Default,,0,0,0,,手机给我\N{\rEN}Give it to me.
@@ -1803,7 +1803,7 @@ Dialogue: 0,1:37:31.84,1:37:33.53,Default,,0,0,0,,天啊\N{\rEN}Well, uh...
 Dialogue: 0,1:37:35.58,1:37:37.41,Default,,0,0,0,,这件事如果是真的\N{\rEN}That would be quite the revelation
 Dialogue: 0,1:37:37.44,1:37:38.73,Default,,0,0,0,,那就太可怕了\N{\rEN}if it were true.
 Dialogue: 0,1:37:40.92,1:37:43.73,Default,,0,0,0,,比尔 请问这消息哪儿来的？\N{\rEN}Bill, may I ask what your source is?
-Dialogue: 0,1:37:43.75,1:37:47.57,Default,,0,0,0,,来自纯血美国白人背景调查报告\N{\rEN}Sure. That's part of a Double Yankee White background check.
+Dialogue: 0,1:37:43.75,1:37:47.57,Default,,0,0,0,,来自纯血美国白人背景审查报告\N{\rEN}Sure. That's part of a Double Yankee White background check.
 Dialogue: 0,1:37:47.59,1:37:50.11,Default,,0,0,0,,我们在电脑里找到了一些旧文件\N{\rEN}Some old paperwork turned up in a computer file
 Dialogue: 0,1:37:50.13,1:37:53.60,Default,,0,0,0,,是关于一个叫贱女姜戈的黑人罪犯\N{\rEN}on the Black militant named Junglepussy.
 Dialogue: 0,1:37:54.35,1:37:58.26,Default,,0,0,0,,15年前 她就跟一个警官讲过这件事\N{\rEN}She told an officer this very story 15 years ago.
@@ -2008,7 +2008,7 @@ Dialogue: 0,1:51:13.24,1:51:15.61,Default,,0,0,0,,被我们抓到了\N{\rEN}at s
 Dialogue: 0,1:51:16.30,1:51:17.61,Default,,0,0,0,,真是遗憾啊\N{\rEN}That's gotta hurt.
 Dialogue: 0,1:51:19.07,1:51:21.33,Default,,0,0,0,,你帮我的话 我就会帮你\N{\rEN}You help me, I'll help you.
 Dialogue: 0,1:51:21.82,1:51:24.41,Default,,0,0,0,,告诉我上哪儿找帕特·卡尔霍恩\N{\rEN}You give me Pat Calhoun...
-Dialogue: 0,1:51:24.83,1:51:27.57,Default,,0,0,0,,也叫“火箭男”和穷鬼·帕特\N{\rEN}The Rocket Man, Ghetto Pat...
+Dialogue: 0,1:51:24.83,1:51:27.57,Default,,0,0,0,,也叫“火箭男”和“穷鬼帕特”\N{\rEN}The Rocket Man, Ghetto Pat...
 Dialogue: 0,1:51:28.26,1:51:30.96,Default,,0,0,0,,我就送你回家 去救那女孩\N{\rEN}And I'll let you go home, and I'll let you save that little girl.
 Dialogue: 0,1:51:31.52,1:51:34.00,Default,,0,0,0,,她现在就在上校那儿\N{\rEN}You know she's with the Colonel, right?
 Dialogue: 0,1:51:36.38,1:51:37.61,Default,,0,0,0,,忘说了\N{\rEN}By "home"...
@@ -2045,7 +2045,7 @@ Dialogue: 0,1:53:19.61,1:53:21.73,Default,,0,0,0,,舞会这样重要的场合\N{
 Dialogue: 0,1:53:21.75,1:53:23.67,Default,,0,0,0,,不能犯懒\N{\rEN}you make an effort.
 Dialogue: 0,1:53:23.69,1:53:26.01,Default,,0,0,0,,必须好好化妆\N{\rEN}You put on more makeup.
 Dialogue: 0,1:53:32.60,1:53:35.25,Default,,0,0,0,,你的衬衫怎么那么紧？\N{\rEN}Why is your shirt so tight?
-Dialogue: 0,1:53:41.37,1:53:43.69,Default,,0,0,0,,你不要乱猜 我可不是同性恋\N{\rEN}I'm not gay, if that's what you're sayin'.
+Dialogue: 0,1:53:41.37,1:53:43.69,Default,,0,0,0,,你不要乱猜 我可不是基佬\N{\rEN}I'm not gay, if that's what you're sayin'.
 Dialogue: 0,1:53:43.71,1:53:45.02,Default,,0,0,0,,我可没这么说\N{\rEN}I didn't say that.
 Dialogue: 0,1:53:45.05,1:53:46.88,Default,,0,0,0,,反正我不是同性恋\N{\rEN}I'm not a homosexual.
 Dialogue: 0,1:53:46.90,1:53:48.14,Default,,0,0,0,,这是你提的\N{\rEN}I did not say that,
@@ -2082,7 +2082,7 @@ Dialogue: 0,1:56:19.58,1:56:21.62,Default,,0,0,0,,把酒收起来 兄弟\N{\rEN}
 Dialogue: 0,1:56:21.64,1:56:22.95,Default,,0,0,0,,真是倒霉\N{\rEN}Motherfucker.
 Dialogue: 0,1:56:24.62,1:56:25.79,Default,,0,0,0,,麻烦来了\N{\rEN}Here he comes.
 Dialogue: 0,1:56:31.89,1:56:34.01,Default,,0,0,0,,把这藏你包里\N{\rEN}Put this in your backpack.
-Dialogue: 0,1:56:46.31,1:56:48.30,Default,,0,0,0,,看来完了 是吧？\N{\rEN}Guess this is the end of the line, huh?
+Dialogue: 0,1:56:46.31,1:56:48.30,Default,,0,0,0,,看来咱们完蛋了 是吧？\N{\rEN}Guess this is the end of the line, huh?
 Dialogue: 0,1:56:50.02,1:56:51.47,Default,,0,0,0,,你还没完\N{\rEN}Not for you.
 Dialogue: 0,1:56:52.57,1:56:55.81,Default,,0,0,0,,心如止水 平静 平静\N{\rEN}Ocean waves. Ocean waves.
 Dialogue: 0,1:56:58.74,1:57:01.14,Default,,0,0,0,,我得让你下车了 好兄弟\N{\rEN}I gotta ditch you, Kemosabe.
@@ -2128,7 +2128,7 @@ Dialogue: 0,2:01:29.62,2:01:32.05,Default,,0,0,0,,老实说 我爱过她\N{\rEN}
 Dialogue: 0,2:01:34.53,2:01:36.79,Default,,0,0,0,,你妈是我这辈子见过的\N{\rEN}Best goddamn-looking
 Dialogue: 0,2:01:36.82,2:01:37.87,Default,,0,0,0,,最漂亮的黑妞\N{\rEN}witch I ever saw.
 Dialogue: 0,2:01:37.89,2:01:38.65,Default,,0,0,0,,住嘴\N{\rEN}Shut up.
-Dialogue: 0,2:01:38.67,2:01:40.24,Default,,0,0,0,,可惜 她太疯狂了\N{\rEN}Yeah, she was possessed.
+Dialogue: 0,2:01:38.67,2:01:40.24,Default,,0,0,0,,可惜 那时她着魔了\N{\rEN}Yeah, she was possessed.
 Dialogue: 0,2:01:40.26,2:01:42.11,Default,,0,0,0,,- 闭上你的臭嘴 - 是个激进的疯子\N{\rEN}- Shut the fuck up. - She was insane.
 Dialogue: 0,2:01:42.13,2:01:43.99,Default,,0,0,0,,很像你 你跟她一模一样\N{\rEN}Like you. You have it in you.
 Dialogue: 0,2:01:44.01,2:01:46.56,Default,,0,0,0,,她身上有疯子的味儿 你身上也有\N{\rEN}I smelled it from within her, and I can smell it from within you.
@@ -2162,7 +2162,7 @@ Dialogue: 0,2:03:52.52,2:03:53.53,Default,,0,0,0,,好吧\N{\rEN}All right.
 Dialogue: 0,2:03:55.12,2:03:57.09,Default,,0,0,0,,知道一七七六吗？\N{\rEN}You know the 1776,
 Dialogue: 0,2:03:57.11,2:03:59.20,Default,,0,0,0,,离德尔里奥有8公里 靠近沃特兰\N{\rEN}about five miles outside Del Rio by Walter's Landing?
 Dialogue: 0,2:03:59.23,2:04:00.37,Default,,0,0,0,,- 知道 - 好\N{\rEN}- Yeah. - Yeah.
-Dialogue: 0,2:04:00.39,2:04:02.67,Default,,0,0,0,,把她送过去 钱按约定给你\N{\rEN}You get her to them, I'll pay you your daily rate.
+Dialogue: 0,2:04:00.39,2:04:02.67,Default,,0,0,0,,把她送过去 每天多少钱按定好的给你\N{\rEN}You get her to them, I'll pay you your daily rate.
 Dialogue: 0,2:04:22.92,2:04:24.45,Default,,0,0,0,,耍小聪明\N{\rEN}Smart aleck.
 Dialogue: 0,2:04:52.58,2:04:56.04,Default,,0,0,0,,死丫头 一点儿规矩都不知道\N{\rEN}You got no manners, God damn it!
 Dialogue: 0,2:04:56.06,2:04:57.75,Default,,0,0,0,,没家教的玩意儿\N{\rEN}You weren't raised right!
@@ -2246,7 +2246,8 @@ Dialogue: 0,2:14:28.08,2:14:28.97,Default,,0,0,0,,“新青...”\N{\rEN}Green..
 Dialogue: 0,2:14:30.68,2:14:31.98,Default,,0,0,0,,薇拉\N{\rEN}Willa!
 Dialogue: 0,2:14:46.53,2:14:47.47,Default,,0,0,0,,可恶\N{\rEN}Fuck.
 Dialogue: 0,2:15:44.86,2:15:45.97,Default,,0,0,0,,可恶\N{\rEN}Fuck.
-Dialogue: 0,2:16:01.07,2:16:02.94,Default,,0,0,0,,转过去 好了 好了\N{\rEN}Please, please. Okay. Okay.
+Dialogue: 0,2:16:00.29,2:16:01.92,Default,,0,0,0,,转过去 转过去\N{\rEN}Please, please.
+Dialogue: 0,2:16:01.95,2:16:02.83,Default,,0,0,0,,好了 好了\N{\rEN}Okay. Okay.
 Dialogue: 0,2:19:43.07,2:19:43.68,Default,,0,0,0,,该死\N{\rEN}Fuck!
 Dialogue: 0,2:20:08.05,2:20:11.81,Default,,0,0,0,,“新青入乡 暴富新贵 中枢小镇”\N{\rEN}"Green Acres, Beverly Hillbillies, and Hooterville Junction!"
 Dialogue: 0,2:20:14.38,2:20:15.08,Default,,0,0,0,,什么？\N{\rEN}What?!
@@ -2403,7 +2404,7 @@ Dialogue: 0,2:31:46.81,2:31:48.71,Default,,0,0,0,,“我知道有一天\N{\rEN}I
 Dialogue: 0,2:31:49.36,2:31:52.11,Default,,0,0,0,,“等时机合适 安全的时候\N{\rEN}when it's right and it's safe...
 Dialogue: 0,2:31:52.83,2:31:54.42,Default,,0,0,0,,“你会找到我”\N{\rEN}you will find me.
 Dialogue: 0,2:31:55.48,2:31:57.93,Default,,0,0,0,,“替我吻一下你爸爸\N{\rEN}Please send a kiss to your dad...
-Dialogue: 0,2:31:58.76,2:32:00.32,Default,,0,0,0,,“我的穷鬼·帕特”\N{\rEN}my Ghetto Pat.
+Dialogue: 0,2:31:58.76,2:32:00.32,Default,,0,0,0,,“我的穷鬼帕特”\N{\rEN}my Ghetto Pat.
 Dialogue: 0,2:32:01.36,2:32:03.01,Default,,0,0,0,,“爱你的妈妈\N{\rEN}Love, your mom,
 Dialogue: 0,2:32:03.75,2:32:04.97,Default,,0,0,0,,“叛娅”\N{\rEN}Perfidia.
 Dialogue: 0,2:32:32.69,2:32:36.00,Default,,0,0,0,,帮我看看自拍闪光灯 应该怎么用的\N{\rEN}How do I get this flash to work?
@@ -2468,7 +2469,7 @@ Dialogue: 0,0:34:38.19,0:34:43.73,Music,,0,0,0,,{\an9}♪ 我真是傻瓜 愿意
 Dialogue: 0,0:34:48.03,0:34:52.88,Music,,0,0,0,,{\an9}♪ 点燃蜡烛 锁上大门\N{\rEN}♪ Light the candle put the lock upon the door ♪
 Dialogue: 0,0:34:53.06,0:34:56.34,Music,,0,0,0,,{\an9}♪ 你让女佣提前回家\N{\rEN}♪ You have sent the maid home early ♪
 Dialogue: 0,0:34:56.37,0:35:01.25,Music,,0,0,0,,{\an9}♪ 过去你也总是这样 ♪\N{\rEN}♪ Like a thousand times before ♪
-Dialogue: 0,0:35:01.36,0:35:07.65,Music,,0,0,0,,{\an9}♪ 就像棋盘上 角落里的城堡\N{\rEN}♪ Like the castle in its corner in a medieval game ♪
+Dialogue: 0,0:35:01.36,0:35:07.65,Music,,0,0,0,,{\an9}♪ 就像古老游戏棋盘上 角落里的城堡\N{\rEN}♪ Like the castle in its corner in a medieval game ♪
 Dialogue: 0,0:35:07.90,0:35:11.19,Music,,0,0,0,,{\an9}♪ 我预感会有大麻烦\N{\rEN}♪ I foresee terrible trouble ♪
 Dialogue: 0,0:35:11.23,0:35:16.03,Music,,0,0,0,,{\an9}♪ 却还是留下来 ♪\N{\rEN}♪ And I stay here just the same ♪
 Dialogue: 0,0:35:17.07,0:35:22.29,Music,,0,0,0,,{\an9}♪ 我真是傻瓜 愿意为你干脏活 ♪\N{\rEN}♪ I'm a fool to do your dirty work, oh yeah ♪
@@ -3648,36 +3649,36 @@ Dialogue: 0,1:05:18.18,1:05:18.22,Note,,0,0,0,,{=9}{\fscx105.46\fscy105.46\pos(9
 Dialogue: 0,1:05:18.22,1:05:18.26,Note,,0,0,0,,{=9}{\fscx105.69\fscy105.69\pos(975.09,180.44)\frz3.551\c&H777D7E&\shad3.17}勇气 敬意 荣誉
 Dialogue: 0,1:05:18.26,1:05:18.31,Note,,0,0,0,,{=9}{\fscx105.92\fscy105.92\pos(975.47,144.08)\frz3.551\c&H777D7E&\shad3.18}勇气 敬意 荣誉
 Dialogue: 0,1:05:18.31,1:05:18.35,Note,,0,0,0,,{=9}{\fscx106\fscy106\pos(973.73,107.87)\frz3.551\c&H777D7E&\shad3.18}勇气 敬意 荣誉
-Dialogue: 0,1:05:18.47,1:05:18.51,Note,,0,0,0,,{=10}{\fscx100\fscy100\fs35\c&H12150A&\pos(1040,974)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.51,1:05:18.56,Note,,0,0,0,,{=10}{\fscx100.06\fscy100.06\fs35\c&H12150A&\pos(1040.2,974.13)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.56,1:05:18.60,Note,,0,0,0,,{=10}{\fscx99.88\fscy99.88\fs35\c&H12150A&\pos(1038.37,943.43)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.60,1:05:18.64,Note,,0,0,0,,{=10}{\fscx99.44\fscy99.44\fs35\c&H12150A&\pos(1036.89,881.6)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.64,1:05:18.68,Note,,0,0,0,,{=10}{\fscx99.81\fscy99.81\fs35\c&H12150A&\pos(1037.51,851.59)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.68,1:05:18.72,Note,,0,0,0,,{=10}{\fscx99.86\fscy99.86\fs35\c&H12150A&\pos(1038.01,822.44)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.72,1:05:18.76,Note,,0,0,0,,{=10}{\fscx99.76\fscy99.76\fs35\c&H12150A&\pos(1036.14,795.14)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.76,1:05:18.81,Note,,0,0,0,,{=10}{\fscx100.04\fscy100.04\fs35\c&H12150A&\pos(1037.74,767.74)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.81,1:05:18.85,Note,,0,0,0,,{=10}{\fscx99.83\fscy99.83\fs35\c&H12150A&\pos(1036.75,740.5)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.85,1:05:18.89,Note,,0,0,0,,{=10}{\fscx100.12\fscy100.12\fs35\c&H12150A&\pos(1037.18,713.39)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.89,1:05:18.93,Note,,0,0,0,,{=10}{\fscx100.07\fscy100.07\fs35\c&H12150A&\pos(1037.43,686.85)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.93,1:05:18.97,Note,,0,0,0,,{=10}{\fscx100.4\fscy100.4\fs35\c&H12150A&\pos(1036.65,661.97)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:18.97,1:05:19.01,Note,,0,0,0,,{=10}{\fscx100.05\fscy100.05\fs35\c&H12150A&\pos(1035.64,638.39)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.01,1:05:19.06,Note,,0,0,0,,{=10}{\fscx99.95\fscy99.95\fs35\c&H12150A&\pos(1034.67,615.4)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.06,1:05:19.10,Note,,0,0,0,,{=10}{\fscx99.74\fscy99.74\fs35\c&H12150A&\pos(1033.19,593.81)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.10,1:05:19.14,Note,,0,0,0,,{=10}{\fscx99.74\fscy99.74\fs35\c&H12150A&\pos(1033.74,573.5)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.14,1:05:19.18,Note,,0,0,0,,{=10}{\fscx99.56\fscy99.56\fs35\c&H12150A&\pos(1032.88,555.98)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.18,1:05:19.22,Note,,0,0,0,,{=10}{\fscx99.5\fscy99.5\fs35\c&H12150A&\pos(1032.65,540.65)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.22,1:05:19.27,Note,,0,0,0,,{=10}{\fscx99.44\fscy99.44\fs35\c&H12150A&\pos(1031.98,526.55)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.27,1:05:19.31,Note,,0,0,0,,{=10}{\fscx99.63\fscy99.63\fs35\c&H12150A&\pos(1031.69,513.27)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.31,1:05:19.35,Note,,0,0,0,,{=10}{\fscx99.53\fscy99.53\fs35\c&H12150A&\pos(1032.11,501.34)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.35,1:05:19.39,Note,,0,0,0,,{=10}{\fscx99.39\fscy99.39\fs35\c&H12150A&\pos(1030.7,491.08)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.39,1:05:19.43,Note,,0,0,0,,{=10}{\fscx99.43\fscy99.43\fs35\c&H12150A&\pos(1031.28,481.73)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.43,1:05:19.47,Note,,0,0,0,,{=10}{\fscx99.32\fscy99.32\fs35\c&H12150A&\pos(1030.83,474.49)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.47,1:05:19.52,Note,,0,0,0,,{=10}{\fscx99.29\fscy99.29\fs35\c&H12150A&\pos(1030.19,468.36)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.52,1:05:19.56,Note,,0,0,0,,{=10}{\fscx99.06\fscy99.06\fs35\c&H12150A&\pos(1029.92,462.79)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.56,1:05:19.60,Note,,0,0,0,,{=10}{\fscx99.05\fscy99.05\fs35\c&H12150A&\pos(1029.12,458.27)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.60,1:05:19.64,Note,,0,0,0,,{=10}{\fscx99.09\fscy99.09\fs35\c&H12150A&\pos(1029.75,454.99)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.64,1:05:19.72,Note,,0,0,0,,{=10}{\fscx99.13\fscy99.13\fs35\c&H12150A&\pos(1029.87,452.61)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
-Dialogue: 0,1:05:19.72,1:05:21.48,Note,,0,0,0,,{\fscx99.13\fscy99.13\fs35\c&H12150A&\pos(1029.87,452.61)}瑟吉奥·圣卡洛斯忍者学院 加利福尼亚州归援十字市
+Dialogue: 0,1:05:18.47,1:05:18.51,Note,,0,0,0,,{=10}{\fscx100\fscy100\fs35\c&H12150A&\pos(1040,974)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.51,1:05:18.56,Note,,0,0,0,,{=10}{\fscx100.06\fscy100.06\fs35\c&H12150A&\pos(1040.2,974.13)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.56,1:05:18.60,Note,,0,0,0,,{=10}{\fscx99.88\fscy99.88\fs35\c&H12150A&\pos(1038.37,943.43)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.60,1:05:18.64,Note,,0,0,0,,{=10}{\fscx99.44\fscy99.44\fs35\c&H12150A&\pos(1036.89,881.6)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.64,1:05:18.68,Note,,0,0,0,,{=10}{\fscx99.81\fscy99.81\fs35\c&H12150A&\pos(1037.51,851.59)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.68,1:05:18.72,Note,,0,0,0,,{=10}{\fscx99.86\fscy99.86\fs35\c&H12150A&\pos(1038.01,822.44)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.72,1:05:18.76,Note,,0,0,0,,{=10}{\fscx99.76\fscy99.76\fs35\c&H12150A&\pos(1036.14,795.14)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.76,1:05:18.81,Note,,0,0,0,,{=10}{\fscx100.04\fscy100.04\fs35\c&H12150A&\pos(1037.74,767.74)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.81,1:05:18.85,Note,,0,0,0,,{=10}{\fscx99.83\fscy99.83\fs35\c&H12150A&\pos(1036.75,740.5)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.85,1:05:18.89,Note,,0,0,0,,{=10}{\fscx100.12\fscy100.12\fs35\c&H12150A&\pos(1037.18,713.39)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.89,1:05:18.93,Note,,0,0,0,,{=10}{\fscx100.07\fscy100.07\fs35\c&H12150A&\pos(1037.43,686.85)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.93,1:05:18.97,Note,,0,0,0,,{=10}{\fscx100.4\fscy100.4\fs35\c&H12150A&\pos(1036.65,661.97)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:18.97,1:05:19.01,Note,,0,0,0,,{=10}{\fscx100.05\fscy100.05\fs35\c&H12150A&\pos(1035.64,638.39)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.01,1:05:19.06,Note,,0,0,0,,{=10}{\fscx99.95\fscy99.95\fs35\c&H12150A&\pos(1034.67,615.4)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.06,1:05:19.10,Note,,0,0,0,,{=10}{\fscx99.74\fscy99.74\fs35\c&H12150A&\pos(1033.19,593.81)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.10,1:05:19.14,Note,,0,0,0,,{=10}{\fscx99.74\fscy99.74\fs35\c&H12150A&\pos(1033.74,573.5)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.14,1:05:19.18,Note,,0,0,0,,{=10}{\fscx99.56\fscy99.56\fs35\c&H12150A&\pos(1032.88,555.98)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.18,1:05:19.22,Note,,0,0,0,,{=10}{\fscx99.5\fscy99.5\fs35\c&H12150A&\pos(1032.65,540.65)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.22,1:05:19.27,Note,,0,0,0,,{=10}{\fscx99.44\fscy99.44\fs35\c&H12150A&\pos(1031.98,526.55)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.27,1:05:19.31,Note,,0,0,0,,{=10}{\fscx99.63\fscy99.63\fs35\c&H12150A&\pos(1031.69,513.27)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.31,1:05:19.35,Note,,0,0,0,,{=10}{\fscx99.53\fscy99.53\fs35\c&H12150A&\pos(1032.11,501.34)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.35,1:05:19.39,Note,,0,0,0,,{=10}{\fscx99.39\fscy99.39\fs35\c&H12150A&\pos(1030.7,491.08)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.39,1:05:19.43,Note,,0,0,0,,{=10}{\fscx99.43\fscy99.43\fs35\c&H12150A&\pos(1031.28,481.73)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.43,1:05:19.47,Note,,0,0,0,,{=10}{\fscx99.32\fscy99.32\fs35\c&H12150A&\pos(1030.83,474.49)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.47,1:05:19.52,Note,,0,0,0,,{=10}{\fscx99.29\fscy99.29\fs35\c&H12150A&\pos(1030.19,468.36)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.52,1:05:19.56,Note,,0,0,0,,{=10}{\fscx99.06\fscy99.06\fs35\c&H12150A&\pos(1029.92,462.79)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.56,1:05:19.60,Note,,0,0,0,,{=10}{\fscx99.05\fscy99.05\fs35\c&H12150A&\pos(1029.12,458.27)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.60,1:05:19.64,Note,,0,0,0,,{=10}{\fscx99.09\fscy99.09\fs35\c&H12150A&\pos(1029.75,454.99)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.64,1:05:19.72,Note,,0,0,0,,{=10}{\fscx99.13\fscy99.13\fs35\c&H12150A&\pos(1029.87,452.61)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
+Dialogue: 0,1:05:19.72,1:05:21.48,Note,,0,0,0,,{\fscx99.13\fscy99.13\fs35\c&H12150A&\pos(1029.87,452.61)}瑟吉奥·圣卡洛斯忍者学院 加州归援十字市
 Dialogue: 0,1:09:24.47,1:09:24.51,Note,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1652,336)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
 Dialogue: 0,1:09:24.51,1:09:24.55,Note,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1652.74,335.79)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
 Dialogue: 0,1:09:24.55,1:09:24.59,Note,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1652.67,335.7)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
@@ -4456,19 +4457,20 @@ Dialogue: 0,2:35:00.69,2:35:03.82,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3
 Dialogue: 0,2:35:03.82,2:35:07.24,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}翻译\N上海电影译制厂: 许诺 & 徐子怡 {\fs80}\N蒙太奇字幕组 : 小p & 十三
 Dialogue: 0,2:35:07.24,2:35:10.69,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\N双语合并：novaeye & 小p & NickCollect & Lei\N时间轴：小p & novaeye\N校对：小p & 十三 & novaeye & NickCollect
 Dialogue: 0,2:35:10.69,2:35:14.35,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\N注释：小p & 十三\N后期特效：NickCollect & novaeye
-Dialogue: 0,2:35:14.35,2:35:17.81,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组字幕许可\N原创部分许可CC BY‑NC‑SA 4.0
-Dialogue: 0,2:35:17.81,2:35:21.89,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,2:35:14.35,2:35:17.81,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,2:35:17.81,2:35:21.89,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组字幕许可\N原创部分许可CC BY‑NC‑SA 4.0
 Dialogue: 0,2:35:21.89,2:35:25.63,Note,,0,0,0,,{\c&HB9E2E2&\fs80\bord1\shad3\pos(960,418)}影片灵感源于{\b1}托马斯·品钦{\b0}所著小说\N《葡萄园》
 Dialogue: 0,2:41:29.99,2:41:35.25,Note,,0,0,0,,{\fad(640,640)\c&H0067FF&\pos(1051,745)}乐
 Dialogue: 0,2:41:29.99,2:41:35.25,Note,,0,0,0,,{\fad(640,640)\pos(960,750)}领域娱乐
 Dialogue: 0,2:41:35.85,2:41:40.73,Note,,0,0,0,,{\fad(800,700)\pos(950,947)\c&HBCE3F3&\bord7\3c&H9B632A&\blur6\fs50)}华纳兄弟影业
 Dialogue: 0,0:02:54.29,0:03:00.34,Note - T,,0,0,0,,【特朗普墙：背景图像为特朗普首任期修建的美墨边境墙 象征美国边境治理策略的显著加强】
 Dialogue: 0,0:04:54.10,0:04:58.14,Note - T,,0,0,0,,【勒喉乔：暗指以暴力噤声的铁腕人物】
-Dialogue: 0,0:04:58.44,0:05:04.97,Note - T,,0,0,0,,【叛娅·富山：暗指对富人背叛报复 以牙还牙的反抗】
+Dialogue: 0,0:04:58.44,0:05:04.97,Note - T,,0,0,0,,【叛娅·富山：字面指对富人背叛及反抗】
 Dialogue: 0,0:05:13.09,0:05:16.37,Note - T,,0,0,0,,【边境与身体自由：主张跨境流动与身体自主权】
 Dialogue: 0,0:05:16.37,0:05:19.36,Note - T,,0,0,0,,【选择自由与免于恐惧：主张个人决定权与免于胁迫】
 Dialogue: 0,0:08:05.71,0:08:12.28,Note - T,,0,0,0,,【法式七五：借用法国革命意象 亦为野战炮与酒名】
 Dialogue: 0,0:08:14.51,0:08:19.50,Note - T,,0,0,0,,【美国警察：常被指控滥权 系统性歧视 及过度使用武力】
+Dialogue: 0,0:08:32.65,0:08:38.02,Note - T,,0,0,0,,【穷鬼帕特：人物代号 原指贫民区或其居民】
 Dialogue: 0,0:10:18.79,0:10:22.58,Note - T,,0,0,0,,【堕胎权：女性自主决定是否终止妊娠的权利】
 Dialogue: 0,0:10:22.58,0:10:25.17,Note - T,,0,0,0,,【美国堕胎权：美国曾由宪法保障堕胎权】
 Dialogue: 0,0:10:25.17,0:10:27.93,Note - T,,0,0,0,,【美国堕胎权：但该保障已被最高法院保守派推翻】
@@ -4476,7 +4478,7 @@ Dialogue: 0,0:10:27.93,0:10:30.28,Note - T,,0,0,0,,【美国堕胎权：保守�
 Dialogue: 0,0:13:07.47,0:13:12.88,Note - T,,0,0,0,,【梅·韦斯特：借用好莱坞性感女星之名 暗指利用种族与外表特权作为渗透工具】
 Dialogue: 0,0:13:23.00,0:13:24.87,Note - T,,0,0,0,,【译注：白人已过安检 黑人则面临额外搜身】
 Dialogue: 0,0:16:48.00,0:16:52.72,Note - T,,0,0,0,,【《疤面煞星》（1983）：指像主角东尼·蒙大拿那样的权力与野心】
-Dialogue: 0,0:17:39.62,0:17:44.94,Note - T,,0,0,0,,【白巧克力：俚语 黑人妻子讥讽性称呼白人丈夫】
+Dialogue: 0,0:17:39.62,0:17:44.94,Note - T,,0,0,0,,【白巧克力爹：俚语 黑人妻子讥讽性称呼白人丈夫】
 Dialogue: 0,0:22:04.88,0:22:10.16,Note - T,,0,0,0,,【贱女姜戈：象征游击式反抗与自由 以挑衅性名称作为反制标识】
 Dialogue: 0,0:22:12.47,0:22:18.01,Note - T,,0,0,0,,【《辣姐妹》（1996）：四位女性因贫困与不公筹划抢劫】
 Dialogue: 0,0:22:54.96,0:22:58.16,Note - T,,0,0,0,,【译注：黑人既为受压迫者 亦可能作为体制中尽职的执行者 突显复杂的道德两难】
@@ -4519,7 +4521,6 @@ Dialogue: 0,1:30:40.37,1:30:46.40,Note - T,,0,0,0,,【背景音：出自《圣�
 Dialogue: 0,1:30:48.96,1:30:51.84,Note - T,,0,0,0,,{=16}因为我饿了 你们给我吃 我做客旅 你们留我住
 Dialogue: 0,1:32:53.38,1:32:58.81,Note - T,,0,0,0,,【潘乔·比利亚：墨西哥革命领袖 领导多次武装起义并推动土地再分配】
 Dialogue: 0,1:36:15.75,1:36:20.78,Note - T,,0,0,0,,【圣尼古拉：基督教圣徒 圣诞老人原型】
-Dialogue: 0,1:38:15.49,1:38:18.94,Note - T,,0,0,0,,【埃尔帕索：现实中城市 位于德克萨斯州美墨边境】
 Dialogue: 0,1:42:48.64,1:42:50.83,Note - T,,0,0,0,,【彼得·帕克：虚构人物 蜘蛛侠本名】
 Dialogue: 0,1:56:19.58,1:56:27.11,Note - T,,0,0,0,,【车内喝酒：美国大多数州禁止驾驶员和乘客 在车内打开或饮用酒精饮料容器】
 Dialogue: 0,1:57:26.02,1:57:30.25,Note - T,,0,0,0,,【阿汤哥：汤姆·克鲁斯好莱坞动作巨星 以高风险亲自完成特技闻名】
@@ -4534,7 +4535,7 @@ Dialogue: 0,2:37:35.39,2:37:38.66,Note - T,,0,0,0,,【红黑绿解放色：泛�
 Dialogue: 0,2:37:38.68,2:37:43.08,Note - T,,0,0,0,,【看不到在镜头前亮相：批判媒体美化消费黑人解放并隐去其政治实质】
 Dialogue: 0,2:41:19.26,2:41:28.09,Note - T,,0,0,0,,{\an8}谨以此片献给亚当
 Dialogue: 0,2:41:19.26,2:41:28.09,Note - T,,0,0,0,,【亚当·索姆纳：于2024年11月去世 曾多次担任导演安德森的副导演】
-Dialogue: 0,2:41:41.73,2:41:46.13,Note - T,,0,0,0,,{\an2}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
+Dialogue: 0,2:41:35.85,2:41:40.73,Note - T,,0,0,0,,{\an8}蒙太奇字幕组 (MontageSubs)\N用 爱 发 电 ❤️ Powered by love
 
 [Aegisub Extradata]
 Data: 0,a-mo,u?S*V>7FE)DIC.D6C.7)R9T=N9D"G-#UU9W&B,7)U:79N-D)U/$"B-T)X:$%Q)CQC<X*J:WFO97R5:8BU)DIC?VR=:H-S.6R=='^T+$%Z/#QY-$-J8&RD*EAR2D*#-T)G8&RC<X*E-FR=-W-G3$EX1E.$.S:^[)'5[9+GZ;W9ZKS_8&R/Z,_>[:GJZ97MZ9_Y)HU
