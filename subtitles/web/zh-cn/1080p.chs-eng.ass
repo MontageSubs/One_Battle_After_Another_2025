@@ -14,10 +14,10 @@ Audio File: ../../../Volumes/MD_Hub_2.0/torrent/One Battle After Another 2025 10
 Video File: ../../../Volumes/MD_Hub_2.0/torrent/One Battle After Another 2025 1080p AMZN WEB-DL DDP5 1 H 264-KyoGo/One Battle After Another 2025 1080p AMZN WEB-DL DDP5 1 H 264-KyoGo.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 2054
-Active Line: 4504
-Video Position: 232609
+Video Zoom Percent: 0.875000
+Scroll Position: 4426
+Active Line: 4430
+Video Position: 232453
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -4459,6 +4459,7 @@ Dialogue: 0,2:35:10.69,2:35:14.35,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3
 Dialogue: 0,2:35:14.35,2:35:17.81,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组字幕许可\N原创部分许可CC BY‑NC‑SA 4.0
 Dialogue: 0,2:35:17.81,2:35:21.89,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,2:35:21.89,2:35:25.63,Note,,0,0,0,,{\c&HB9E2E2&\fs80\bord1\shad3\pos(960,418)}影片灵感源于{\b1}托马斯·品钦{\b0}所著小说\N《葡萄园》
+Dialogue: 0,2:41:29.99,2:41:35.25,Note,,0,0,0,,{\fad(640,640)\c&H0067FF&\pos(1051,745)}乐
 Dialogue: 0,2:41:29.99,2:41:35.25,Note,,0,0,0,,{\fad(640,640)\pos(960,750)}领域娱乐
 Dialogue: 0,2:41:35.85,2:41:40.73,Note,,0,0,0,,{\fad(800,700)\pos(950,947)\c&HBCE3F3&\bord7\3c&H9B632A&\blur6\fs50)}华纳兄弟影业
 Dialogue: 0,0:02:54.29,0:03:00.34,Note - T,,0,0,0,,【特朗普墙：背景图像为特朗普首任期修建的美墨边境墙 象征美国边境治理策略的显著加强】
