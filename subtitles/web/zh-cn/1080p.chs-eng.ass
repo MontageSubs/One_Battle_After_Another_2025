@@ -467,9 +467,9 @@ Dialogue: 0,0:29:22.69,0:29:25.79,Default,,0,0,0,,需要作证的时候 我们�
 Dialogue: 0,0:29:26.17,0:29:28.58,Default,,0,0,0,,你的当务之急是找一份工作\NLook, first order of business, find a job.
 Dialogue: 0,0:29:28.61,0:29:29.85,Default,,0,0,0,,养活自己\NPay your bills.
 Dialogue: 0,0:29:31.24,0:29:32.43,Default,,0,0,0,,- 听懂了吗？ - 嗯\N- You good? - Mm-hmm.
-Dialogue: 0,0:29:32.45,0:29:35.84,Default,,0,0,0,,欢迎入局主流社会\NWelcome to mainstream America.
+Dialogue: 0,0:29:32.45,0:29:35.84,Default,,0,0,0,,欢迎成为主流美国人\NWelcome to mainstream America.
 Dialogue: 0,0:29:36.13,0:29:40.17,Default,,0,0,0,,革命一开始 我们与恶魔作战\NEvery revolution begins fightin' demons
-Dialogue: 0,0:29:40.19,0:29:44.53,Default,,0,0,0,,到头来 却被逼着互相残杀\Nbut motherfuckers just end up fightin' themselves.
+Dialogue: 0,0:29:40.19,0:29:44.53,Default,,0,0,0,,到头来 却开始自相残杀\Nbut motherfuckers just end up fightin' themselves.
 Dialogue: 0,0:30:24.34,0:30:25.32,Default,,0,0,0,,举起手来\NHands up!
 Dialogue: 0,0:30:25.34,0:30:27.55,Default,,0,0,0,,举起手来 手放在后脑勺上\NPut your hands up over your head!
 Dialogue: 0,0:30:27.57,0:30:28.80,Default,,0,0,0,,把你的手举起来\NShe's in the back!
@@ -562,7 +562,7 @@ Dialogue: 0,0:39:36.37,0:39:37.87,Default,,0,0,0,,从里奥杜尔特过来顺利
 Dialogue: 0,0:39:37.90,0:39:38.85,Default,,0,0,0,,很顺利\NFine, sir.
 Dialogue: 0,0:39:38.88,0:39:40.08,Default,,0,0,0,,你在那边干得不错\NYou're doing great work down there.
 Dialogue: 0,0:39:40.10,0:39:41.08,Default,,0,0,0,,谢谢您 先生\NThank you very much, sir.
-Dialogue: 0,0:39:41.11,0:39:43.29,Default,,0,0,0,,非法移民就像汹涌的潮水\NEach and every day is hand-to-hand combat
+Dialogue: 0,0:39:41.11,0:39:43.29,Default,,0,0,0,,移民就像汹涌的潮水\NEach and every day is hand-to-hand combat
 Dialogue: 0,0:39:43.31,0:39:45.59,Default,,0,0,0,,每天都是一场硬仗 对吗？\Nin the spread of uncontrolled migration, isn't it?
 Dialogue: 0,0:39:45.62,0:39:46.63,Default,,0,0,0,,您说得没错\NYes, it is, sir.
 Dialogue: 0,0:39:46.65,0:39:47.50,Default,,0,0,0,,是啊\NYeah.
@@ -581,7 +581,7 @@ Dialogue: 0,0:40:18.89,0:40:22.29,Default,,0,0,0,,招募了一些军方成员加
 Dialogue: 0,0:40:22.32,0:40:24.02,Default,,0,0,0,,我们发现他们的\NWe found their...
 Dialogue: 0,0:40:24.04,0:40:28.04,Default,,0,0,0,,实战经验和专业战术相当有用\NTactical battlefield expertise to be quite useful.
 Dialogue: 0,0:40:28.06,0:40:31.65,Default,,0,0,0,,你看 我们和你的目标是一致的\NNow, our aim and your aim is the same.
-Dialogue: 0,0:40:31.67,0:40:34.63,Default,,0,0,0,,及时发现危险分子 反动分子\NTo find dangerous lunatics, haters
+Dialogue: 0,0:40:31.67,0:40:34.63,Default,,0,0,0,,及时发现危险的疯子 恨国者\NTo find dangerous lunatics, haters
 Dialogue: 0,0:40:34.66,0:40:38.87,Default,,0,0,0,,地痞流氓 及时制止\NAnd punk trash and stop them.
 Dialogue: 0,0:40:38.89,0:40:41.72,Default,,0,0,0,,再也不会有人闹事\NNo more lunatics.
 Dialogue: 0,0:40:42.70,0:40:44.82,Default,,0,0,0,,我不知道你有没有听说\NNow, I'm not sure if you've heard or not,
@@ -590,10 +590,10 @@ Dialogue: 0,0:40:47.13,0:40:49.36,Default,,0,0,0,,我听到了消息\NOh, I did 
 Dialogue: 0,0:40:49.51,0:40:52.13,Default,,0,0,0,,俱乐部有空缺了\NThis means an opening.
 Dialogue: 0,0:40:52.15,0:40:56.53,Default,,0,0,0,,上校 我可以毫不夸张地说\NColonel, I don't think I'm being immodest when I say
 Dialogue: 0,0:40:56.56,0:41:00.22,Default,,0,0,0,,如果能够加入圣诞先驱俱乐部\Nthat joining the Christmas Adventurers Club
-Dialogue: 0,0:41:00.24,0:41:03.21,Default,,0,0,0,,你就正式成为了人上人\Nmeans that you are a superior man.
+Dialogue: 0,0:41:00.24,0:41:03.21,Default,,0,0,0,,你就正式成为了“高尚的人”\Nmeans that you are a superior man.
 Dialogue: 0,0:41:03.23,0:41:06.19,Default,,0,0,0,,你不是最优秀 最聪明的人\NNo, not the best man, not the most intelligent,
 Dialogue: 0,0:41:06.22,0:41:09.32,Default,,0,0,0,,也不是最见多识广和智慧的人\NThe most sophisticated, or the wisest.
-Dialogue: 0,0:41:09.34,0:41:13.15,Default,,0,0,0,,你只是更优越 足以凌驾众人之上\NIt just means that you are superior to other human beings,
+Dialogue: 0,0:41:09.34,0:41:13.15,Default,,0,0,0,,你只是比任何其他人都跟高尚\NIt just means that you are superior to other human beings,
 Dialogue: 0,0:41:13.17,0:41:17.87,Default,,0,0,0,,当然你会得到财富 交到最好的朋友\NAnd you shall never want for riches or the greatest of friends.
 Dialogue: 0,0:41:18.13,0:41:22.48,Default,,0,0,0,,我们是独立运作 行事也可以机动灵活\NNow, we report to ourselves with a freedom to be creative
 Dialogue: 0,0:41:22.50,0:41:25.00,Default,,0,0,0,,省略一些繁琐的程序\Nand cut through layers of bureaucracy.
@@ -744,7 +744,7 @@ Dialogue: 0,0:48:49.54,0:48:51.38,Default,,0,0,0,,他们叫鲍勃·弗格森和�
 Dialogue: 0,0:48:51.40,0:48:53.49,Default,,0,0,0,,住在归援十字市\NThey're up in Baktan Cross.
 Dialogue: 0,0:48:55.52,0:48:57.63,Default,,0,0,0,,归援十字市\NBaktan Cross.
 Dialogue: 0,0:48:58.11,0:49:00.64,Default,,0,0,0,,找个理由让我去那边出任务\NMake me a reason to deploy in that town.
-Dialogue: 0,0:49:00.66,0:49:02.19,Default,,0,0,0,,- 打击贩毒之类的 - 明白\N- Drugs and tacos. - Got it.
+Dialogue: 0,0:49:00.66,0:49:02.19,Default,,0,0,0,,- 打击贩毒和拉丁裔移民 - 明白\N- Drugs and tacos. - Got it.
 Dialogue: 0,0:49:02.21,0:49:04.98,Default,,0,0,0,,帮我搜集一些当地情报 就是\NAnd get all the intel on the gathering spots,
 Dialogue: 0,0:49:05.00,0:49:06.90,Default,,0,0,0,,小年轻都喜欢去的地方\Nthe hotspots for teenyboppers.
 Dialogue: 0,0:49:06.92,0:49:08.16,Default,,0,0,0,,遵命\NOn it.
@@ -865,9 +865,9 @@ Dialogue: 0,0:54:08.26,0:54:08.97,Default,,0,0,0,,怎么了\NYes!
 Dialogue: 0,0:54:08.99,0:54:10.69,Default,,0,0,0,,那个涂口红的是谁？\NNow, who's the one with the lipstick?
 Dialogue: 0,0:54:10.71,0:54:12.63,Default,,0,0,0,,叫什么名字？\NWhat's that one's name?
 Dialogue: 0,0:54:12.77,0:54:13.41,Default,,0,0,0,,波波\NBobo.
-Dialogue: 0,0:54:13.43,0:54:15.82,Default,,0,0,0,,波波 该叫他先生 小姐 还是别的？\NBobo. Now, is that a he or a she or a they?
+Dialogue: 0,0:54:13.43,0:54:15.82,Default,,0,0,0,,波波 这是男的？女的？还是别的什么性别？\NBobo. Now, is that a he or a she or a they?
 Dialogue: 0,0:54:15.84,0:54:16.79,Default,,0,0,0,,行了 老爸\NDad, come on.
-Dialogue: 0,0:54:16.81,0:54:18.54,Default,,0,0,0,,我只是想知道 这位是变性还是…\NNo, are they transitioning? I wanna know if...
+Dialogue: 0,0:54:16.81,0:54:18.54,Default,,0,0,0,,我只是想知道 这位是在性别过渡还是…\NNo, are they transitioning? I wanna know if...
 Dialogue: 0,0:54:18.56,0:54:19.59,Default,,0,0,0,,人家是是非二元性别\NThey're nonbinary.
 Dialogue: 0,0:54:19.61,0:54:21.34,Default,,0,0,0,,好吧 我只是想确定一下称呼\NOkay, I just wanna be polite. All right.
 Dialogue: 0,0:54:21.36,0:54:24.26,Default,,0,0,0,,没什么好确定的 用中性词\NIt's not that hard! "They, them."
@@ -1016,7 +1016,7 @@ Dialogue: 0,0:59:51.56,0:59:53.11,Default,,0,0,0,,你 你是哪位？\NWho is th
 Dialogue: 0,0:59:53.86,0:59:56.09,Default,,0,0,0,,- 你是谁？ - 请你背诵暗号\N- Who is this? - I need the greeting code, Bob.
 Dialogue: 0,0:59:57.16,0:59:58.74,Default,,0,0,0,,完蛋\NOh, fuck.
 Dialogue: 0,1:00:00.08,1:00:02.26,Default,,0,0,0,,我已经不记得暗号是什么\NWell, I don't remember the fuckin' greeting code
-Dialogue: 0,1:00:02.29,1:00:04.38,Default,,0,0,0,,因为我现在有点儿懵住了\Nbecause I got a little bit high.
+Dialogue: 0,1:00:02.29,1:00:04.38,Default,,0,0,0,,因为我喝得有点高\Nbecause I got a little bit high.
 Dialogue: 0,1:00:05.39,1:00:07.06,Default,,0,0,0,,那个 已经好多年了\NAnd I... it's been fuckin' years,
 Dialogue: 0,1:00:07.08,1:00:08.69,Default,,0,0,0,,你能不能提示我一下？\Nso you gotta help me out here with this.
 Dialogue: 0,1:00:08.71,1:00:09.56,Default,,0,0,0,,我不太 那个\NI don't...
@@ -1657,7 +1657,7 @@ Dialogue: 0,1:27:45.18,1:27:46.86,Default,,0,0,0,,铐上他 把他带走\NCuff h
 Dialogue: 0,1:27:48.70,1:27:49.75,Default,,0,0,0,,我想起来了\NI have it.
 Dialogue: 0,1:27:50.17,1:27:51.45,Default,,0,0,0,,现在你又想起来了\NYou have it now?
 Dialogue: 0,1:27:52.34,1:27:53.74,Default,,0,0,0,,是多少？\NWhat is it?
-Dialogue: 0,1:27:55.47,1:27:58.59,Default,,0,0,0,,非要撞了南墙才回头 坐下吧\NI thought you took AP Common Sense. Sit the fuck down.
+Dialogue: 0,1:27:55.47,1:27:58.59,Default,,0,0,0,,有点常识也知道你资格讨价还价 坐下吧\NI thought you took AP Common Sense. Sit the fuck down.
 Dialogue: 0,1:28:00.61,1:28:02.45,Default,,0,0,0,,号码是多少？\NWhat's the number?
 Dialogue: 0,1:28:02.73,1:28:04.35,Default,,0,0,0,,联系人是“凯蒂猫”\NIt's under "Hello Kitty."
 Dialogue: 0,1:28:10.21,1:28:11.58,Default,,0,0,0,,手机给我\NGive it to me.
@@ -2044,7 +2044,7 @@ Dialogue: 0,1:53:19.61,1:53:21.73,Default,,0,0,0,,舞会这样重要的场合\NY
 Dialogue: 0,1:53:21.75,1:53:23.67,Default,,0,0,0,,不能犯懒\Nyou make an effort.
 Dialogue: 0,1:53:23.69,1:53:26.01,Default,,0,0,0,,必须好好化妆\NYou put on more makeup.
 Dialogue: 0,1:53:32.60,1:53:35.25,Default,,0,0,0,,你的衬衫怎么那么紧？\NWhy is your shirt so tight?
-Dialogue: 0,1:53:41.37,1:53:43.69,Default,,0,0,0,,你不要乱猜 我可不是同性恋\NI'm not gay, if that's what you're sayin'.
+Dialogue: 0,1:53:41.37,1:53:43.69,Default,,0,0,0,,你不要乱猜 我可不是基佬\NI'm not gay, if that's what you're sayin'.
 Dialogue: 0,1:53:43.71,1:53:45.02,Default,,0,0,0,,我可没这么说\NI didn't say that.
 Dialogue: 0,1:53:45.05,1:53:46.88,Default,,0,0,0,,反正我不是同性恋\NI'm not a homosexual.
 Dialogue: 0,1:53:46.90,1:53:48.14,Default,,0,0,0,,这是你提的\NI did not say that,
@@ -2081,7 +2081,7 @@ Dialogue: 0,1:56:19.58,1:56:21.62,Default,,0,0,0,,把酒收起来 兄弟\NBring 
 Dialogue: 0,1:56:21.64,1:56:22.95,Default,,0,0,0,,真是倒霉\NMotherfucker.
 Dialogue: 0,1:56:24.62,1:56:25.79,Default,,0,0,0,,麻烦来了\NHere he comes.
 Dialogue: 0,1:56:31.89,1:56:34.01,Default,,0,0,0,,把这藏你包里\NPut this in your backpack.
-Dialogue: 0,1:56:46.31,1:56:48.30,Default,,0,0,0,,看来完了 是吧？\NGuess this is the end of the line, huh?
+Dialogue: 0,1:56:46.31,1:56:48.30,Default,,0,0,0,,看来咱们该完蛋了吧 是吧？\NGuess this is the end of the line, huh?
 Dialogue: 0,1:56:50.02,1:56:51.47,Default,,0,0,0,,你还没完\NNot for you.
 Dialogue: 0,1:56:52.57,1:56:55.81,Default,,0,0,0,,心如止水 平静 平静\NOcean waves. Ocean waves.
 Dialogue: 0,1:56:58.74,1:57:01.14,Default,,0,0,0,,我得让你下车了 好兄弟\NI gotta ditch you, Kemosabe.
@@ -2127,7 +2127,7 @@ Dialogue: 0,2:01:29.62,2:01:32.05,Default,,0,0,0,,老实说 我爱过她\NI love
 Dialogue: 0,2:01:34.53,2:01:36.79,Default,,0,0,0,,你妈是我这辈子见过的\NBest goddamn-looking
 Dialogue: 0,2:01:36.82,2:01:37.87,Default,,0,0,0,,最漂亮的黑妞\Nwitch I ever saw.
 Dialogue: 0,2:01:37.89,2:01:38.65,Default,,0,0,0,,住嘴\NShut up.
-Dialogue: 0,2:01:38.67,2:01:40.24,Default,,0,0,0,,可惜 她太疯狂了\NYeah, she was possessed.
+Dialogue: 0,2:01:38.67,2:01:40.24,Default,,0,0,0,,可惜 她被夺舍了\NYeah, she was possessed.
 Dialogue: 0,2:01:40.26,2:01:42.11,Default,,0,0,0,,- 闭上你的臭嘴 - 是个激进的疯子\N- Shut the fuck up. - She was insane.
 Dialogue: 0,2:01:42.13,2:01:43.99,Default,,0,0,0,,很像你 你跟她一模一样\NLike you. You have it in you.
 Dialogue: 0,2:01:44.01,2:01:46.56,Default,,0,0,0,,她身上有疯子的味儿 你身上也有\NI smelled it from within her, and I can smell it from within you.
@@ -2161,7 +2161,7 @@ Dialogue: 0,2:03:52.52,2:03:53.53,Default,,0,0,0,,好吧\NAll right.
 Dialogue: 0,2:03:55.12,2:03:57.09,Default,,0,0,0,,知道一七七六吗？\NYou know the 1776,
 Dialogue: 0,2:03:57.11,2:03:59.20,Default,,0,0,0,,离德尔里奥有8公里 靠近沃特兰\Nabout five miles outside Del Rio by Walter's Landing?
 Dialogue: 0,2:03:59.23,2:04:00.37,Default,,0,0,0,,- 知道 - 好\N- Yeah. - Yeah.
-Dialogue: 0,2:04:00.39,2:04:02.67,Default,,0,0,0,,把她送过去 钱按约定给你\NYou get her to them, I'll pay you your daily rate.
+Dialogue: 0,2:04:00.39,2:04:02.67,Default,,0,0,0,,把她送过去 每天多少钱按定好的给你\NYou get her to them, I'll pay you your daily rate.
 Dialogue: 0,2:04:22.92,2:04:24.45,Default,,0,0,0,,耍小聪明\NSmart aleck.
 Dialogue: 0,2:04:52.58,2:04:56.04,Default,,0,0,0,,死丫头 一点儿规矩都不知道\NYou got no manners, God damn it!
 Dialogue: 0,2:04:56.06,2:04:57.75,Default,,0,0,0,,没家教的玩意儿\NYou weren't raised right!
@@ -2467,7 +2467,7 @@ Dialogue: 0,0:34:38.19,0:34:43.73,Music,,0,0,0,,{\an9}♪ 我真是傻瓜 愿意
 Dialogue: 0,0:34:48.03,0:34:52.88,Music,,0,0,0,,{\an9}♪ 点燃蜡烛 锁上大门\N♪ Light the candle put the lock upon the door ♪
 Dialogue: 0,0:34:53.06,0:34:56.34,Music,,0,0,0,,{\an9}♪ 你让女佣提前回家\N♪ You have sent the maid home early ♪
 Dialogue: 0,0:34:56.37,0:35:01.25,Music,,0,0,0,,{\an9}♪ 过去你也总是这样 ♪\N♪ Like a thousand times before ♪
-Dialogue: 0,0:35:01.36,0:35:07.65,Music,,0,0,0,,{\an9}♪ 就像棋盘上 角落里的城堡\N♪ Like the castle in its corner in a medieval game ♪
+Dialogue: 0,0:35:01.36,0:35:07.65,Music,,0,0,0,,{\an9}♪ 就像古老游戏棋盘上 角落里的城堡\N♪ Like the castle in its corner in a medieval game ♪
 Dialogue: 0,0:35:07.90,0:35:11.19,Music,,0,0,0,,{\an9}♪ 我预感会有大麻烦\N♪ I foresee terrible trouble ♪
 Dialogue: 0,0:35:11.23,0:35:16.03,Music,,0,0,0,,{\an9}♪ 却还是留下来 ♪\N♪ And I stay here just the same ♪
 Dialogue: 0,0:35:17.07,0:35:22.29,Music,,0,0,0,,{\an9}♪ 我真是傻瓜 愿意为你干脏活 ♪\N♪ I'm a fool to do your dirty work, oh yeah ♪
