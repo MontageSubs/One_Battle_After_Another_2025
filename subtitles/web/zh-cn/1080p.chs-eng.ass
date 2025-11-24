@@ -14,10 +14,10 @@ Audio File: ../../../Volumes/MD_Hub_2.0/torrent/One Battle After Another 2025 10
 Video File: ../../../Volumes/MD_Hub_2.0/torrent/One Battle After Another 2025 1080p AMZN WEB-DL DDP5 1 H 264-KyoGo/One Battle After Another 2025 1080p AMZN WEB-DL DDP5 1 H 264-KyoGo.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 2441
-Active Line: 2451
-Video Position: 120033
+Video Zoom Percent: 1.125000
+Scroll Position: 2054
+Active Line: 4504
+Video Position: 232609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -4429,13 +4429,15 @@ Dialogue: 0,1:52:23.73,1:52:27.80,Note,,0,0,0,,{\c&H080D13&\fs50\pos(969,860)}�
 Dialogue: 0,2:06:15.17,2:06:19.27,Note,,0,0,0,,{\bord5\fs30\pos(1318,494)\c&HCEFBFD&\3c&HA2D660&}迪乔治乔路
 Dialogue: 0,2:06:41.90,2:06:44.03,Note,,0,0,0,,{\pos(1021,286)\fs55\c&H20309C&\bord5\3c&H00699F&}新鲜水果
 Dialogue: 0,2:07:55.06,2:07:58.98,Note,,0,0,0,,{\fs45\c&H080D13&\bord5\3c&H338DC6&\move(1280,576,1467,581,0,3920)}警惕山洪
-Dialogue: 0,2:12:56.28,2:12:58.53,Note,,0,0,0,,{\fs50\fs30\pos(1078,306)\bord3\c&H52481A&\3c&H808A8B&}售卖冰块\N梅里克商行\N爱计较者出门左转不送
+Dialogue: 0,2:12:56.28,2:12:58.53,Note,,0,0,0,,{\fs17\bord3\c&H1E2E35&\3c&H808A8B&\pos(1187,324)}梅里克商行
+Dialogue: 0,2:12:56.28,2:12:58.53,Note,,0,0,0,,{\fs20\bord3\c&H27220C&\3c&H808A8B&\pos(1301,384)}爱计较者出门左转不送
+Dialogue: 0,2:12:56.28,2:12:58.53,Note,,0,0,0,,{\fs50\fs30\bord3\c&H26210B&\3c&H808A8B&\pos(1314,125)}售卖冰块
 Dialogue: 0,2:33:09.25,2:33:13.93,Note,,0,0,0,,{\fs30\frz357.6\pos(1661,903)\c&H39465B&\bord4\3c&H04170D&}瑟\N吉\N奥\N·\N圣\N卡\N洛\N斯\N忍\N者\N学\N院
 Dialogue: 0,2:33:58.17,2:34:02.25,Note,,0,0,0,,{\c&HB9E2E2&\fs210\bord1\shad3\pos(251,974)}一\N战\N再
 Dialogue: 0,2:33:58.17,2:34:02.25,Note,,0,0,0,,{\c&HB9E2E2&\fs210\bord1\shad3\pos(448,979)}战
 Dialogue: 0,2:34:02.25,2:34:06.43,Note,,0,0,0,,{\an1\\c&HB9E2E2&\fs80\bord1\shad3\pos(185,876)}编剧及导演\N\h\h\h\h\h\h\h\h\h\h{\fs120}保罗·托马斯·安德森
 Dialogue: 0,2:34:06.43,2:34:10.64,Note,,0,0,0,,{\an1\\c&HB9E2E2&\fs80\bord1\shad3\pos(443,878)}制片人\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fs120}亚当·索姆纳
-Dialogue: 0,2:34:10.66,2:34:14.80,Note,,0,0,0,,{\an1\\c&HB9E2E2&\fs80\bord1\shad3\pos(205,347)}制片人
+Dialogue: 0,2:34:10.66,2:34:14.80,Note,,0,0,0,,{\an1\\c&HB9E2E2&\fs80\bord1\shad3\pos(208,725)}制片人
 Dialogue: 0,2:34:10.66,2:34:14.80,Note,,0,0,0,,{\an1\\c&HB9E2E2&\bord1\shad3\fs120\pos(418,956)}萨拉·墨菲\N保罗·托马斯·安德森
 Dialogue: 0,2:34:14.80,2:34:18.77,Note,,0,0,0,,{\an2\\c&HB9E2E2&\fs80\bord1\shad3\pos(960,869)}主演\N{\fs120}莱昂纳多·迪卡普里奥 \N{\fs80}饰 父亲鲍勃
 Dialogue: 0,2:34:18.77,2:34:22.73,Note,,0,0,0,,{\an2\\c&HB9E2E2&\fs80\bord1\shad3\pos(960,871)}主演\N{\fs120}西恩·潘\N{\fs80}饰 上校勒喉乔
