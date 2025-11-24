@@ -2265,7 +2265,7 @@ Dialogue: 0,2:21:51.02,2:21:51.85,Default,,0,0,0,,好\N{\rEN}Okay!
 Dialogue: 0,2:21:53.02,2:21:54.98,Default,,0,0,0,,爸爸来了 薇拉\N{\rEN}It's your dad, Willa!
 Dialogue: 0,2:21:56.64,2:21:58.68,Default,,0,0,0,,“上层建筑再也不重要了”\N{\rEN}"Will no longer be so goddamn relevant."
 Dialogue: 0,2:21:58.70,2:21:59.58,Default,,0,0,0,,看看我\N{\rEN}Look at me.
-Dialogue: 0,2:22:02.52,2:22:04.37,Default,,0,0,0,,你这白人是谁？\N{\rEN}Who are you?
+Dialogue: 0,2:22:02.52,2:22:04.37,Default,,0,0,0,,你这白男是谁？\N{\rEN}Who are you?
 Dialogue: 0,2:22:06.32,2:22:07.57,Default,,0,0,0,,我是你爸爸\N{\rEN}It's your dad!
 Dialogue: 0,2:22:10.29,2:22:11.35,Default,,0,0,0,,仔细看\N{\rEN}Look at me.
 Dialogue: 0,2:22:12.15,2:22:13.33,Default,,0,0,0,,没事了\N{\rEN}It's okay.
@@ -2588,7 +2588,7 @@ Dialogue: 0,2:35:25.08,2:35:26.44,Music,,0,0,0,,♪ 没错 ♪\N{\rEN}♪ All ri
 Dialogue: 0,2:35:26.92,2:35:28.98,Music,,0,0,0,,♪ 慢一点儿 宝贝 ♪\N{\rEN}♪ Take it easy, baby ♪
 Dialogue: 0,2:35:29.09,2:35:31.45,Music,,0,0,0,,♪ 持续一整夜 ♪\N{\rEN}♪ Make it last all night ♪
 Dialogue: 0,2:35:31.47,2:35:35.47,Music,,0,0,0,,♪ 她是一个美国女孩 ♪\N{\rEN}♪ She was an American girl ♪
-Dialogue: 0,2:37:02.45,2:37:04.78,Music,,0,0,0,,♪ 你没法坐视不管 哥们儿 ♪\N{\rEN}♪ You will not be able to stay home, brother ♪
+Dialogue: 0,2:37:02.45,2:37:04.78,Music,,0,0,0,,♪ 你没法在家坐视不管 哥们儿 ♪\N{\rEN}♪ You will not be able to stay home, brother ♪
 Dialogue: 0,2:37:07.50,2:37:10.87,Music,,0,0,0,,♪ 你没法打开电视逃避现实 ♪\N{\rEN}♪ You will not be able to plug in turn on and cop out ♪
 Dialogue: 0,2:37:11.66,2:37:14.22,Music,,0,0,0,,♪ 你没法用药物来麻痹掩目 ♪\N{\rEN}♪ You will not be able to lose yourself on skag ♪
 Dialogue: 0,2:37:14.24,2:37:16.56,Music,,0,0,0,,♪ 你没法在广告时间出门买啤酒 因为\N{\rEN}♪ And skip out for beer during commercials because ♪
@@ -4453,7 +4453,7 @@ Dialogue: 0,2:34:48.43,2:34:51.51,Note,,0,0,0,,{\an1\\c&HB9E2E2&\fs80\bord1\shad
 Dialogue: 0,2:34:51.51,2:34:54.64,Note,,0,0,0,,{\an1\\c&HB9E2E2&\fs80\bord1\shad3\pos(322,810)}艺术指导\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fs120}弗洛伦西亚·马丁
 Dialogue: 0,2:34:54.64,2:34:57.73,Note,,0,0,0,,{\an1\c&HB9E2E2&\fs80\bord1\shad3\pos(457,810)}剪辑\N\h\h\h\h\h\h\h{\fs120}安迪·贾尔根森
 Dialogue: 0,2:34:57.73,2:35:00.69,Note,,0,0,0,,{\an1\c&HB9E2E2&\fs80\bord1\shad3\pos(388,810)}配乐\N\h\h\h\h\h\h\h\h\h{\fs120}强尼·格林伍德
-Dialogue: 0,2:35:00.69,2:35:03.82,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}字幕译制\N{\fs120}上海电影译制厂\N蒙太奇字幕组
+Dialogue: 0,2:35:00.69,2:35:03.82,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}字幕译制\N{\fs80}上海电影译制厂\N蒙太奇字幕组
 Dialogue: 0,2:35:03.82,2:35:07.24,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}翻译\N上海电影译制厂: 许诺 & 徐子怡 {\fs80}\N蒙太奇字幕组 : 小p & 十三
 Dialogue: 0,2:35:07.24,2:35:10.69,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\N双语合并：novaeye & 小p & NickCollect & Lei\N时间轴：小p & novaeye\N校对：小p & 十三 & novaeye & NickCollect
 Dialogue: 0,2:35:10.69,2:35:14.35,Note,,0,0,0,,{\an8\c&HB9E2E2&\fs80\bord1\shad3}蒙太奇字幕组\N注释：小p & 十三\N后期特效：NickCollect & novaeye
@@ -4527,6 +4527,7 @@ Dialogue: 0,1:57:26.02,1:57:30.25,Note - T,,0,0,0,,【阿汤哥：汤姆·克鲁
 Dialogue: 0,2:07:37.74,2:07:42.85,Note - T,,0,0,0,,【酒类法律：美国大多数州酒驾将罚款 吊照 严重或累犯可拘留起诉】
 Dialogue: 0,2:09:19.27,2:09:21.53,Note - T,,0,0,0,,残酷无情
 Dialogue: 0,2:12:34.39,2:12:47.97,Note - T,,0,0,0,,残酷无情
+Dialogue: 0,2:12:56.28,2:13:00.49,Note - T,,0,0,0,,【ICE：美国移民和海关执法局同样缩写为ICE 负责美国境内移民和海关执法任务】
 Dialogue: 0,2:29:05.63,2:29:10.11,Note - T,,0,0,0,,【火化：违背传统福音派的葬制 历史上用作对异己的净化与消灭】
 Dialogue: 0,2:29:10.11,2:29:15.29,Note - T,,0,0,0,,【毒气室与焚化：对应纳粹时期的制度化灭绝 暗示对他者的系统性权利剥夺】
 Dialogue: 0,2:37:27.70,2:37:32.11,Note - T,,0,0,0,,【惠特尼·杨：黑人民权领袖 此处指当局常以“平息骚乱”名义隐去真实画面】
