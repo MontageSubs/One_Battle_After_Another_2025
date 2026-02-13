@@ -1,0 +1,95 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,90,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
+Style: Narration,Microsoft YaHei,90,&H0099FFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
+Style: OSD,Microsoft YaHei,79,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1.0,0,2,25,25,11,1
+Style: Music,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0.5,2,25,25,11,1
+Style: Note,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1,0.5,8,25,25,11,1
+Style: Eng,Microsoft YaHei,60,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
+Style: NarrationEng,Microsoft YaHei,60,&H0099FFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.20,0:00:03.00,Narration,,0,0,0,,孩子们看了无数遍\N{\rNarrationEng}They've watched it a thousand times.
+Dialogue: 0,0:00:03.01,0:00:04.62,Narration,,0,0,0,,台词都能倒背如流\N{\rNarrationEng}They can quote every line.
+Dialogue: 0,0:00:04.64,0:00:06.19,Narration,,0,0,0,,今年在他们心里\N{\rNarrationEng}As far as your kids are concerned,
+Dialogue: 0,0:00:06.21,0:00:08.54,Narration,,0,0,0,,最爱的电影就是...\N{\rNarrationEng}the only movie that matters this award season is...
+Dialogue: 0,0:00:08.56,0:00:10.04,Default,,0,0,0,,是《K-Pop: 猎魔女团...\N{\rEng}KPop Demon --
+Dialogue: 0,0:00:10.06,0:00:12.60,Default,,0,0,0,,是《一战再战》！\N{\rEng}One Battle After Another!
+Dialogue: 0,0:00:12.94,0:00:15.51,Narration,,0,0,0,,现在就买美泰公司《一战再战》角色玩偶\N{\rNarrationEng}Now bring the battle home with "One Battle After Another"
+Dialogue: 0,0:00:14.06,0:00:15.97,OSD,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶{\b0}
+Dialogue: 0,0:00:15.53,0:00:17.38,Narration,,0,0,0,,在家重温每场激战\N{\rNarrationEng}action figures from Mattel.
+Dialogue: 0,0:00:15.97,0:00:16.72,OSD,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶{\b0}\N{\fs65}美泰出品
+Dialogue: 0,0:00:19.93,0:00:22.46,Default,,0,0,0,,是叛娅·富山！\N{\rEng}Perfidia Beverly Hills!
+Dialogue: 0,0:00:22.48,0:00:24.67,Default,,0,0,0,,\N孩子们 欢迎加入革命\N{\rEng}Welcome to the revolution, kids.
+Dialogue: 0,0:00:24.69,0:00:26.75,Default,,0,0,0,,一起去打恶魔吧\N{\rEng}Now fight them demons.
+Dialogue: 0,0:00:26.76,0:00:28.30,Default,,0,0,0,,太酷了\N{\rEng}Awesome!
+Dialogue: 0,0:00:28.40,0:00:31.12,Narration,,0,0,0,,出自备受好评的保罗·托马斯·安德森\N{\rNarrationEng}All your favorite heroes and villains from Paul Thomas Anderson's
+Dialogue: 0,0:00:28.53,0:00:34.39,OSD,,0,0,0,,{\pos(1852,86)\an9\b1}《一战再战》角色玩偶{\b0}\N{\fs65}美泰出品
+Dialogue: 0,0:00:31.14,0:00:34.51,Narration,,0,0,0,,抗击种族暴政的杰作\N{\rNarrationEng}critically lauded masterpiece about resistance in the face of racial tyranny
+Dialogue: 0,0:00:34.52,0:00:36.15,Narration,,0,0,0,,片中所有英雄和反派 现在尽在你掌中\N{\rNarrationEng}now in the palm of your hands.
+Dialogue: 0,0:00:36.16,0:00:37.13,Default,,0,0,0,,太棒了\N{\rEng}Yeah!
+Dialogue: 0,0:00:37.14,0:00:38.93,Narration,,0,0,0,,有穿战袍的鲍勃·弗格森\N{\rNarrationEng}Like Battle Robe Bob Ferguson,
+Dialogue: 0,0:00:37.18,0:00:38.80,OSD,,0,0,0,,{\pos(1397,714)\fs65}穿战袍的{\r\b1}\N鲍勃·弗格森
+Dialogue: 0,0:00:38.95,0:00:41.48,Narration,,0,0,0,,配有可发光的奇妙小卷和寻亲配对器\N{\rNarrationEng}with light-up joint and little homing device.
+Dialogue: 0,0:00:41.50,0:00:43.46,Default,,0,0,0,,“我嗨翻了”\N{\rEng}I'm so high!
+Dialogue: 0,0:00:43.48,0:00:46.59,Narration,,0,0,0,,瑟吉奥大师 带有网红级喝酒桥段\N{\rNarrationEng}Sensei Sergio, with real beer-chugging action.
+Dialogue: 0,0:00:43.48,0:00:46.15,OSD,,0,0,0,,{\pos(466,590)\fs65}柔道大师{\r\b1}\N瑟吉奥
+Dialogue: 0,0:00:46.60,0:00:49.14,Default,,0,0,0,,“就喝了点小啤酒”\N{\rEng}I had a few small beers.
+Dialogue: 0,0:00:49.49,0:00:51.90,Narration,,0,0,0,,还包括各种你爱的革命角色\N{\rNarrationEng}Collect all your favorite revolutionaries.
+Dialogue: 0,0:00:49.54,0:00:51.17,OSD,,0,0,0,,{\pos(1437,539)\fs65}还包括各种{\r\b1}\N你爱的革命角色
+Dialogue: 0,0:00:51.91,0:00:53.48,Default,,0,0,0,,你好呀\N{\rEng}Oh, hello!
+Dialogue: 0,0:00:53.49,0:00:55.05,Default,,0,0,0,,你叫什么啊？\N{\rEng}What's your name?
+Dialogue: 0,0:00:55.07,0:00:57.04,Default,,0,0,0,,“我叫贱女姜戈”\N{\rEng}My name is Junglepussy.
+Dialogue: 0,0:00:57.05,0:00:58.59,Default,,0,0,0,,贝卡 你怎么能说这种话！\N{\rEng}Becka Lee!
+Dialogue: 0,0:00:58.60,0:01:01.52,Default,,0,0,0,,“看清楚了吗？这就是黑人力量的化身”\N{\rEng}See my face? This is what black power looks like.
+Dialogue: 0,0:01:02.11,0:01:04.12,Default,,0,0,0,,别忘了还有叛娅·富山\N{\rEng}And don't forget about Perfidia Beverly Hills,
+Dialogue: 0,0:01:02.57,0:01:04.03,OSD,,0,0,0,,{\pos(1368,726)\b1}叛娅·富山
+Dialogue: 0,0:01:04.14,0:01:06.79,Default,,0,0,0,,带有可拆卸的孕妇肚和机关枪\N{\rEng}with snap-on pregnant belly and machine gun.
+Dialogue: 0,0:01:06.81,0:01:09.99,Default,,0,0,0,,“吃枪子吧 蠢猪男人”砰 砰 砰...\N{\rEng}Take that, pig!
+Dialogue: 0,0:01:10.00,0:01:14.01,Narration,,0,0,0,,小心 紧随其后的是又傻又壮的勒喉乔上校\N{\rNarrationEng}But look out. Hot on their trail is the buff, weird Colonel Lockjaw,
+Dialogue: 0,0:01:12.90,0:01:14.03,OSD,,0,0,0,,{\pos(1467,653)\b1}勒喉乔上校
+Dialogue: 0,0:01:14.03,0:01:17.42,Narration,,0,0,0,,配有逼真肌肉血管和现场亲子鉴定仪\N{\rNarrationEng}with realistic arm veins and mobile paternity testing kit.
+Dialogue: 0,0:01:17.44,0:01:19.56,Default,,0,0,0,,“绝不允许失败”\N{\rEng}Failure is not an option.
+Dialogue: 0,0:01:19.57,0:01:21.67,Default,,0,0,0,,遵命 长官\N{\rEng}Okay. Yes, sir!
+Dialogue: 0,0:01:21.81,0:01:23.09,Default,,0,0,0,,“你喜欢黑妞吗？”\N{\rEng}Do you like black girls?
+Dialogue: 0,0:01:23.11,0:01:24.60,Default,,0,0,0,,- 什么？ - “我爱死她们了”\N{\rEng}- What? - 'Cause I love 'em.
+Dialogue: 0,0:01:24.62,0:01:25.94,Default,,0,0,0,,“爱死她们了！”\N{\rEng}I love 'em!
+Dialogue: 0,0:01:25.95,0:01:30.02,Narration,,0,0,0,,还可购买《一战再战》场景小屋把你的战斗体验升级\N{\rNarrationEng}Plus, take your battles to the next level with "One Battle After Another" playsets,
+Dialogue: 0,0:01:27.53,0:01:30.03,OSD,,0,0,0,,{\an8\b1}瑟吉奥公寓 银行 春歧途酒店
+Dialogue: 0,0:01:30.03,0:01:31.74,Narration,,0,0,0,,比如瑟吉奥大师的公寓\N{\rNarrationEng}like Sensei Sergio's apartment,
+Dialogue: 0,0:01:30.10,0:01:31.53,OSD,,0,0,0,,{\pos(960,377)\b1}瑟吉奥大师的公寓
+Dialogue: 0,0:01:31.76,0:01:34.54,Narration,,0,0,0,,配有真正的暗门 帮你的拉丁裔朋友逃跑\N{\rNarrationEng}with real working trapdoor to help your Latino friends escape,
+Dialogue: 0,0:01:34.56,0:01:37.04,Narration,,0,0,0,,或在昏暗的汽车旅馆里\N{\rNarrationEng}or make one moral sacrifice after another
+Dialogue: 0,0:01:36.83,0:01:38.55,OSD,,0,0,0,,{\pos(960,377)\b1}春歧途酒店
+Dialogue: 0,0:01:37.05,0:01:39.95,Narration,,0,0,0,,上演一炮再一炮的道德牺牲\N{\rNarrationEng}in the dimly lit motel room.
+Dialogue: 0,0:01:43.22,0:01:45.20,Default,,0,0,0,,不行 别学这个桥段\N{\rEng}Nope, we're not doing that scene. Okay.
+Dialogue: 0,0:01:45.29,0:01:47.99,Default,,0,0,0,,选好你的载具 开上路继续战斗\N{\rEng}Take the battle on the road with the deluxe vehicles.
+Dialogue: 0,0:01:48.00,0:01:49.79,Narration,,0,0,0,,比如鲍勃那辆破车\N{\rNarrationEng}Like Bob's crappy car,
+Dialogue: 0,0:01:49.81,0:01:52.94,Narration,,0,0,0,,开在沙漠路上 尽享50次人生起伏\N{\rNarrationEng}Or 50-piece desert road with so many rolling hills.
+Dialogue: 0,0:01:49.94,0:01:51.24,OSD,,0,0,0,,{\an8\b1}沙漠路拼装{\b0\fs65} 50片
+Dialogue: 0,0:01:51.24,0:01:52.94,OSD,,0,0,0,,{\an8\b1}沙漠路拼装{\b0\fs65} 50片\N尽享人生起伏
+Dialogue: 0,0:01:53.05,0:01:54.84,Narration,,0,0,0,,现在就买美泰公司《一战再战》\N{\rNarrationEng}"One Battle After Another" action figures,
+Dialogue: 0,0:01:53.05,0:01:55.51,OSD,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋
+Dialogue: 0,0:01:54.85,0:01:56.64,Narration,,0,0,0,,角色玩偶 载具和场景小屋\N{\rNarrationEng}vehicles, and playsets from Mattel.
+Dialogue: 0,0:01:55.51,0:01:56.73,OSD,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋{\b0\fs65}\N美泰出品
+Dialogue: 0,0:01:56.99,0:01:59.34,Narration,,0,0,0,,还有保罗·托马斯·安德森的更多杰作可供选择\N{\rNarrationEng}Part of the Paul Thomas Anderson master set.
+Dialogue: 0,0:01:56.99,0:01:57.70,OSD,,0,0,0,,{\an8}《私恋失调》
+Dialogue: 0,0:01:57.70,0:01:58.28,OSD,,0,0,0,,{\an8}《木兰花》
+Dialogue: 0,0:01:58.28,0:01:59.16,OSD,,0,0,0,,{\an8}《不羁夜》
+Dialogue: 0,0:01:59.36,0:02:01.00,Default,,0,0,0,,“我抛下了我的孩子”\N{\rEng}I've abandoned my child!
+Dialogue: 0,0:01:59.36,0:02:00.82,Note,,0,0,0,,{\an8}【译注：出自《血色将至》】
+Dialogue: 0,0:02:01.02,0:02:02.68,Default,,0,0,0,,“我抛下了我的孩子”\N{\rEng}I've abandoned my child!
+Dialogue: 0,0:02:02.70,0:02:06.41,Default,,0,0,0,,“我竟然抛下了我的儿子啊”\N{\rEng}I've abandoned my boy!
+Dialogue: 0,0:02:08.39,0:02:10.48,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}周六夜现场小品《玩具广告》\N蒙太奇字幕组 原创译制
+Dialogue: 0,0:02:10.50,0:02:12.70,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}字幕贡献者\N翻译/时间轴：小p\N合成：
+Dialogue: 0,0:02:12.71,0:02:18.31,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
