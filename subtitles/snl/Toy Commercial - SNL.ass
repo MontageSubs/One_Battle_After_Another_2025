@@ -11,7 +11,7 @@ PlayResY: 1080
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Microsoft YaHei,90,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
 Style: Narration,Microsoft YaHei,90,&H0099FFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
-Style: OSD,Microsoft YaHei,79,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1.0,0,2,25,25,11,1
+Style: OSD,Microsoft YaHei,79,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,25,25,11,1
 Style: Music,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0.5,2,25,25,11,1
 Style: Note,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1,0.5,8,25,25,11,1
 Style: Eng,Microsoft YaHei,60,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
@@ -33,8 +33,8 @@ Dialogue: 0,0:00:19.93,0:00:22.46,Default,,0,0,0,,是叛娅·富山！\N{\rEng}P
 Dialogue: 0,0:00:22.48,0:00:24.67,Default,,0,0,0,,\N孩子们 欢迎加入革命\N{\rEng}Welcome to the revolution, kids.
 Dialogue: 0,0:00:24.69,0:00:26.75,Default,,0,0,0,,一起去打恶魔吧\N{\rEng}Now fight them demons.
 Dialogue: 0,0:00:26.76,0:00:28.30,Default,,0,0,0,,太酷了\N{\rEng}Awesome!
-Dialogue: 0,0:00:28.40,0:00:31.12,Narration,,0,0,0,,出自备受好评的保罗·托马斯·安德森\N{\rNarrationEng}All your favorite heroes and villains from Paul Thomas Anderson's
-Dialogue: 0,0:00:28.53,0:00:34.39,OSD,,0,0,0,,{\pos(1852,86)\an9\b1}《一战再战》角色玩偶{\b0}\N{\fs65}美泰出品
+Dialogue: 0,0:00:28.39,0:00:31.12,Narration,,0,0,0,,出自备受好评的保罗·托马斯·安德森\N{\rNarrationEng}All your favorite heroes and villains from Paul Thomas Anderson's
+Dialogue: 0,0:00:28.51,0:00:34.39,OSD,,0,0,0,,{\pos(1852,86)\an9\b1}《一战再战》角色玩偶{\b0}\N{\fs65}美泰出品
 Dialogue: 0,0:00:31.14,0:00:34.51,Narration,,0,0,0,,抗击种族暴政的杰作\N{\rNarrationEng}critically lauded masterpiece about resistance in the face of racial tyranny
 Dialogue: 0,0:00:34.52,0:00:36.15,Narration,,0,0,0,,片中所有英雄和反派 现在尽在你掌中\N{\rNarrationEng}now in the palm of your hands.
 Dialogue: 0,0:00:36.16,0:00:37.13,Default,,0,0,0,,太棒了\N{\rEng}Yeah!
@@ -90,6 +90,6 @@ Dialogue: 0,0:01:59.36,0:02:01.00,Default,,0,0,0,,“我抛下了我的孩子”
 Dialogue: 0,0:01:59.36,0:02:00.82,Note,,0,0,0,,{\an8}【译注：出自《血色将至》】
 Dialogue: 0,0:02:01.02,0:02:02.68,Default,,0,0,0,,“我抛下了我的孩子”\N{\rEng}I've abandoned my child!
 Dialogue: 0,0:02:02.70,0:02:06.41,Default,,0,0,0,,“我竟然抛下了我的儿子啊”\N{\rEng}I've abandoned my boy!
-Dialogue: 0,0:02:08.39,0:02:10.48,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}周六夜现场小品《玩具广告》\N蒙太奇字幕组 原创译制
-Dialogue: 0,0:02:10.50,0:02:12.70,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}字幕贡献者\N翻译/时间轴：小p\N合成：
-Dialogue: 0,0:02:12.71,0:02:18.31,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
+Dialogue: 0,0:02:08.38,0:02:10.49,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}周六夜现场喜剧《玩具广告》\N{\fs40}蒙太奇字幕组 原创译制
+Dialogue: 0,0:02:10.50,0:02:12.70,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}字幕贡献者\N{\fs40}翻译/时间轴：小p\N后期/合成：
+Dialogue: 0,0:02:12.71,0:02:18.35,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
