@@ -13,8 +13,8 @@ Style: Default,Microsoft YaHei,90,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,
 Style: Narration,Microsoft YaHei,90,&H0099FFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
 Style: Screen,Microsoft YaHei,79,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,25,25,11,1
 Style: Note,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,1,0.5,8,25,25,11,1
-Style: Eng,Microsoft YaHei,60,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
-Style: NarrationEng,Microsoft YaHei,60,&H0099FFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
+Style: Eng,Microsoft Arial,56,&H00FFFFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
+Style: NarrationEng,Microsoft Arial,56,&H0099FFFF,&HF0000000,&H00020101,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,2,25,25,11,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -23,12 +23,12 @@ Dialogue: 0,0:00:03.01,0:00:04.62,Narration,,0,0,0,,台词都能倒背如流\N{\
 Dialogue: 0,0:00:04.64,0:00:06.23,Narration,,0,0,0,,今年颁奖季在他们心里\N{\rNarrationEng}As far as your kids are concerned,
 Dialogue: 0,0:00:06.24,0:00:08.69,Narration,,0,0,0,,最爱的电影就是...\N{\rNarrationEng}the only movie that matters this award season is...
 Dialogue: 0,0:00:08.70,0:00:10.04,Default,,0,0,0,,是《K-Pop: 猎魔女团...\N{\rEng}KPop Demon --
-Dialogue: 0,0:00:10.05,0:00:12.60,Default,,0,0,0,,是《一战再战》！\N{\rEng}One Battle After Another!
+Dialogue: 0,0:00:10.05,0:00:12.60,Default,,0,0,0,,是《一战再战》!\N{\rEng}One Battle After Another!
 Dialogue: 0,0:00:12.94,0:00:15.51,Narration,,0,0,0,,现在就买美泰公司《一战再战》角色玩偶\N{\rNarrationEng}Now bring the battle home with "One Battle After Another"
 Dialogue: 0,0:00:14.06,0:00:15.97,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶{\b0}
 Dialogue: 0,0:00:15.53,0:00:17.38,Narration,,0,0,0,,在家重温每场激战\N{\rNarrationEng}action figures from Mattel.
 Dialogue: 0,0:00:15.97,0:00:16.72,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶{\b0}\N{\fs65}美泰出品
-Dialogue: 0,0:00:19.93,0:00:22.46,Default,,0,0,0,,是叛娅·富山！\N{\rEng}Perfidia Beverly Hills!
+Dialogue: 0,0:00:19.93,0:00:22.46,Default,,0,0,0,,是叛娅·富山!\N{\rEng}Perfidia Beverly Hills!
 Dialogue: 0,0:00:22.48,0:00:24.67,Default,,0,0,0,,\N孩子们 欢迎加入革命\N{\rEng}Welcome to the revolution, kids.
 Dialogue: 0,0:00:24.69,0:00:26.75,Default,,0,0,0,,一起去打恶魔吧\N{\rEng}Now fight them demons.
 Dialogue: 0,0:00:26.76,0:00:28.30,Default,,0,0,0,,太酷了\N{\rEng}Awesome!
@@ -77,10 +77,10 @@ Dialogue: 0,0:00:46.60,0:00:49.14,Default,,0,0,0,,“就喝了点小啤酒”\N{
 Dialogue: 0,0:00:49.49,0:00:51.90,Narration,,0,0,0,,还包括各种你爱的革命角色\N{\rNarrationEng}Collect all your favorite revolutionaries.
 Dialogue: 0,0:00:49.54,0:00:51.17,Screen,,0,0,0,,{\pos(1437,539)\fs65}还包括各种{\r\b1}\N你爱的革命角色
 Dialogue: 0,0:00:51.91,0:00:53.48,Default,,0,0,0,,你好呀\N{\rEng}Oh, hello!
-Dialogue: 0,0:00:53.49,0:00:55.05,Default,,0,0,0,,你叫什么啊？\N{\rEng}What's your name?
+Dialogue: 0,0:00:53.49,0:00:55.05,Default,,0,0,0,,你叫什么啊?\N{\rEng}What's your name?
 Dialogue: 0,0:00:55.07,0:00:57.04,Default,,0,0,0,,“我叫贱女姜戈”\N{\rEng}My name is Junglepussy.
-Dialogue: 0,0:00:57.05,0:00:58.59,Default,,0,0,0,,贝卡 你怎么能说这种话！\N{\rEng}Becka Lee!
-Dialogue: 0,0:00:58.60,0:01:01.52,Default,,0,0,0,,“看清楚了吗？这就是黑人力量的化身”\N{\rEng}See my face? This is what black power looks like.
+Dialogue: 0,0:00:57.05,0:00:58.59,Default,,0,0,0,,贝卡 你怎么能说这种话!\N{\rEng}Becka Lee!
+Dialogue: 0,0:00:58.60,0:01:01.52,Default,,0,0,0,,“看清楚了吗? 这就是黑人力量的化身”\N{\rEng}See my face? This is what black power looks like.
 Dialogue: 0,0:01:02.11,0:01:04.12,Default,,0,0,0,,别忘了还有叛娅·富山\N{\rEng}And don't forget about Perfidia Beverly Hills,
 Dialogue: 0,0:01:02.57,0:01:04.03,Screen,,0,0,0,,{\pos(1368,726)\b1}叛娅·富山
 Dialogue: 0,0:01:04.14,0:01:06.79,Default,,0,0,0,,带有可拆卸的孕妇肚和机关枪\N{\rEng}with snap-on pregnant belly and machine gun.
@@ -90,9 +90,9 @@ Dialogue: 0,0:01:12.90,0:01:14.03,Screen,,0,0,0,,{\pos(1467,653)\b1}勒喉乔上
 Dialogue: 0,0:01:14.03,0:01:17.42,Narration,,0,0,0,,配有逼真肌肉血管和现场亲子鉴定仪\N{\rNarrationEng}with realistic arm veins and mobile paternity testing kit.
 Dialogue: 0,0:01:17.44,0:01:19.56,Default,,0,0,0,,“绝不允许失败”\N{\rEng}Failure is not an option.
 Dialogue: 0,0:01:19.57,0:01:21.67,Default,,0,0,0,,遵命 长官\N{\rEng}Okay. Yes, sir!
-Dialogue: 0,0:01:21.81,0:01:23.09,Default,,0,0,0,,“你喜欢黑妞吗？”\N{\rEng}Do you like black girls?
-Dialogue: 0,0:01:23.11,0:01:24.60,Default,,0,0,0,,- 什么？ - “我爱死她们了”\N{\rEng}- What? - 'Cause I love 'em.
-Dialogue: 0,0:01:24.62,0:01:25.94,Default,,0,0,0,,“爱死她们了！”\N{\rEng}I love 'em!
+Dialogue: 0,0:01:21.81,0:01:23.09,Default,,0,0,0,,“你喜欢黑妞吗?”\N{\rEng}Do you like black girls?
+Dialogue: 0,0:01:23.11,0:01:24.60,Default,,0,0,0,,- 什么? - “我爱死她们了”\N{\rEng}- What? - 'Cause I love 'em.
+Dialogue: 0,0:01:24.62,0:01:25.94,Default,,0,0,0,,“爱死她们了!”\N{\rEng}I love 'em!
 Dialogue: 0,0:01:25.95,0:01:30.02,Narration,,0,0,0,,还可购买《一战再战》场景小屋把你的战斗体验升级\N{\rNarrationEng}Plus, take your battles to the next level with "One Battle After Another" playsets,
 Dialogue: 0,0:01:27.53,0:01:30.03,Screen,,0,0,0,,{\an8\b1}瑟吉奥公寓 银行 春歧途酒店
 Dialogue: 0,0:01:30.03,0:01:31.74,Narration,,0,0,0,,比如瑟吉奥大师的公寓\N{\rNarrationEng}like Sensei Sergio's apartment,
