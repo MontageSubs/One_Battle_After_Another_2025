@@ -20,10 +20,10 @@ Style: NarrationEng,Microsoft YaHei,60,&H0099FFFF,&HF0000000,&H00020101,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.20,0:00:03.00,Narration,,0,0,0,,孩子们看了无数遍\N{\rNarrationEng}They've watched it a thousand times.
 Dialogue: 0,0:00:03.01,0:00:04.62,Narration,,0,0,0,,台词都能倒背如流\N{\rNarrationEng}They can quote every line.
-Dialogue: 0,0:00:04.64,0:00:06.19,Narration,,0,0,0,,今年在他们心里\N{\rNarrationEng}As far as your kids are concerned,
-Dialogue: 0,0:00:06.21,0:00:08.54,Narration,,0,0,0,,最爱的电影就是...\N{\rNarrationEng}the only movie that matters this award season is...
-Dialogue: 0,0:00:08.56,0:00:10.04,Default,,0,0,0,,是《K-Pop: 猎魔女团...\N{\rEng}KPop Demon --
-Dialogue: 0,0:00:10.06,0:00:12.60,Default,,0,0,0,,是《一战再战》！\N{\rEng}One Battle After Another!
+Dialogue: 0,0:00:04.64,0:00:06.23,Narration,,0,0,0,,今年颁奖季在他们心里\N{\rNarrationEng}As far as your kids are concerned,
+Dialogue: 0,0:00:06.24,0:00:08.69,Narration,,0,0,0,,最爱的电影就是...\N{\rNarrationEng}the only movie that matters this award season is...
+Dialogue: 0,0:00:08.70,0:00:10.04,Default,,0,0,0,,是《K-Pop: 猎魔女团...\N{\rEng}KPop Demon --
+Dialogue: 0,0:00:10.05,0:00:12.60,Default,,0,0,0,,是《一战再战》！\N{\rEng}One Battle After Another!
 Dialogue: 0,0:00:12.94,0:00:15.51,Narration,,0,0,0,,现在就买美泰公司《一战再战》角色玩偶\N{\rNarrationEng}Now bring the battle home with "One Battle After Another"
 Dialogue: 0,0:00:14.06,0:00:15.97,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶{\b0}
 Dialogue: 0,0:00:15.53,0:00:17.38,Narration,,0,0,0,,在家重温每场激战\N{\rNarrationEng}action figures from Mattel.
@@ -33,6 +33,36 @@ Dialogue: 0,0:00:22.48,0:00:24.67,Default,,0,0,0,,\N孩子们 欢迎加入革命
 Dialogue: 0,0:00:24.69,0:00:26.75,Default,,0,0,0,,一起去打恶魔吧\N{\rEng}Now fight them demons.
 Dialogue: 0,0:00:26.76,0:00:28.30,Default,,0,0,0,,太酷了\N{\rEng}Awesome!
 Dialogue: 0,0:00:28.39,0:00:31.12,Narration,,0,0,0,,出自备受好评的保罗·托马斯·安德森\N{\rNarrationEng}All your favorite heroes and villains from Paul Thomas Anderson's
+Dialogue: 0,0:00:30.90,0:00:30.94,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1652,336)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:30.94,0:00:30.98,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1652.74,335.79)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:30.98,0:00:31.02,Screen,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1652.67,335.7)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.02,0:00:31.07,Screen,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1653.19,335.59)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.07,0:00:31.11,Screen,,0,0,0,,{=12}{\fscx99.97\fscy99.97\fs50\i1\frz2.276\pos(1653.16,335.85)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.11,0:00:31.15,Screen,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1654.19,335.6)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.15,0:00:31.19,Screen,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1655.64,335.65)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.19,0:00:31.23,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1655.99,335.79)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.23,0:00:31.27,Screen,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1656.57,335.69)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.27,0:00:31.32,Screen,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1656.05,335.71)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.32,0:00:31.36,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1656.98,335.52)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.36,0:00:31.40,Screen,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1657.17,335.77)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.40,0:00:31.44,Screen,,0,0,0,,{=12}{\fscx100.05\fscy100.05\fs50\i1\frz2.276\pos(1658.48,335.64)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.44,0:00:31.48,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1659.05,335.85)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.48,0:00:31.52,Screen,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1659.95,335.77)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.52,0:00:31.57,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1660.47,336.03)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.57,0:00:31.61,Screen,,0,0,0,,{=12}{\fscx100.02\fscy100.02\fs50\i1\frz2.276\pos(1661.29,335.73)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.61,0:00:31.65,Screen,,0,0,0,,{=12}{\fscx99.97\fscy99.97\fs50\i1\frz2.276\pos(1661.15,335.78)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.65,0:00:31.69,Screen,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1661.73,335.45)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.69,0:00:31.73,Screen,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1662.05,335.4)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.73,0:00:31.77,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1662.55,334.99)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.77,0:00:31.82,Screen,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1662.57,335.04)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.82,0:00:31.86,Screen,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1663,334.98)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.86,0:00:31.90,Screen,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1663.06,335.15)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.90,0:00:31.94,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1663.14,334.8)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.94,0:00:31.98,Screen,,0,0,0,,{=12}{\fscx100.04\fscy100.04\fs50\i1\frz2.276\pos(1663.14,334.99)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:31.98,0:00:32.02,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1662.99,334.85)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:32.02,0:00:32.07,Screen,,0,0,0,,{=12}{\fscx100.02\fscy100.02\fs50\i1\frz2.276\pos(1662.49,334.93)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:32.07,0:00:32.11,Screen,,0,0,0,,{=12}{\fscx100.02\fscy100.02\fs50\i1\frz2.276\pos(1663.13,334.56)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:32.11,0:00:32.15,Screen,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1662.68,334.88)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
 Dialogue: 0,0:00:28.51,0:00:34.39,Screen,,0,0,0,,{\pos(1852,86)\an9\b1}《一战再战》角色玩偶{\b0}\N{\fs65}美泰出品
 Dialogue: 0,0:00:31.14,0:00:34.51,Narration,,0,0,0,,抗击种族暴政的杰作\N{\rNarrationEng}critically lauded masterpiece about resistance in the face of racial tyranny
 Dialogue: 0,0:00:34.52,0:00:36.15,Narration,,0,0,0,,片中所有英雄和反派 现在尽在你掌中\N{\rNarrationEng}now in the palm of your hands.
@@ -80,15 +110,16 @@ Dialogue: 0,0:01:51.24,0:01:52.94,Screen,,0,0,0,,{\an8\b1}沙漠路拼装{\b0\fs
 Dialogue: 0,0:01:53.05,0:01:54.84,Narration,,0,0,0,,现在就买美泰公司《一战再战》\N{\rNarrationEng}"One Battle After Another" action figures,
 Dialogue: 0,0:01:53.05,0:01:55.51,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋
 Dialogue: 0,0:01:54.85,0:01:56.64,Narration,,0,0,0,,角色玩偶 载具和场景小屋\N{\rNarrationEng}vehicles, and playsets from Mattel.
-Dialogue: 0,0:01:55.51,0:01:56.73,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋{\b0\fs65}\N美泰出品
+Dialogue: 0,0:01:55.51,0:01:56.67,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋{\b0\fs65}\N美泰出品
 Dialogue: 0,0:01:56.99,0:01:59.34,Narration,,0,0,0,,还有保罗·托马斯·安德森的更多杰作可供选择\N{\rNarrationEng}Part of the Paul Thomas Anderson master set.
 Dialogue: 0,0:01:56.99,0:01:57.70,Screen,,0,0,0,,{\an8}《私恋失调》
 Dialogue: 0,0:01:57.70,0:01:58.28,Screen,,0,0,0,,{\an8}《木兰花》
 Dialogue: 0,0:01:58.28,0:01:59.16,Screen,,0,0,0,,{\an8}《不羁夜》
-Dialogue: 0,0:01:59.36,0:02:01.00,Default,,0,0,0,,“我抛下了我的孩子”\N{\rEng}I've abandoned my child!
-Dialogue: 0,0:01:59.36,0:02:00.82,Note,,0,0,0,,{\an8}【译注：出自《血色将至》】
-Dialogue: 0,0:02:01.02,0:02:02.68,Default,,0,0,0,,“我抛下了我的孩子”\N{\rEng}I've abandoned my child!
-Dialogue: 0,0:02:02.70,0:02:06.33,Default,,0,0,0,,“我竟然抛下了我的儿子啊”\N{\rEng}I've abandoned my boy!
-Dialogue: 0,0:02:08.38,0:02:10.49,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}周六夜现场喜剧《玩具广告》\N{\fs40}蒙太奇字幕组 原创译制
-Dialogue: 0,0:02:10.50,0:02:12.70,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}字幕贡献者\N{\fs40}翻译/时间轴：小p\N后期/合成：
-Dialogue: 0,0:02:12.71,0:02:18.35,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
+Dialogue: 0,0:01:59.36,0:02:00.95,Default,,0,0,0,,“我把儿子丢下了”\N{\rEng}I've abandoned my child!
+Dialogue: 0,0:01:59.36,0:02:00.82,Note,,0,0,0,,{\an8}【出自《血色将至》】
+Dialogue: 0,0:02:00.99,0:02:02.68,Default,,0,0,0,,“我把儿子丢下了”\N{\rEng}I've abandoned my child!
+Dialogue: 0,0:02:02.70,0:02:06.33,Default,,0,0,0,,“我亲手抛下了他啊”\N{\rEng}I've abandoned my boy!
+Dialogue: 0,0:02:08.38,0:02:10.49,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}周六夜现场（SNL）喜剧《玩具广告》\N{\fs40}蒙太奇字幕组 原创译制
+Dialogue: 0,0:02:10.51,0:02:13.16,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}字幕贡献者\N{\fs40}翻译/时间轴：小p\N后期/合成：novaeye & 粑粑人
+Dialogue: 0,0:02:13.17,0:02:15.91,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}部分台词和特效参考\N{\fs40}蒙太奇字幕组出品的《一战再战》电影字幕\N贡献：蒙太奇字幕组 & 上译
+Dialogue: 0,0:02:15.92,0:02:18.35,Note,,0,0,0,,{\an5\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
