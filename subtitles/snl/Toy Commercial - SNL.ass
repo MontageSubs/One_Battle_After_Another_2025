@@ -93,7 +93,7 @@ Dialogue: 0,0:01:19.57,0:01:21.67,Default,,0,0,0,,遵命 长官\N{\rEng}Okay. Ye
 Dialogue: 0,0:01:21.81,0:01:23.09,Default,,0,0,0,,“你喜欢黑妞吗?”\N{\rEng}Do you like black girls?
 Dialogue: 0,0:01:23.11,0:01:24.60,Default,,0,0,0,,- 什么? - “我爱死她们了”\N{\rEng}- What? - 'Cause I love 'em.
 Dialogue: 0,0:01:24.62,0:01:25.94,Default,,0,0,0,,“爱死她们了!”\N{\rEng}I love 'em!
-Dialogue: 0,0:01:25.95,0:01:30.02,Narration,,0,0,0,,还可购买《一战再战》场景小屋把你的战斗体验升级\N{\rNarrationEng}Plus, take your battles to the next level with "One Battle After Another" playsets,
+Dialogue: 0,0:01:25.95,0:01:30.02,Narration,,0,0,0,,还可购买《一战再战》场景拼装把你的战斗体验升级\N{\rNarrationEng}Plus, take your battles to the next level with "One Battle After Another" playsets,
 Dialogue: 0,0:01:27.53,0:01:30.03,Screen,,0,0,0,,{\an8\b1}瑟吉奥公寓 银行 春歧途酒店
 Dialogue: 0,0:01:30.03,0:01:31.74,Narration,,0,0,0,,比如瑟吉奥大师的公寓\N{\rNarrationEng}like Sensei Sergio's apartment,
 Dialogue: 0,0:01:30.10,0:01:31.53,Screen,,0,0,0,,{\pos(960,377)\b1}瑟吉奥大师的公寓
@@ -108,9 +108,9 @@ Dialogue: 0,0:01:49.81,0:01:52.94,Narration,,0,0,0,,开在沙漠路上 尽享50�
 Dialogue: 0,0:01:49.94,0:01:51.24,Screen,,0,0,0,,{\an8\b1}沙漠路拼装{\b0\fs65} 50片
 Dialogue: 0,0:01:51.24,0:01:52.94,Screen,,0,0,0,,{\an8\b1}沙漠路拼装{\b0\fs65} 50片\N尽享人生起伏
 Dialogue: 0,0:01:53.05,0:01:54.84,Narration,,0,0,0,,现在就买美泰公司《一战再战》\N{\rNarrationEng}"One Battle After Another" action figures,
-Dialogue: 0,0:01:53.05,0:01:55.51,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋
-Dialogue: 0,0:01:54.85,0:01:56.64,Narration,,0,0,0,,角色玩偶 载具和场景小屋\N{\rNarrationEng}vehicles, and playsets from Mattel.
-Dialogue: 0,0:01:55.51,0:01:56.67,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景小屋{\b0\fs65}\N美泰出品
+Dialogue: 0,0:01:53.05,0:01:55.51,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景拼装
+Dialogue: 0,0:01:54.85,0:01:56.64,Narration,,0,0,0,,角色玩偶 载具和场景拼装\N{\rNarrationEng}vehicles, and playsets from Mattel.
+Dialogue: 0,0:01:55.51,0:01:56.67,Screen,,0,0,0,,{\pos(960,650)\an8\b1}《一战再战》角色玩偶 载具 场景拼装{\b0\fs65}\N美泰出品
 Dialogue: 0,0:01:56.99,0:01:59.34,Narration,,0,0,0,,还有保罗·托马斯·安德森的更多杰作可供选择\N{\rNarrationEng}Part of the Paul Thomas Anderson master set.
 Dialogue: 0,0:01:56.99,0:01:57.70,Screen,,0,0,0,,{\an8}《私恋失调》
 Dialogue: 0,0:01:57.70,0:01:58.28,Screen,,0,0,0,,{\an8}《木兰花》
