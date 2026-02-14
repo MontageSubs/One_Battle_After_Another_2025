@@ -12,7 +12,7 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Microsoft YaHei,90,&H00DAE3E6,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100.0,0,0,1,1,0,2,5,5,10,1
-Style: Eng,Segoe Print,70,&H000E9AF3,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0,0,0,1
+Style: Eng,Segoe Print,70,&H000E9AF3,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0,0,10,1
 Style: Texiao,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
@@ -153,7 +153,7 @@ Dialogue: 0,0:00:16.43,0:00:16.46,Texiao,,0,0,0,,{=4}{\fscy107.26\fscx107.26\fn�
 Dialogue: 0,0:00:16.46,0:00:16.50,Texiao,,0,0,0,,{=4}{\fscy107.26\fscx107.26\fn思源黑体 CN Heavy\fs120\frz5.92\org(912.24,228.61)\c&H09080C&\bord5.36\3c&H2C25A7&\pos(936.68,62.2)}一        {\frz1.92}战          {\frz-0.08}再          {\frz-3.08}战
 Dialogue: 0,0:00:16.50,0:00:16.60,Texiao,,0,0,0,,{=4}{\fscy107.26\fscx107.26\fn思源黑体 CN Heavy\fs120\frz5.92\org(912.24,228.62)\c&H09080C&\bord5.36\3c&H2C25A7&\pos(936.69,62.2)}一        {\frz1.92}战          {\frz-0.08}再          {\frz-3.08}战
 Dialogue: 0,0:00:16.60,0:00:16.70,Texiao,,0,0,0,,{=4}{\fscy107.26\fscx107.26\fn思源黑体 CN Heavy\fs120\frz5.92\org(912.24,228.61)\c&H09080C&\bord5.36\3c&H2C25A7&\pos(936.68,62.2)}一        {\frz1.92}战          {\frz-0.08}再          {\frz-3.08}战
-Dialogue: 0,0:00:14.16,0:00:16.70,Texiao,,0,0,0,,{\fs50\i1\fn方正榜书行简体\pos(952,342)\fad(300,0)}角 色 玩 偶
+Dialogue: 0,0:00:14.16,0:00:16.70,Texiao,,0,0,0,,{\pos(955,364)\fs75\i1\fn方正榜书行简体\fad(300,0)}角 色 玩 偶
 Dialogue: 0,0:00:15.53,0:00:17.38,Default,,0,0,0,,在家重温每场激战\N{\rEng}action figures from Mattel.
 Comment: 0,0:00:15.97,0:00:16.72,Default,,0,0,0,,《一战再战》角色玩偶{\b0}\N{\rEng}美泰出品
 Dialogue: 0,0:00:19.93,0:00:22.46,Default,,0,0,0,,是叛娅·富山!\N{\rEng}Perfidia Beverly Hills!
