@@ -9,9 +9,19 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: 123.mp4
+Video File: 123.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 491
+Active Line: 502
+Video Position: 3443
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Microsoft YaHei,90,&H00DAE3E6,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100.0,0,0,1,1,0,2,5,5,10,1
+Style: Default,Microsoft YaHei,90,&H00DAE3E6,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,5,5,10,1
 Style: Eng,Segoe Print,70,&H000E9AF3,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0,0,10,1
 Style: Texiao,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
@@ -162,38 +172,9 @@ Dialogue: 0,0:00:24.69,0:00:26.75,Default,,0,0,0,,一起去打恶魔吧\N{\rEng}
 Dialogue: 0,0:00:26.76,0:00:28.30,Default,,0,0,0,,太酷了\N{\rEng}Awesome!
 Dialogue: 0,0:00:28.39,0:00:31.12,Default,,0,0,0,,出自备受好评的保罗·托马斯·安德森\N{\rEng}All your favorite heroes and villains from Paul Thomas Anderson's
 Dialogue: 0,0:00:28.47,0:00:34.39,Texiao,,0,0,0,,{\fs70\fn思源黑体 CN Heavy\frz9.426\pos(116,76)\c&H464A70&\bord3\3c&HFFFFFF&}一战再战
-Dialogue: 0,0:00:28.51,0:00:34.39,Texiao,,0,0,0,,{\fs40\fn思源黑体 CN Bold\c&HEEF3FD&\\frz16.71\pos(1827.067,1034.133)}美泰\N\N出品  
+Dialogue: 0,0:00:28.51,0:00:34.39,Texiao,,0,0,0,,{\fs40\fn思源黑体 CN Bold\c&HEEF3FD&\\frz16.71\pos(1827.067,1034.133)}美泰\N\N出品
 Dialogue: 0,0:00:28.47,0:00:34.39,Texiao,,0,0,0,,{\fs40\fn思源黑体 CN Heavy\c&HFFFFFF&\&\pos(286,294)\frz10.92\frx6\fry10}角色玩偶
-Dialogue: 0,0:00:30.90,0:00:30.94,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1652,336)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:30.94,0:00:30.98,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1652.74,335.79)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:30.98,0:00:31.02,Default,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1652.67,335.7)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.02,0:00:31.07,Default,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1653.19,335.59)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.07,0:00:31.11,Default,,0,0,0,,{=12}{\fscx99.97\fscy99.97\fs50\i1\frz2.276\pos(1653.16,335.85)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.11,0:00:31.15,Default,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1654.19,335.6)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.15,0:00:31.19,Default,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1655.64,335.65)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.19,0:00:31.23,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1655.99,335.79)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.23,0:00:31.27,Default,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1656.57,335.69)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.27,0:00:31.32,Default,,0,0,0,,{=12}{\fscx99.98\fscy99.98\fs50\i1\frz2.276\pos(1656.05,335.71)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.32,0:00:31.36,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1656.98,335.52)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.36,0:00:31.40,Default,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1657.17,335.77)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.40,0:00:31.44,Default,,0,0,0,,{=12}{\fscx100.05\fscy100.05\fs50\i1\frz2.276\pos(1658.48,335.64)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.44,0:00:31.48,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1659.05,335.85)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.48,0:00:31.52,Default,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1659.95,335.77)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.52,0:00:31.57,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1660.47,336.03)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.57,0:00:31.61,Default,,0,0,0,,{=12}{\fscx100.02\fscy100.02\fs50\i1\frz2.276\pos(1661.29,335.73)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.61,0:00:31.65,Default,,0,0,0,,{=12}{\fscx99.97\fscy99.97\fs50\i1\frz2.276\pos(1661.15,335.78)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.65,0:00:31.69,Default,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1661.73,335.45)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.69,0:00:31.73,Default,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1662.05,335.4)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.73,0:00:31.77,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1662.55,334.99)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.77,0:00:31.82,Default,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1662.57,335.04)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.82,0:00:31.86,Default,,0,0,0,,{=12}{\fscx99.99\fscy99.99\fs50\i1\frz2.276\pos(1663,334.98)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.86,0:00:31.90,Default,,0,0,0,,{=12}{\fscx100.01\fscy100.01\fs50\i1\frz2.276\pos(1663.06,335.15)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.90,0:00:31.94,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1663.14,334.8)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.94,0:00:31.98,Default,,0,0,0,,{=12}{\fscx100.04\fscy100.04\fs50\i1\frz2.276\pos(1663.14,334.99)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:31.98,0:00:32.02,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1662.99,334.85)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:32.02,0:00:32.07,Default,,0,0,0,,{=12}{\fscx100.02\fscy100.02\fs50\i1\frz2.276\pos(1662.49,334.93)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:32.07,0:00:32.11,Default,,0,0,0,,{=12}{\fscx100.02\fscy100.02\fs50\i1\frz2.276\pos(1663.13,334.56)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
-Dialogue: 0,0:00:32.11,0:00:32.15,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\pos(1662.68,334.88)\c&H5F6B4A&\bord3\3c&HB2D2DC&}私人定制课程\N学习柔道\N强身健骨{\i0}
+Dialogue: 0,0:00:30.88,0:00:32.11,Default,,0,0,0,,{=12}{\fscx100\fscy100\fs50\i1\frz2.276\c&H5F6B4A&\bord3\3c&HB2D2DC&\move(1698.4,345.6,1664,446.4,17,1218)}私人定制课程\N学习柔道\N强身健骨{\i0}
 Dialogue: 0,0:00:31.14,0:00:34.51,Default,,0,0,0,,抗击种族暴政的杰作\N{\rEng}critically lauded masterpiece about resistance in the face of racial tyranny
 Dialogue: 0,0:00:34.52,0:00:36.15,Default,,0,0,0,,片中所有英雄和反派 现在尽在你掌中\N{\rEng}now in the palm of your hands.
 Dialogue: 0,0:00:36.16,0:00:37.13,Default,,0,0,0,,太棒了\N{\rEng}Yeah!
@@ -548,7 +529,7 @@ Dialogue: 0,0:01:52.89,0:01:52.92,Texiao,,0,0,0,,{=21}{\fscy110.36\fscx110.36\an
 Dialogue: 0,0:01:53.05,0:01:54.84,Default,,0,0,0,,现在就买美泰公司《一战再战》\N{\rEng}"One Battle After Another" action figures,
 Dialogue: 0,0:01:53.05,0:01:56.72,Default,,0,0,0,,{\fscy100\fscx100\fn思源黑体 CN Heavy\fs120\frz5\org(924.8,304.53)\move(950.08,149.76,920,64,0,196)\c&H09080C&\bord15\3c&HFFFFFF&}一        {\frz1}战          {\frz-1}再          {\frz-4}战
 Dialogue: 0,0:01:53.05,0:01:56.72,Default,,0,0,0,,{\fscy100\fscx100\fn思源黑体 CN Heavy\fs120\frz5\org(924.8,304.53)\c&H09080C&\bord5\3c&H2C25A7&\move(950.08,149.76,920,64,0,196)}一        {\frz1}战          {\frz-1}再          {\frz-4}战
-Comment: 0,0:01:54.85,0:01:56.64,Default,,0,0,0,,角色玩偶 载具和场景拼装\N{\rEng}vehicles, and playsets from Mattel.
+Dialogue: 0,0:01:54.85,0:01:56.64,Default,,0,0,0,,角色玩偶 载具和场景拼装\N{\rEng}vehicles, and playsets from Mattel.
 Dialogue: 0,0:01:53.31,0:01:56.72,Texiao,,0,0,0,,{\pos(940,395)\fs75\i1\fn方正榜书行简体\fad(300,0)}角色玩偶 载具 场景拼装
 Dialogue: 0,0:01:55.57,0:01:56.77,Texiao,,0,0,0,,{\pos(1734,1002)\frz16.7\fs55\fn思源黑体 CN Bold\c&HEEF3FD&\}美泰\N\N出品
 Dialogue: 0,0:01:56.99,0:01:59.34,Default,,0,0,0,,还有保罗·托马斯·安德森的更多杰作可供选择\N{\rEng}Part of the Paul Thomas Anderson master set.
